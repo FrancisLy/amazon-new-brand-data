@@ -47,5 +47,7 @@ jobs:
             echo "data/ 无变化，跳过提交"
           else
             git commit -m "chore(data): 更新 $(date -u +%Y-%m-%d) 商家快照"
+            # 远端可能有新提交（如代码更新），先 rebase 再 push，避免冲突
+            git pull --rebase origin main
             git push
           fi
