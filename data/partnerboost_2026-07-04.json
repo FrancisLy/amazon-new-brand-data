@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "timestamp": "2026-07-04T03:54:41.501Z",
+  "timestamp": "2026-07-04T13:58:08.482Z",
   "brands": [
     {
       "id": "83717",
@@ -12886,6 +12886,11 @@
       "id": "139438",
       "name": "Aosom IT",
       "url": "https://www.amazon.it/-/en/stores/Outsunny/page/B6E6AD7A-9A09-4ADA-BF56-32AAAFA7921A?lp_asin=B06Y395YF1&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
+    },
+    {
+      "id": "139441",
+      "name": "moreximi",
+      "url": "https://www.amazon.com/stores/MOREXIMI/page/4DCC729C-5248-4B23-AD71-A369D3D39951lp_asin=B0G39B7D8K&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
     },
     {
       "id": "139442",
