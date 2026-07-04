@@ -1,0 +1,51 @@
+name: 每日商家上新对比
+
+on:
+  schedule:
+    # UTC 00:00 = 北京时间 08:00（GitHub cron 用 UTC）
+    - cron: '0 0 * * *'
+  # 支持手动触发，便于验证
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 允许任务把新生成的历史数据 push 回仓库
+
+jobs:
+  run-daily-task:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 检出代码（含历史数据 data/）
+        uses: actions/checkout@v4
+
+      - name: 配置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 执行每日对比任务
+        env:
+          LEVANTA_API_KEY: ${{ secrets.LEVANTA_API_KEY }}
+          PARTNERBOOST_API_KEY: ${{ secrets.PARTNERBOOST_API_KEY }}
+          WAYWARD_API_KEY: ${{ secrets.WAYWARD_API_KEY }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
+        run: node -e "require('./index.js').runDailyTask().catch(e=>{console.error(e);process.exit(1);})"
+
+      - name: 提交并推送最新历史数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "data/ 无变化，跳过提交"
+          else
+            git commit -m "chore(data): 更新 $(date -u +%Y-%m-%d) 商家快照"
+            git push
+          fi

@@ -1,0 +1,12 @@
+# 依赖
+node_modules/
+
+# 本地密钥（云端用 GitHub Secrets 注入，绝不提交）
+.env
+
+# 系统/编辑器
+.DS_Store
+*.log
+pm2_logs/
+.idea/
+.vscode/
