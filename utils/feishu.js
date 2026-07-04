@@ -21,7 +21,8 @@ async function sendFeishuNotification(comparisonResults, config) {
   const platformNames = {
     levanta: 'Levanta',
     partnerboost: 'PartnerBoost',
-    wayward: 'Wayward'
+    wayward: 'Wayward',
+    artemisads: 'ArtemisAds'
   };
 
   let sections = [];

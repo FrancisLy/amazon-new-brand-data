@@ -4,6 +4,7 @@ const schedule = require('node-schedule');
 const { fetchLevantaBrands } = require('./fetchers/levanta');
 const { fetchPartnerBoostBrands } = require('./fetchers/partnerboost');
 const { fetchWaywardBrands } = require('./fetchers/wayward');
+const { fetchArtemisAdsBrands } = require('./fetchers/artemisads');
 const { saveBrands, loadBrands, getYesterdayDate, compareBrands, cleanupOldHistory } = require('./utils/storage');
 const { sendFeishuNotification } = require('./utils/feishu');
 
@@ -11,6 +12,7 @@ const LEVANTA_API_KEY = process.env.LEVANTA_API_KEY;
 const PARTNERBOOST_API_KEY = process.env.PARTNERBOOST_API_KEY;
 const PARTNERBOOST_BIDS = process.env.PARTNERBOOST_BIDS;
 const WAYWARD_API_KEY = process.env.WAYWARD_API_KEY;
+const ARTEMISADS_API_KEY = process.env.ARTEMISADS_API_KEY;
 const FEISHU_APP_ID = process.env.FEISHU_APP_ID;
 const FEISHU_APP_SECRET = process.env.FEISHU_APP_SECRET;
 const FEISHU_CHAT_ID = process.env.FEISHU_CHAT_ID;
@@ -28,7 +30,8 @@ async function runDailyTask() {
     const platforms = [
       { key: 'levanta', fetch: () => fetchLevantaBrands(LEVANTA_API_KEY) },
       { key: 'partnerboost', fetch: () => fetchPartnerBoostBrands(PARTNERBOOST_API_KEY) },
-      { key: 'wayward', fetch: () => fetchWaywardBrands(WAYWARD_API_KEY) }
+      { key: 'wayward', fetch: () => fetchWaywardBrands(WAYWARD_API_KEY) },
+      { key: 'artemisads', fetch: () => fetchArtemisAdsBrands(ARTEMISADS_API_KEY) }
     ];
 
     const settled = await Promise.allSettled(platforms.map(p => p.fetch()));
@@ -56,6 +59,7 @@ async function runDailyTask() {
     console.log('Levanta:', JSON.stringify(comparisonResults.levanta));
     console.log('PartnerBoost:', JSON.stringify(comparisonResults.partnerboost));
     console.log('Wayward:', JSON.stringify(comparisonResults.wayward));
+    console.log('ArtemisAds:', JSON.stringify(comparisonResults.artemisads));
 
     await sendFeishuNotification(comparisonResults, {
       appId: FEISHU_APP_ID,

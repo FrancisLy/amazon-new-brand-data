@@ -32,6 +32,7 @@ jobs:
           LEVANTA_API_KEY: ${{ secrets.LEVANTA_API_KEY }}
           PARTNERBOOST_API_KEY: ${{ secrets.PARTNERBOOST_API_KEY }}
           WAYWARD_API_KEY: ${{ secrets.WAYWARD_API_KEY }}
+          ARTEMISADS_API_KEY: ${{ secrets.ARTEMISADS_API_KEY }}
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
