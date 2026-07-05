@@ -26,15 +26,13 @@ async function sendFeishuNotification(comparisonResults, config) {
   };
 
   let sections = [];
-  let hasChanges = false;
 
   Object.keys(comparisonResults).forEach(platform => {
     const result = comparisonResults[platform];
     const platformName = platformNames[platform] || platform;
 
-    // 获取失败：明确展示，不再静默隐藏
+    // 获取失败：明确展示
     if (result.error) {
-      hasChanges = true;
       sections.push({
         title: `⚠️ ${platformName}`,
         fields: [{
@@ -45,46 +43,41 @@ async function sendFeishuNotification(comparisonResults, config) {
       return;
     }
 
-    if (result.new.length > 0 || result.removed.length > 0) {
-      hasChanges = true;
+    // 无论有无变化，都显示该平台
+    let fields = [];
 
-      let fields = [];
-
-      if (result.new.length > 0) {
-        fields.push({
-          is_short: false,
-          text: `**今日新增 (${result.new.length}个)**\n${result.new.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.new.length > 20 ? '\n...' : ''}`
-        });
-      }
-
-      if (result.removed.length > 0) {
-        fields.push({
-          is_short: false,
-          text: `**今日下架 (${result.removed.length}个)**\n${result.removed.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.removed.length > 20 ? '\n...' : ''}`
-        });
-      }
-
+    if (result.new.length > 0) {
       fields.push({
-        is_short: true,
-        text: `**总数**: ${result.totalToday} (昨日: ${result.totalYesterday})`
-      });
-
-      sections.push({
-        title: `📊 ${platformName}`,
-        fields: fields
+        is_short: false,
+        text: `**今日新增 (${result.new.length}个)**\n${result.new.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.new.length > 20 ? '\n...' : ''}`
       });
     }
-  });
 
-  if (!hasChanges) {
-    sections.push({
-      title: '📊 今日概况',
-      fields: [{
+    if (result.removed.length > 0) {
+      fields.push({
         is_short: false,
-        text: '今日各平台商家清单无变化'
-      }]
+        text: `**今日下架 (${result.removed.length}个)**\n${result.removed.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.removed.length > 20 ? '\n...' : ''}`
+      });
+    }
+
+    // 无新增无下架时，明确提示
+    if (result.new.length === 0 && result.removed.length === 0) {
+      fields.push({
+        is_short: false,
+        text: '✅ 今日无新增/下架'
+      });
+    }
+
+    fields.push({
+      is_short: true,
+      text: `**总数**: ${result.totalToday} (昨日: ${result.totalYesterday})`
     });
-  }
+
+    sections.push({
+      title: `📊 ${platformName}`,
+      fields: fields
+    });
+  });
 
   const card = {
     config: {
