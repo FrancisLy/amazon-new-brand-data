@@ -1,21 +1,11 @@
 {
-  "date": "2026-07-04",
-  "timestamp": "2026-07-04T13:58:08.482Z",
+  "date": "2026-07-12",
+  "timestamp": "2026-07-12T03:40:16.971Z",
   "brands": [
-    {
-      "id": "83717",
-      "name": "Cololight",
-      "url": "https://www.amazon.com/stores/Cololight/page/24B64A3B-440E-4023-9930-12BA0A912EA5,https://www.amazon.co.uk/stores/page/AFE58C05-9D61-431E-BE60-0D0642B02796"
-    },
     {
       "id": "88633",
       "name": "SUOKENI",
       "url": "https://www.amazon.com/stores/page/A80A0AE0-7CDF-42D6-8D2A-94D5B09FA2A4"
-    },
-    {
-      "id": "88858",
-      "name": "LILYSILK",
-      "url": "https://www.amazon.com/stores/page/1630EE4D-36C9-4103-B43F-82511F9B36F4,https://www.amazon.ca/stores/page/768353A2-AD29-4C1F-A180-68E6952CE818,https://www.amazon.de/stores/page/4E8DF762-F027-420B-B0F2-99F9983D86F4"
     },
     {
       "id": "88868",
@@ -258,6 +248,11 @@
       "url": "https://www.amazon.com/stores/QualisportsDelightYourLife/page/B388E350-9A32-43E5-BFEC-2BBC09BED983"
     },
     {
+      "id": "94366",
+      "name": "Beijue",
+      "url": "https://www.amazon.com/stores/BeijueToy/page/A8BC9223-4FC8-4FA2-9D12-84279A7BDE6A"
+    },
+    {
       "id": "94369",
       "name": "H&B",
       "url": "https://www.amazon.com/stores/HB/page/8B692D47-6F66-4395-A9F9-F38E9A654F48"
@@ -381,11 +376,6 @@
       "id": "94687",
       "name": "Acooday",
       "url": "https://www.amazon.com/stores/Acooday/page/8F1BCFD6-BDEB-45DF-ADCB-4C1837420B4D"
-    },
-    {
-      "id": "94693",
-      "name": "PHOEBUSBABY",
-      "url": "https://www.amazon.com/stores/PHOEBUSBABY/page/BC2317A3-7252-4FCA-A3BD-1D22C117C986"
     },
     {
       "id": "94694",
@@ -948,11 +938,6 @@
       "url": "https://www.amazon.com/stores/DANCHELOUTDOOR/page/143C0A13-313B-4A10-9754-FD4525B3F737"
     },
     {
-      "id": "97262",
-      "name": "GANCUBE",
-      "url": "https://www.amazon.com/stores/page/A2BC5593-53F9-4015-ACE4-8A676E545007"
-    },
-    {
       "id": "97263",
       "name": "Fuvdreamer",
       "url": "https://www.amazon.ca/s"
@@ -996,6 +981,11 @@
       "id": "98302",
       "name": "VICHOCCA",
       "url": "https://www.amazon.com/stores/page/B8A2AF66-397B-45D6-B246-BCD834E369B4"
+    },
+    {
+      "id": "98309",
+      "name": "LANGXUN",
+      "url": "https://www.amazon.com/stores/LANGXUN/page/6BC95259-D8E2-4505-A9D4-79DECF512E60"
     },
     {
       "id": "98313",
@@ -1121,11 +1111,6 @@
       "id": "98790",
       "name": "Yawyard",
       "url": "https://www.amazon.com/stores/YawyardCompany/page/0B689958-4D6C-4DC5-9CF9-BBE4CF94CC0C"
-    },
-    {
-      "id": "98802",
-      "name": "XMCOSY+",
-      "url": "https://www.amazon.com/stores/page/2EF2F180-9800-4B54-9CBE-21271B740DED"
     },
     {
       "id": "98809",
@@ -1296,11 +1281,6 @@
       "id": "100883",
       "name": "Eureka Spain",
       "url": "https://www.amazon.es/stores/page/F2939BAC-A9D5-40E4-9C75-132C2F8585BD"
-    },
-    {
-      "id": "100884",
-      "name": "RUNHELIX  shaiwa",
-      "url": "https://www.amazon.com/stores/RUNHELIX/page/849DDD2A-1288-4A95-A8F8-86AC77AE5E13"
     },
     {
       "id": "100888",
@@ -1613,6 +1593,11 @@
       "url": "https://www.amazon.com/stores/page/CC469A5F-2192-49B4-A04A-3B91AF40A9E0"
     },
     {
+      "id": "103156",
+      "name": "AMOJI",
+      "url": "https://www.amazon.com/stores/AMOJI/page/87D5CA1A-3C98-41E5-B02D-129DC2B8AB93"
+    },
+    {
       "id": "103157",
       "name": "ItsUHair",
       "url": "https://www.amazon.com/stores/ItsUHair/page/1D0A6DA6-9915-4902-B173-AB5B859A54E5"
@@ -1646,11 +1631,6 @@
       "id": "103178",
       "name": "HeroSet",
       "url": "https://www.amazon.com/stores/HeroSet/page/F1E8AFF5-9D7C-4B83-9EC6-FD7E2ED5C3E5"
-    },
-    {
-      "id": "103180",
-      "name": "GANCUBE_CA",
-      "url": "https://www.amazon.ca/stores/GANCUBE/page/EBC4D22D-841E-47DA-99D0-276EC67FB8C6"
     },
     {
       "id": "103181",
@@ -1868,11 +1848,6 @@
       "url": "https://www.amazon.com/stores/GLEEHAPY/page/D5BCE0C1-3761-44B4-9C17-1EBE8FE19D5C"
     },
     {
-      "id": "103411",
-      "name": "Ayge",
-      "url": "https://www.amazon.com/sp"
-    },
-    {
       "id": "103413",
       "name": "Gavliuu",
       "url": "https://www.amazon.com/stores/HOME/page/FEA3CAC2-1020-44DD-99CE-6D66DF663DB1"
@@ -1906,11 +1881,6 @@
       "id": "103593",
       "name": "Sunnyholiday",
       "url": "https://www.amazon.com/s"
-    },
-    {
-      "id": "103595",
-      "name": "GANCUBE_MX",
-      "url": "https://www.amazon.com.mx/gan"
     },
     {
       "id": "103597",
@@ -2098,11 +2068,6 @@
       "url": "https://www.amazon.com/stores/PerZeal/page/591C6DBF-324D-4131-B4E7-06D039EC9A45"
     },
     {
-      "id": "103890",
-      "name": "Bestglory",
-      "url": "https://www.amazon.com/stores/Bestglory/page/2E701E33-AD47-46AF-AE37-B41E045DAA41"
-    },
-    {
       "id": "103891",
       "name": "XSZD",
       "url": "https://www.amazon.com/stores/XSZD/page/5DCDEA40-FF8F-426C-B2A8-0B71E5B419C3"
@@ -2163,21 +2128,6 @@
       "url": "https://www.amazon.de/stores/Eigshow/page/0AAEE09C-5685-4A6D-B645-06AEC4E0F87D"
     },
     {
-      "id": "104021",
-      "name": "wyewye-zlh",
-      "url": "https://www.amazon.com/stores/wyewye/page/3C25D7A9-4DF8-4280-AD6A-402CB82BA1D0"
-    },
-    {
-      "id": "104022",
-      "name": "wyewye sahiwa",
-      "url": "https://www.amazon.com/stores/page/10CAFA4A-BE8A-44E4-B8BD-61CB0265B993"
-    },
-    {
-      "id": "104026",
-      "name": "RUN HELIX changce",
-      "url": "https://www.amazon.com/s"
-    },
-    {
       "id": "104032",
       "name": "Homepeaz",
       "url": "https://www.amazon.com/stores/Homepeaz/page/4570CAAD-E30B-4F5D-8BE4-0497B9EA102A"
@@ -2191,11 +2141,6 @@
       "id": "104036",
       "name": "Blusonno",
       "url": "https://www.amazon.com/stores/page/BAC1313E-9BED-49ED-A2FA-D497F66A77E4"
-    },
-    {
-      "id": "104037",
-      "name": "UHOUSEST",
-      "url": "https://www.amazon.com/stores/page/70882D83-D833-4D51-BE21-2E4918F00413"
     },
     {
       "id": "104046",
@@ -2258,19 +2203,9 @@
       "url": "https://www.amazon.co.uk/stores/page/C1A9BE72-1994-4B70-86CE-021BCC76E864"
     },
     {
-      "id": "104262",
-      "name": "Cololight Amazon US",
-      "url": "https://www.amazon.com/stores/Cololight/page/24B64A3B-440E-4023-9930-12BA0A912EA5"
-    },
-    {
       "id": "104263",
       "name": "TURNART",
       "url": "https://www.amazon.com/stores/TURNART/page/551FD2D2-ADFE-4308-9681-A58FBB63F628"
-    },
-    {
-      "id": "104264",
-      "name": "Cololight Amazon UK",
-      "url": "https://www.amazon.co.uk/stores/page/AFE58C05-9D61-431E-BE60-0D0642B02796"
     },
     {
       "id": "104267",
@@ -2311,11 +2246,6 @@
       "id": "104288",
       "name": "YUSHOW",
       "url": "https://www.amazon.com/stores/YUSHOW/page/53AE09CF-F575-49E1-BA7A-95CDF09DEEE5"
-    },
-    {
-      "id": "104291",
-      "name": "RUNHELIXkdg",
-      "url": "https://www.amazon.com/runhelix"
     },
     {
       "id": "104293",
@@ -2516,36 +2446,6 @@
       "id": "105802",
       "name": "ProDENT",
       "url": "https://www.amazon.com/stores/IntraoralCamera/page/278C0046-F4B7-492C-A3A6-D500B09871CC"
-    },
-    {
-      "id": "105806",
-      "name": "GANCUBE_UK",
-      "url": "https://www.amazon.co.uk/stores/GANCUBEUK/page/2B558CFD-563D-432E-99DF-4FC7EAE26B26"
-    },
-    {
-      "id": "105807",
-      "name": "GANCUBE_DE",
-      "url": "https://www.amazon.de/stores/page/11BE5BD7-509A-4C01-806C-184963DBDA32"
-    },
-    {
-      "id": "105808",
-      "name": "GANCUBE_FR",
-      "url": "https://www.amazon.fr/stores/page/3149892B-6D24-4009-AE83-9D000E5DEE4B"
-    },
-    {
-      "id": "105809",
-      "name": "GANCUBE_IT",
-      "url": "https://www.amazon.it/stores/page/0F1F4656-32B8-40CD-9B84-AEB5C305FB74"
-    },
-    {
-      "id": "105810",
-      "name": "GANCUBE_ES",
-      "url": "https://www.amazon.es/stores/GANCUBEES/page/051EB7B4-D785-4890-A801-4DD3C26756F1"
-    },
-    {
-      "id": "105811",
-      "name": "GANCUBE_NL",
-      "url": "https://www.amazon.nl/stores/GANCUBENL/page/0766AEE9-D510-4CD3-83A2-74A1A9FCEABC"
     },
     {
       "id": "105812",
@@ -2933,11 +2833,6 @@
       "url": "https://www.amazon.es/stores/KOSPET/page/51FE3066-EF2B-487F-B5E8-BF0971C07CF6"
     },
     {
-      "id": "107138",
-      "name": "wyewye-ZL-Hightech",
-      "url": "https://www.amazon.com/dp/B07NXZYFKW"
-    },
-    {
       "id": "107141",
       "name": "SUERBEATY",
       "url": "https://www.amazon.com/stores/SUERBEATY/page/891E7778-8747-429E-A830-A962D9F79C4F"
@@ -3008,11 +2903,6 @@
       "url": "https://www.amazon.com/s"
     },
     {
-      "id": "107180",
-      "name": "YPY",
-      "url": "https://www.amazon.com/stores/YPY/page/9E92E626-90BA-466B-8F61-CC3EF177D9B0"
-    },
-    {
       "id": "107440",
       "name": "fitaos",
       "url": "https://www.amazon.com/veepoo"
@@ -3035,6 +2925,11 @@
     {
       "id": "111436",
       "name": "VICT POPU US -CHAI",
+      "url": "https://www.amazon.com/s"
+    },
+    {
+      "id": "111864",
+      "name": "Heyworld",
       "url": "https://www.amazon.com/s"
     },
     {
@@ -3128,11 +3023,6 @@
       "url": "https://www.amazon.com/s"
     },
     {
-      "id": "112927",
-      "name": "BUTIYOU",
-      "url": "https://www.amazon.com/stores/page/1F574F5C-CE7A-4956-B22A-8ACAA865B41B"
-    },
-    {
       "id": "112932",
       "name": "BELANKO",
       "url": "https://www.amazon.com/stores/BELANKO/page/32B67E45-BF03-4622-BBB8-71A71E861754"
@@ -3178,9 +3068,9 @@
       "url": "https://www.amazon.com/stores/CakCity/page/2634248D-0B70-4A36-A29F-CCB19C526BBB"
     },
     {
-      "id": "112960",
-      "name": "Azwkj",
-      "url": "https://www.amazon.com/sp"
+      "id": "112959",
+      "name": "Boltigen",
+      "url": "https://www.amazon.com/s"
     },
     {
       "id": "112962",
@@ -3321,21 +3211,6 @@
       "id": "122004",
       "name": "vorixa",
       "url": "https://www.amazon.com/s"
-    },
-    {
-      "id": "122005",
-      "name": "AtHope",
-      "url": "https://www.amazon.com/stores/AtHope/page/F3C5F087-2815-4903-A279-B14DA3F6C8B4"
-    },
-    {
-      "id": "122006",
-      "name": "Brick Attic",
-      "url": "https://www.amazon.com/stores/BrickAttic/page/A645F6FD-6963-4BF3-A2B9-797097903786"
-    },
-    {
-      "id": "122007",
-      "name": "FINATI",
-      "url": "https://www.amazon.com/stores/FINATI/page/4B6F4EB7-A6AC-4D8C-A4F4-B4296FFBD077"
     },
     {
       "id": "122011",
@@ -3606,11 +3481,6 @@
       "id": "122651",
       "name": "TyBox",
       "url": "https://www.amazon.com/s"
-    },
-    {
-      "id": "122652",
-      "name": "Simpure",
-      "url": "https://www.amazon.com/stores/Simpure/page/F1DB0639-2D1A-4761-B06B-6014753F5276"
     },
     {
       "id": "122664",
@@ -4128,16 +3998,6 @@
       "url": "https://www.amazon.fr/stores/page/DA6402A7-865F-479F-8ED3-3D9D3378ADF1"
     },
     {
-      "id": "127319",
-      "name": "lounzy",
-      "url": "https://www.amazon.com/sp"
-    },
-    {
-      "id": "127423",
-      "name": "VNIUP",
-      "url": "https://www.amazon.com/s"
-    },
-    {
       "id": "127451",
       "name": "AUTOPkio-UK",
       "url": "https://www.amazon.co.uk/stores/AUTOPkio/page/DECB45BF-1B4D-484E-AE60-E700A3E8F841"
@@ -4231,6 +4091,11 @@
       "id": "128087",
       "name": "OYOWOOA(US）",
       "url": "https://www.amazon.com/s"
+    },
+    {
+      "id": "128091",
+      "name": "Beatbot Amazon DE",
+      "url": "https://www.amazon.de/stores/page/2E158B2C-1DC9-4391-9211-0B5AEDE070A6"
     },
     {
       "id": "128092",
@@ -4838,11 +4703,6 @@
       "url": "https://www.amazon.com/stores/Stedi/page/EC5B1C0A-7466-4BA4-9FD6-985F258ACE27"
     },
     {
-      "id": "135817",
-      "name": "MOFT",
-      "url": "https://www.amazon.com/stores/page/8304B9F2-B211-41B8-BBC2-4B40CD8857E8"
-    },
-    {
       "id": "135819",
       "name": "Midea MECO US",
       "url": "https://www.amazon.com/stores/ToshibaKitchen/page/1B424696-C76B-4444-863F-A292D8BF0D89"
@@ -4903,11 +4763,6 @@
       "url": "https://www.amazon.com/stores/MakovalBrand/page/232F6BFD-16DD-414A-8BA1-DD675D8D5711"
     },
     {
-      "id": "135886",
-      "name": "NEST BLANCHE",
-      "url": "https://www.amazon.com/stores/page/723B74C3-3722-4889-AFF7-A5ED7A913159"
-    },
-    {
       "id": "135892",
       "name": "HAPPRUN",
       "url": "https://www.amazon.com/stores/page/0C357483-A7C6-4D03-9B65-D135AFC7D8D9"
@@ -4943,11 +4798,6 @@
       "url": "https://www.amazon.es/stores/page/5A49D6D3-343A-4EF2-8A5F-311A6C8E004B"
     },
     {
-      "id": "136167",
-      "name": "MANZI",
-      "url": "https://www.amazon.com/stores/page/78B16DFE-7420-47EB-A024-B66F4B21CF14"
-    },
-    {
       "id": "136399",
       "name": "EarFun",
       "url": "https://www.amazon.com/stores/page/17D9F930-E7B2-43E0-AFC9-E817D9307CB1"
@@ -4961,11 +4811,6 @@
       "id": "136402",
       "name": "NARWAL DE",
       "url": "https://www.amazon.de/stores/page/A5A17A94-7C78-4C44-A644-C5AF6BA43DA3"
-    },
-    {
-      "id": "136403",
-      "name": "GreatStar Tools",
-      "url": "https://www.amazon.com/stores/page/329B0EAF-316E-4008-80FB-FE6B369C6519"
     },
     {
       "id": "136406",
@@ -4993,9 +4838,9 @@
       "url": "https://www.amazon.it/waterdrop"
     },
     {
-      "id": "136412",
-      "name": "Kaya Dpot",
-      "url": "https://www.amazon.com/stores/page/6D38D3AD-E536-47E7-A283-2DCB71DA4959"
+      "id": "136417",
+      "name": "Fanovo",
+      "url": "https://www.amazon.com/s"
     },
     {
       "id": "136418",
@@ -5173,11 +5018,6 @@
       "url": "https://www.amazon.com/stores/SOXONO/page/9271CCCC-B2DF-4BB7-930E-E621F43AC8EA"
     },
     {
-      "id": "136488",
-      "name": "GONIM",
-      "url": "https://www.amazon.com/stores/page/5D27743D-C6E1-4FBE-9031-950B17B45C17"
-    },
-    {
       "id": "136489",
       "name": "Modiwell-US",
       "url": "https://www.amazon.com/stores/page/60FD0127-86A4-429C-BA6F-AEA5692579E1"
@@ -5348,11 +5188,6 @@
       "url": "https://www.amazon.com/stores/page/21796F89-1CF1-490F-BD47-4506E7777383"
     },
     {
-      "id": "136576",
-      "name": "SmartAI-DE",
-      "url": "https://www.amazon.de/stores/page/36F735F7-E69D-49F3-962C-558144C6F373"
-    },
-    {
       "id": "136579",
       "name": "Magiccos",
       "url": "https://www.amazon.com/stores/page/831C7486-0DC0-4DE4-ABD1-AB36EEF18BDE"
@@ -5398,21 +5233,6 @@
       "url": "https://www.amazon.com/stores/page/89B05726-FF51-41E3-9480-DF6A5F2FBDC6"
     },
     {
-      "id": "136603",
-      "name": "RALCAM",
-      "url": "https://www.amazon.com/stores/page/CAE681AA-3608-43B3-8A75-2276CD1E18DC"
-    },
-    {
-      "id": "136607",
-      "name": "SMARTAI-FR",
-      "url": "https://www.amazon.fr/stores/page/78352BCD-47F0-4663-8C4C-95329E91E7AA"
-    },
-    {
-      "id": "136608",
-      "name": "SmartAI-ES",
-      "url": "https://www.amazon.es/stores/page/ED3A6540-CF30-4B34-AFD1-F6B9A5407200"
-    },
-    {
       "id": "136609",
       "name": "Vantrue-ES",
       "url": "https://www.amazon.es/stores/Vantrue/page/8A15BBB0-625A-4F70-9645-ABBCFC32F6B2"
@@ -5431,11 +5251,6 @@
       "id": "136613",
       "name": "Vantrue-UK",
       "url": "https://www.amazon.co.uk/stores/VANTRUE/page/A464455F-32E8-41F8-A661-3560B649955A"
-    },
-    {
-      "id": "136615",
-      "name": "SmartAI-IT",
-      "url": "https://www.amazon.it/stores/page/0D0A2CAA-90E6-46B7-A543-8E3BDD9473F5"
     },
     {
       "id": "136623",
@@ -5471,16 +5286,6 @@
       "id": "136629",
       "name": "Jackery UK",
       "url": "https://www.amazon.co.uk/stores/page/17562986-7C89-483C-8D29-8A6BE0FE84C6"
-    },
-    {
-      "id": "136630",
-      "name": "iDPRT",
-      "url": "https://www.amazon.com/stores/page/407CA169-A4D1-4928-B3DE-F6B1E7BC6AF5"
-    },
-    {
-      "id": "136631",
-      "name": "Bebird-DE",
-      "url": "https://www.amazon.de/stores/page/87834000-956D-423A-9CE5-0D914D4F1FF0"
     },
     {
       "id": "136632",
@@ -5526,21 +5331,6 @@
       "id": "136647",
       "name": "laifen-IT",
       "url": "https://www.amazon.it/stores/page/6E391BBB-AA60-424C-949A-A7070EA31310"
-    },
-    {
-      "id": "136652",
-      "name": "Bebird-IT",
-      "url": "https://www.amazon.it/stores/page/52177171-1A48-4E16-9BF9-F198BB68535E"
-    },
-    {
-      "id": "136653",
-      "name": "Bebird-FR",
-      "url": "https://www.amazon.fr/stores/page/C49AD4F4-E83A-42B4-AB1A-03E04B0E1DBD"
-    },
-    {
-      "id": "136654",
-      "name": "Bebird-ES",
-      "url": "https://www.amazon.es/stores/page/A24FE799-217B-4D07-840E-88A28D6228D1"
     },
     {
       "id": "136655",
@@ -5603,14 +5393,9 @@
       "url": "https://www.amazon.com/stores/page/E4F9754B-27CD-4171-AB98-91EF6F542CFF"
     },
     {
-      "id": "136683",
-      "name": "CINMOORE",
+      "id": "136685",
+      "name": "CINMOORE DIRECT",
       "url": "https://www.amazon.com/sp"
-    },
-    {
-      "id": "136684",
-      "name": "CINMOORE CA",
-      "url": "https://www.amazon.ca/sp"
     },
     {
       "id": "136688",
@@ -5746,11 +5531,6 @@
       "id": "136748",
       "name": "Dreame US",
       "url": "https://www.amazon.com/stores/page/5096DC3A-731E-4917-A659-CCE1E5969E83"
-    },
-    {
-      "id": "136749",
-      "name": "Lazy Daze Hammocks",
-      "url": "https://www.amazon.com/stores/page/885FDABF-6C17-4417-9ED4-3E7675D7A545"
     },
     {
       "id": "136753",
@@ -6188,26 +5968,6 @@
       "url": "https://www.amazon.fr/stores/page/A7AC8504-B917-409F-9A2D-0C54E490EDFC"
     },
     {
-      "id": "136910",
-      "name": "ISWEEPR-DE",
-      "url": "https://www.amazon.de/stores/page/BA3998E9-5CE8-4777-8E66-EF170141EEE9"
-    },
-    {
-      "id": "136911",
-      "name": "ISWEEPR-IT",
-      "url": "https://www.amazon.it/stores/page/A94CE8DF-40C5-4999-B14F-CBD7C690C2D7"
-    },
-    {
-      "id": "136913",
-      "name": "ISWEEPR-ES",
-      "url": "https://www.amazon.es/stores/page/D1B161B9-57A7-4A88-BA91-F3460F995B7D"
-    },
-    {
-      "id": "136914",
-      "name": "ISWEEPER-FR",
-      "url": "https://www.amazon.fr/stores/page/1F21A561-1EBD-4526-9A5D-ABC230CAB809"
-    },
-    {
       "id": "136915",
       "name": "ANSQUE",
       "url": "https://www.amazon.com/stores/page/D976B3A7-831D-423D-AD92-D8C4844C3135"
@@ -6358,11 +6118,6 @@
       "url": "https://www.amazon.com/stores/page/CF58FCAF-424F-49DA-A6B2-92C99DB0BA99"
     },
     {
-      "id": "136984",
-      "name": "QIXZOCV",
-      "url": "https://www.amazon.com/stores/page/EA8761FC-367A-49A6-9B6C-73791B38BD04"
-    },
-    {
       "id": "136987",
       "name": "TRUCOZIE",
       "url": "https://www.amazon.com/stores/page/10EBB858-C7B2-458D-A989-E4996D4C0946"
@@ -6381,11 +6136,6 @@
       "id": "136990",
       "name": "MomMed",
       "url": "https://www.amazon.com/stores/page/1728DE07-F069-4C4C-A82B-53EE1E2E03F2"
-    },
-    {
-      "id": "136991",
-      "name": "Goldlife",
-      "url": "https://www.amazon.com/stores/page/D937441C-FABA-47ED-8366-311F0E503C45"
     },
     {
       "id": "136992",
@@ -6443,11 +6193,6 @@
       "url": "https://www.amazon.com/stores/page/F9C439F9-3F89-461F-91AD-B9CAC6169CE1"
     },
     {
-      "id": "137005",
-      "name": "RIXZSIW",
-      "url": "https://www.amazon.com/stores/page/3FBDBC59-88D1-47F1-836F-FA0E38C23F72"
-    },
-    {
       "id": "137007",
       "name": "MomMed UK",
       "url": "https://www.amazon.co.uk/stores/page/C6AA8A41-735B-43A9-A169-3217D87B20BE"
@@ -6456,11 +6201,6 @@
       "id": "137009",
       "name": "Toshiba _UK",
       "url": "https://www.amazon.co.uk/"
-    },
-    {
-      "id": "137010",
-      "name": "QIXZOCVDE",
-      "url": "https://www.amazon.de/stores/page/7BE64597-5B07-49E1-937B-492934D1DC1B"
     },
     {
       "id": "137012",
@@ -6516,11 +6256,6 @@
       "id": "137028",
       "name": "BOJUK",
       "url": "https://www.amazon.com/stores/page/B1685FE1-824B-4C49-A211-7DB64898A19B"
-    },
-    {
-      "id": "137029",
-      "name": "HUNKING",
-      "url": "https://www.amazon.com/stores/page/E76934DA-6230-48AB-99BE-57BFC682BB10"
     },
     {
       "id": "137035",
@@ -6648,11 +6383,6 @@
       "url": "https://www.amazon.com/stores/Omellody/page/9BDE1C9C-19F2-4167-B64A-B1E7C34874DE"
     },
     {
-      "id": "137081",
-      "name": "CHOVERY DE",
-      "url": "https://www.amazon.de/CHOVERY-Fensterputzroboter-Fensterroboter-Fensterreiniger-Dual-Wasserspray/dp/B0CTTDMM13/ref=sr_1_2"
-    },
-    {
       "id": "137082",
       "name": "LiArty UK",
       "url": "https://www.amazon.co.uk/stores/page/2D873BDB-8F37-4F0F-9400-63E5F8B7729D"
@@ -6721,11 +6451,6 @@
       "id": "137109",
       "name": "Creality",
       "url": "https://www.amazon.com/stores/page/5E501845-96D9-4BF6-8DD9-0F9793ECA543"
-    },
-    {
-      "id": "137115",
-      "name": "KUIKIBO",
-      "url": "https://www.amazon.com/gp/product/B0F833CNX6"
     },
     {
       "id": "137117",
@@ -6863,16 +6588,6 @@
       "url": "https://www.amazon.es/stores/FLYBIRD/page/5F2A7F00-4327-49E7-9CD3-17B34AEA7796"
     },
     {
-      "id": "137156",
-      "name": "MCHOSE",
-      "url": "https://www.amazon.com/stores/page/49DCF4DE-F90E-4771-BAC7-10E140748C5D"
-    },
-    {
-      "id": "137157",
-      "name": "U UZOPI",
-      "url": "https://www.amazon.com/stores/page/09C40784-2244-4752-898D-5F4ECCD49EC8"
-    },
-    {
       "id": "137158",
       "name": "YX-Fashion",
       "url": "https://www.amazon.com/stores/page/B7D0B6C9-31D1-4BD5-B6D3-E09980D5A54D"
@@ -6908,16 +6623,6 @@
       "url": "https://www.amazon.com/stores/page/45A2E881-E52F-4053-85F9-F20D1D5F5C14"
     },
     {
-      "id": "137168",
-      "name": "CHOVERY FR",
-      "url": "https://www.amazon.fr/gp/product/B0CTTDMM13"
-    },
-    {
-      "id": "137169",
-      "name": "CHOVERY ES",
-      "url": "https://www.amazon.es/stores/page/8E506026-3412-4EA9-9917-CC224578D758"
-    },
-    {
       "id": "137170",
       "name": "seanrui",
       "url": "https://www.amazon.com/stores/page/63CBDE10-D066-4BBC-8745-5722CD2049FC"
@@ -6938,34 +6643,9 @@
       "url": "https://www.amazon.com/stores/page/EB4B7EE4-27E5-4A26-A520-241F4E3CEA08"
     },
     {
-      "id": "137178",
-      "name": "AUIIAH",
-      "url": "https://www.amazon.com/stores/page/B0015100-BC9C-470C-8698-B678D48E4A74"
-    },
-    {
       "id": "137179",
       "name": "ChainsHouse",
       "url": "https://www.amazon.com/stores/page/8D1A8310-267A-4E9F-94AF-8123FC370300"
-    },
-    {
-      "id": "137180",
-      "name": "CRISLEX",
-      "url": "https://www.amazon.com/stores/page/3FDC7EF4-5152-4445-87B0-21E66CB4625F"
-    },
-    {
-      "id": "137181",
-      "name": "EYERZ",
-      "url": "https://www.amazon.com/stores/page/74DF21C1-DE4F-4C0B-9835-9923B18C8696"
-    },
-    {
-      "id": "137182",
-      "name": "Taiofan",
-      "url": "https://www.amazon.com/stores/page/3EE316CC-FCE9-461F-9FE8-F281BA625FEF"
-    },
-    {
-      "id": "137183",
-      "name": "AUIIAH -new",
-      "url": "https://www.amazon.com/stores/page/F04A0C6B-9EE4-4492-8BB5-29A35477CD59"
     },
     {
       "id": "137184",
@@ -7088,11 +6768,6 @@
       "url": "https://www.amazon.com/stores/page/91AFA686-922A-4B1E-84D7-BC0F9A3BAEB8"
     },
     {
-      "id": "137225",
-      "name": "Evyhood-US",
-      "url": "https://www.amazon.com/s"
-    },
-    {
       "id": "137227",
       "name": "somiliss",
       "url": "https://www.amazon.com/stores/page/A97360AD-3025-4587-9A94-33312B2C2F4C"
@@ -7126,11 +6801,6 @@
       "id": "137241",
       "name": "Simyke",
       "url": "https://www.amazon.com/stores/page/2D7D7AAB-8964-48CA-A95F-6849EE5526C5"
-    },
-    {
-      "id": "137242",
-      "name": "Yocada",
-      "url": "https://www.amazon.com/stores/page/6EC42A8D-FB7C-4E6B-9246-46EB34CD44C8"
     },
     {
       "id": "137245",
@@ -7211,21 +6881,6 @@
       "id": "137270",
       "name": "Mydays & Design",
       "url": "https://www.amazon.com/stores/page/3F7B4D4E-ADC0-4CC4-B90B-998CE224976D"
-    },
-    {
-      "id": "137272",
-      "name": "Eyliden",
-      "url": "https://www.amazon.com/stores/page/8554D7B9-613E-4209-9DAE-AF1BB03D3C8B"
-    },
-    {
-      "id": "137273",
-      "name": "cocomigo",
-      "url": "https://www.amazon.com/stores/page/6CCE34AB-A203-439E-840B-94CC1EF50D28"
-    },
-    {
-      "id": "137274",
-      "name": "CLEANHOME",
-      "url": "https://www.amazon.com/stores/page/C7A2ECED-4AC0-4C9C-8956-EA44623BF532"
     },
     {
       "id": "137278",
@@ -7333,16 +6988,6 @@
       "url": "https://www.amazon.com/stores/Bonsenkitchen/page/2216286D-1930-4258-B021-6BC1A42113C4"
     },
     {
-      "id": "137305",
-      "name": "Yingoto",
-      "url": "https://www.amazon.com/s"
-    },
-    {
-      "id": "137306",
-      "name": "DCX",
-      "url": "https://www.amazon.com/s"
-    },
-    {
       "id": "137308",
       "name": "AOSU UK",
       "url": "https://www.amazon.co.uk/stores/page/4ACEE71F-B927-474D-B1A8-DFCB7573F9ED"
@@ -7356,11 +7001,6 @@
       "id": "137310",
       "name": "SKYROVER",
       "url": "https://www.amazon.com/stores/SKYROVER/page/63F46D5B-B673-4529-B3BA-3FD0A72CF0B5"
-    },
-    {
-      "id": "137311",
-      "name": "pidan",
-      "url": "https://www.amazon.com/stores/pidan/page/2AB3F96D-D49A-40CC-8D0B-6C59918115D6"
     },
     {
       "id": "137312",
@@ -7443,18 +7083,13 @@
       "url": "https://www.amazon.com/stores/page/0757DDFF-7202-4DA8-96C4-657970102176"
     },
     {
-      "id": "137336",
-      "name": "AVAPOW",
-      "url": "https://www.amazon.com/stores/page/706D9338-B5FE-451B-AE07-032137EE8ADA"
-    },
-    {
       "id": "137337",
       "name": "ELLAI",
       "url": "https://www.amazon.com/stores/page/B81CA260-8FE7-4805-BC52-5CBDDE81B3FC"
     },
     {
       "id": "137338",
-      "name": "Dangbei AMZ",
+      "name": "Dangbei AMZ-US",
       "url": "https://www.amazon.com/stores/page/D8315986-370C-4B78-9AB6-B95D894C2194"
     },
     {
@@ -7476,11 +7111,6 @@
       "id": "137345",
       "name": "Rest-Eazzzy",
       "url": "https://www.amazon.com/stores/Rest-Eazzzy/page/2E669581-8964-4480-82EF-2FA0F1336A49?lp_asin=B0CRDNR28D&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
-    },
-    {
-      "id": "137346",
-      "name": "ROTAI",
-      "url": "https://www.amazon.com/stores/page/972DE998-4A5F-4522-95CF-CC3B68BEC3F0"
     },
     {
       "id": "137348",
@@ -7506,11 +7136,6 @@
       "id": "137353",
       "name": "GUSGU_JX",
       "url": "https://www.amazon.com/stores/GUSGU/page/F1A1388D-7EF9-45D4-8BA3-C45822EACD6F"
-    },
-    {
-      "id": "137354",
-      "name": "BESTEK",
-      "url": "https://www.amazon.com/stores/BESTEK/page/55FF1778-73D3-46C1-8580-A5C22055E1BD"
     },
     {
       "id": "137356",
@@ -7698,11 +7323,6 @@
       "url": "https://www.amazon.com/stores/FRESKO/page/CED25B6F-816C-4E33-90D9-6D9F751619BD"
     },
     {
-      "id": "137413",
-      "name": "Vansoet",
-      "url": "https://www.amazon.com/s"
-    },
-    {
       "id": "137414",
       "name": "FRESKO-DE",
       "url": "https://www.amazon.de/stores/FRESKO/page/CCD989D6-56BF-4042-9CA5-883126A48136"
@@ -7723,24 +7343,9 @@
       "url": "https://www.amazon.com/stores/page/32AF2271-C4FD-4CD5-9973-3F188A61FBA7"
     },
     {
-      "id": "137421",
-      "name": "ONTHEWEI",
-      "url": "https://www.amazon.com/s"
-    },
-    {
-      "id": "137422",
-      "name": "ISELECTOR",
-      "url": "https://www.amazon.com/s"
-    },
-    {
       "id": "137423",
       "name": "Relax Field-UK",
       "url": "https://www.amazon.co.uk/stores/\nRELAX FIELD/page/885440DC-9A19-43EC-B2D2-93F1AABE5DE5"
-    },
-    {
-      "id": "137424",
-      "name": "UPoetry",
-      "url": "https://www.amazon.com/s"
     },
     {
       "id": "137425",
@@ -7781,11 +7386,6 @@
       "id": "137438",
       "name": "SPORTLINK",
       "url": "https://www.amazon.com/stores/SPORTLINK/page/7BE4CBDF-DA3F-41C8-9F18-F876CC287CB8"
-    },
-    {
-      "id": "137439",
-      "name": "Citylife",
-      "url": "https://www.amazon.com/stores/Anywish/page/62BC449B-919E-4314-8BDA-DC8F274F892C"
     },
     {
       "id": "137440",
@@ -8028,11 +7628,6 @@
       "url": "https://www.amazon.com/stores/FLYKID/page/D741347A-3E71-4703-BE97-3502AB226BF9?lp_asin=B0DZWRM3B4&ref_=ast_bln"
     },
     {
-      "id": "137530",
-      "name": "FogDream",
-      "url": "https://www.amazon.com/stores/page/DCE09718-FA37-449B-8F22-EF4CADEBE3AE"
-    },
-    {
       "id": "137532",
       "name": "Joydeco US",
       "url": "https://www.amazon.com/stores/JOYDECO/page/A1804BED-0DBC-4192-AE94-3477A8C44A08?lp_asin=B09228LT3G&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto\n"
@@ -8173,11 +7768,6 @@
       "url": "https://www.amazon.com/stores/Lolalet/page/F44C19B8-D518-4040-9E35-ECB1A0CE5839"
     },
     {
-      "id": "137580",
-      "name": "JEKAOYI",
-      "url": "https://www.amazon.com/stores/page/1CC599FA-46DE-4AFB-BDE0-033956DE325E"
-    },
-    {
       "id": "137581",
       "name": "TP-Link UK",
       "url": "https://www.amazon.co.uk/stores/page/9CE7457B-5626-453D-B6F1-500A26FF160E"
@@ -8316,11 +7906,6 @@
       "id": "137623",
       "name": "TESSAN DE",
       "url": "https://www.amazon.de/stores/tessan/page/4BE83475-4F0B-4D3A-93EE-1A132A5EE6C0"
-    },
-    {
-      "id": "137627",
-      "name": "HazoHaus-US",
-      "url": "https://www.amazon.com/stores/page/C414D6A3-737D-42D1-B3B1-6A581287F7F8"
     },
     {
       "id": "137630",
@@ -8593,11 +8178,6 @@
       "url": "https://www.amazon.com/stores/TURBOPEP/page/F13ED16E-812A-4676-BFE0-BD9A60767773\n"
     },
     {
-      "id": "137727",
-      "name": "JTJ - US",
-      "url": "https://www.amazon.com/stores/page/C990780F-9EA7-4D1C-B7A0-D2872D570331"
-    },
-    {
       "id": "137731",
       "name": "Godspeeds",
       "url": "https://www.amazon.com/stores/Godspeeds/page/00E2A296-00E7-437E-8736-54235E8F5978"
@@ -8676,11 +8256,6 @@
       "id": "137756",
       "name": "BAGAKE",
       "url": "https://www.amazon.com/stores/BAGAKE/page/35488F03-0656-4A0A-8EB3-4E635380D0B3"
-    },
-    {
-      "id": "137757",
-      "name": "Emerail",
-      "url": "https://www.amazon.com/stores/\nEmerail/page/4081547A-ACD8-4CBE-9C8A-A7080A04B199"
     },
     {
       "id": "137767",
@@ -8801,6 +8376,11 @@
       "id": "137828",
       "name": "JIGOO-US",
       "url": "https://www.amazon.com/stores/DeepCleanTheUnseen-JIGOO/page/71299BC2-C0B6-4D19-8965-BD28B4AD306A"
+    },
+    {
+      "id": "137830",
+      "name": "INNOVV-AMZ-US",
+      "url": "https://www.amazon.com/stores/page/1BDEA408-372A-4D2E-BA81-5875F24531E3"
     },
     {
       "id": "137831",
@@ -9033,11 +8613,6 @@
       "url": "https://www.amazon.com/stores/Ohuhu/page/0A662CCD-F915-4183-844C-21A2712D5530"
     },
     {
-      "id": "137920",
-      "name": "PIT66",
-      "url": "https://www.amazon.com/stores/PIT66AutoParts/page/944341AB-CEB8-4631-BC3E-A021A2470388"
-    },
-    {
       "id": "137921",
       "name": "Piklohas",
       "url": "https://www.amazon.com/stores/page/253E121E-69D1-41D1-A7ED-A7004469D422"
@@ -9099,7 +8674,7 @@
     },
     {
       "id": "137936",
-      "name": "SedetaLife",
+      "name": "SedetaLife-Home Office Furniture",
       "url": "https://www.amazon.com/stores/sedeta/page/F2E758D3-459E-4586-AE86-64CE14019F8C"
     },
     {
@@ -9183,16 +8758,6 @@
       "url": "https://www.amazon.com/stores/page/93B56681-3019-4E63-8F84-B6C1942497F0"
     },
     {
-      "id": "137972",
-      "name": "TINRIEF",
-      "url": "https://www.amazon.com/stores/TINRIEF/page/1248F713-FFE2-45B0-9851-CE3A2D74E88C?lp_asin=B0F3841KY1&ref_=cm_sw_r_ud_ast_store_3EETCEB3AHCJN2YPNGZ5&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "137974",
-      "name": "SOZT",
-      "url": "https://www.amazon.com/stores/SOZT/page/490C7DEC-6A90-45EA-A25B-3768EC2B0487"
-    },
-    {
       "id": "137975",
       "name": "CELESTA",
       "url": "https://www.amazon.de/stores/CELESTAGENTLENATURE/page/A39F794F-61D8-4E01-85ED-5FA59C705D35"
@@ -9266,11 +8831,6 @@
       "id": "137999",
       "name": "OPP ULITE US",
       "url": "https://www.amazon.com/stores/page/84C3CA0B-94A1-460D-8659-6FAC5BBFF569"
-    },
-    {
-      "id": "138001",
-      "name": "OXYENERGY",
-      "url": "https://www.amazon.com/stores/OXYENERGY/page/D9313C91-D0CA-4FC0-8505-2EFCE4A8364B"
     },
     {
       "id": "138003",
@@ -9351,16 +8911,6 @@
       "id": "138033",
       "name": "AINAVI",
       "url": "https://www.amazon.com/stores/Ruicar/page/476996AE-EE83-4A9C-AA6B-9CD6659D4437"
-    },
-    {
-      "id": "138034",
-      "name": "Velieta",
-      "url": "https://www.amazon.com/stores/Velieta/page/EA86DDBF-D5B8-4DC6-94E3-7F40748E1269"
-    },
-    {
-      "id": "138035",
-      "name": "Rapsuar",
-      "url": "https://www.amazon.com/stores/RAPSUAR/page/3688CFEF-21CF-4BE4-8E1F-4D70F4C798A9"
     },
     {
       "id": "138038",
@@ -9578,11 +9128,6 @@
       "url": "https://www.amazon.com/stores/LUCKMEEY/page/CF00AF56-A471-4ECE-A73B-44C29D85B20D"
     },
     {
-      "id": "138139",
-      "name": "Aqua-Rex",
-      "url": "https://www.amazon.com/stores/Aqua-Rex/page/B7C419EB-4956-402F-BBD0-586E166B7818?lp_asin=B06XQ14GFR"
-    },
-    {
       "id": "138140",
       "name": "Birdfy UK",
       "url": "https://www.amazon.co.uk/stores/netvue/page/ABFB16F5-2487-44DF-A2E0-B86C85F163E3"
@@ -9683,11 +9228,6 @@
       "url": "https://www.amazon.com/stores/Garvee/page/E28B1AAC-1328-4326-9E51-A1527F6F3A86"
     },
     {
-      "id": "138173",
-      "name": "LOMON",
-      "url": "https://www.amazon.com/stores/LOMON/page/E22F6561-C034-44D3-8BDE-B3758BDF992D?lp_asin=B0DMTGYRC9&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
       "id": "138174",
       "name": "GarveeHome",
       "url": "https://www.amazon.com/stores/Garvee/page/A4C294D9-C58D-4DE2-B8BE-F73E35AB9B3B"
@@ -9726,11 +9266,6 @@
       "id": "138195",
       "name": "Wellmet & Chende",
       "url": "https://www.amazon.com/sp?ie=UTF8&seller=A3PCQ9TN676LZF"
-    },
-    {
-      "id": "138198",
-      "name": "Cesun",
-      "url": "https://www.amazon.com/stores/Cesun/page/D85FF33C-E582-4AAA-B675-5EB3385F3466"
     },
     {
       "id": "138199",
@@ -9888,19 +9423,9 @@
       "url": "https://www.amazon.co.uk/stores/PETKIT/page/07269596-185F-4065-8935-D87F7476D982?lp_asin=B09WN62YRV&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
     },
     {
-      "id": "138245",
-      "name": "TheRun",
-      "url": "https://www.amazon.com/stores/THERUNFITNESS/page/DB6E3487-7FAB-49F8-BC35-608E69750827?lp_asin=B0DJ8F6DZP&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
       "id": "138246",
       "name": "BEAKEY-FM",
       "url": "https://www.amazon.com/stores/BEAKEY/page/8089A870-215F-4A92-945A-832D5F9C9124"
-    },
-    {
-      "id": "138247",
-      "name": "Hibbent",
-      "url": "http://www.amazon.com/stores/Hibbent/page/1590BABA-1CF7-447B-B63C-E60547E0664E"
     },
     {
       "id": "138248",
@@ -9916,26 +9441,6 @@
       "id": "138250",
       "name": "BEAKEY-BEINI",
       "url": "https://www.amazon.com/stores/BEAKEY/page/8089A870-215F-4A92-945A-832D5F9C9124?lp_asin=B01F36JBDM&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138251",
-      "name": "AKEWEI",
-      "url": "https://www.amazon.com/stores/AKEWEI/page/4482AF48-2A95-41A6-9F1A-36BAFDA72E07?lp_asin=B0DNYDXS3S&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138252",
-      "name": "Rapbin",
-      "url": "https://www.amazon.com/stores/RAPBIN/page/8E47ED17-DE53-43E3-B49D-4F4DBADABB86?lp_asin=B0G2WNPSZY&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138253",
-      "name": "Kistore",
-      "url": "https://www.amazon.com/stores/Kistore/page/E10DF172-5E28-4216-93D6-468EB97E5B09?lp_asin=B0FS6LR469&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138254",
-      "name": "Ivicoer",
-      "url": "https://www.amazon.com/stores/Ivicoer/page/3F1CB3EC-558A-4F46-9092-F0AB8027A41A?lp_asin=B0D77F1CM8&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
       "id": "138256",
@@ -9968,11 +9473,6 @@
       "url": "https://www.amazon.fr/s?me=A3533MV6FHV23L&marketplaceID=A13V1IB3VIYZZH"
     },
     {
-      "id": "138264",
-      "name": "Yoleo",
-      "url": "https://www.amazon.com/stores/Yoleo/page/B5FD68C4-FE7F-4504-A019-4864568E8E8A?is_byline_deeplink=true&deeplink=17E98A56-F4C4-4425-8B55-35578B1BB97B&redirect_store_id=B5FD68C4-FE7F-4504-A019-4864568E8E8A&lp_asin=B0CMXNV8L9&ref_=ast_bln&store_ref=bl_ast_dp_"
-    },
-    {
       "id": "138266",
       "name": "GparkNature",
       "url": "https://www.amazon.com/stores/GparkNature/page/"
@@ -9986,11 +9486,6 @@
       "id": "138268",
       "name": "BBIBBI",
       "url": "https://www.amazon.com/stores/BBIBBI/page/563DD018-EE19-4266-AE67-A14AC974CED2?lp_asin=B0C37DJGMX&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138269",
-      "name": "Yohood",
-      "url": "https://www.amazon.com/stores/Yohood/page/B49AC3C6-9F93-45DB-B79B-86644D68BBEB?lp_asin=B0DBQJWP4Y&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
       "id": "138270",
@@ -10073,11 +9568,6 @@
       "url": "https://www.amazon.com/stores/Netrum/page/0555604F-7989-4D31-AAC0-5FA8068BA737"
     },
     {
-      "id": "138293",
-      "name": "Arccaptain - DE",
-      "url": "https://www.amazon.de/stores/ARCCAPTAIN/page/CC8F7307-0B84-4BBC-82D0-D74831151B69"
-    },
-    {
       "id": "138294",
       "name": "iMATCHME",
       "url": "https://www.amazon.com/stores/iMATCHME/page/6E072783-FDE6-404E-A630-7314B1D0C8FC?lp_asin=B0DNQ9X77Z&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
@@ -10128,11 +9618,6 @@
       "url": "https://www.amazon.fr/stores/NIPOGI/page/2B4DA50D-4384-4FFF-99DD-EA71D5ED420B"
     },
     {
-      "id": "138314",
-      "name": "WANSHENGHK",
-      "url": "https://www.amazon.com/sp?ie=UTF8&seller=A25IP2QGJ9YHHS&asin=B0G24RNNTM&ref_=dp_merchant_link&isAmazonFulfilled=1"
-    },
-    {
       "id": "138315",
       "name": "NiPoGi ES-156",
       "url": "https://www.amazon.es/stores/NiPoGi/page/7DD97DFA-CA7D-44B2-AC12-9C8079A3ADBA"
@@ -10161,16 +9646,6 @@
       "id": "138320",
       "name": "4COVR",
       "url": "https://www.amazon.com/stores/4COVR/page/A8E4EDAF-327D-4A2B-98B7-EEAED1D87808?lp_asin=B0D6Z3TC1L&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138321",
-      "name": "Arccaptain - FR",
-      "url": "https://www.amazon.fr/-/en/stores/ARCCAPTAIN/page/36BBCF5C-286D-4016-9F0C-FF174E67E7DD?lp_asin=B0B942YPM5&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
-    },
-    {
-      "id": "138323",
-      "name": "Arccaptain - ES",
-      "url": "https://www.amazon.es/-/en/stores/ARCCAPTAIN/page/10CC5C51-4002-4211-8225-C935CF52D6AC?lp_asin=B0B942YPM5&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
     },
     {
       "id": "138324",
@@ -10218,19 +9693,9 @@
       "url": "https://www.amazon.com/stores/durlk/page/F35B525A-1F09-4B94-A41C-01EBA500970D"
     },
     {
-      "id": "138345",
-      "name": "Hibbent-CA",
-      "url": "https://www.amazon.ca/stores/ChangeBeginsAtHome/page/B816BDF8-094C-4BFC-9BA3-CF20605632C0"
-    },
-    {
       "id": "138348",
       "name": "NiPoGi-UK-156",
       "url": "https://www.amazon.co.uk/stores/NiPoGi/page/958D5E45-28B8-4BDF-8B22-965F4CCF274F?lp_asin=B0BXCPZ49G&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138350",
-      "name": "Hibbent-DE",
-      "url": "https://www.amazon.de/stores/Hibbent/page/CBF4590E-836D-4024-9631-D3C30DB15B1A"
     },
     {
       "id": "138351",
@@ -10303,11 +9768,6 @@
       "url": "https://www.amazon.co.uk/stores/Lemorele/page/13D12D67-04D5-4C39-ABA6-DA4F55EA94AA?lp_asin=B0FRSFPR6C&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
-      "id": "138371",
-      "name": "Masoll",
-      "url": "https://www.amazon.com/stores/Masoll/page/85A8E9F3-8674-4DE1-80D5-7E2D2295B65A?lp_asin=B0G2VN69CX&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
       "id": "138372",
       "name": "Ulanzi",
       "url": "https://www.amazon.de/-/en/stores/ULANZI/page/BA515170-5D47-4000-BA05-87D83505211E"
@@ -10326,11 +9786,6 @@
       "id": "138377",
       "name": "AYURA",
       "url": "https://www.amazon.com/stores/AYURA/page/62A77886-062D-42B9-B979-B773803AD0FD"
-    },
-    {
-      "id": "138379",
-      "name": "HiDock",
-      "url": "https://www.amazon.com/stores/HiDockOfficial/page/7C261B82-ACDA-4321-8934-1DB73BC02ACE?lp_asin=B0G41P55ZG&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
       "id": "138383",
@@ -10538,11 +9993,6 @@
       "url": "https://www.amazon.com/stores/YourReliableChoice/page/91F66778-7066-46CB-9EDD-904A8E938F45?lp_asin=B0GX119V6V&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
     },
     {
-      "id": "138472",
-      "name": "TWODRAPES",
-      "url": "https://www.amazon.com/stores/Twodrapes/page/E1802FC5-DA47-4AD0-ADA3-3EEBA4093329?lp_asin=B0D8KTPJD4&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
       "id": "138474",
       "name": "charmast",
       "url": "https://www.amazon.com/stores/Charmast/page/39615A20-E5F4-4638-A4CC-1DD1FB932652?lp_asin=B0CY2JJ4WS&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
@@ -10576,11 +10026,6 @@
       "id": "138488",
       "name": "KINGSTONE",
       "url": "https://www.amazon.com/stores/KINGSTONE/page/DA8566AC-7DFB-400C-8E00-10BC8937605B"
-    },
-    {
-      "id": "138490",
-      "name": "Coziley",
-      "url": "https://www.amazon.com/stores/Coziley/page/E74C19CB-CE3F-4B6E-AC62-6504C4B8B6C7"
     },
     {
       "id": "138491",
@@ -10648,11 +10093,6 @@
       "url": "https://www.amazon.com/stores/Chasesun/page/C9D0FA35-7543-4157-B19A-67DCFC7076D7"
     },
     {
-      "id": "138525",
-      "name": "Zoiecu",
-      "url": "https://www.amazon.com/stores/Zoiecu/page/E78F9E46-3906-4083-B4B5-C0263ACC3A3E"
-    },
-    {
       "id": "138530",
       "name": "SIHOO DE",
       "url": "https://www.amazon.de/-/en/stores/SIHOO/page/2186DD75-BCDD-4CC9-9555-2D3D6FB0A840?lp_asin=B07GNDDNMW&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
@@ -10661,11 +10101,6 @@
       "id": "138531",
       "name": "SIHOO IT",
       "url": "https://www.amazon.it/-/en/stores/SIHOO/page/5C652371-F956-4259-940B-29B6E4E38242?lp_asin=B0GSFWNLFD&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138532",
-      "name": "ZHMZ",
-      "url": "https://www.amazon.com/stores/SMARTLIFEFORCATS/page/C12AF5D3-8964-4B5E-A631-45A8521533A9?lp_asin=B0FVRT94XV&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
       "id": "138533",
@@ -10828,11 +10263,6 @@
       "url": "https://www.amazon.com/stores/PUREU/page/6143BEDA-367D-42DE-873C-90DD074D9FC1?lp_asin=B0GK7NVTQN&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
-      "id": "138604",
-      "name": "Arccaptain - US",
-      "url": "https://www.amazon.com/stores/ARCCAPTAIN/page/96C4F389-6AA9-4705-AB34-C07424DC8B71?lp_asin=B0BV6RYWV9&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
       "id": "138607",
       "name": "WOAJNQO",
       "url": "https://www.amazon.com/stores/WOAJNQO/page/C63F3304-0D27-4940-8AF1-F0EE350892CA?lp_asin=B0CPY7NMXB&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
@@ -10916,16 +10346,6 @@
       "id": "138635",
       "name": "ecozy",
       "url": "https://www.amazon.com/stores/ecozy/page/9D7EEDF7-13EB-491C-9656-7508E3C434AF?tag=sramz-tdt-028-20"
-    },
-    {
-      "id": "138638",
-      "name": "Poolhour",
-      "url": "https://www.amazon.com/stores/POOLHOUR/page/0D3C637B-E242-48E4-9EFF-2F02BE9B7E2A?lp_asin=B0GLP6HGWQ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138639",
-      "name": "Kompoll",
-      "url": "https://www.amazon.com/stores/Kompoll/page/C93E258B-2440-4B37-A3A1-E3D3187A68B2?lp_asin=B0GLM9WNSB&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
       "id": "138643",
@@ -11098,11 +10518,6 @@
       "url": "https://www.amazon.com/stores/YRZtilesSTEM-approvedmagnetictilesforyoungengineers/page/DDD98C1E-2932-4A7C-B322-8102CBE25053?lp_asin=B0DF343Z4D&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
     },
     {
-      "id": "138699",
-      "name": "Membrane Solutions",
-      "url": "https://www.amazon.com/stores/membranesolutions/page"
-    },
-    {
       "id": "138703",
       "name": "Aurzen UK",
       "url": "https://www.amazon.co.uk/stores/Aurzen/page/8E6142ED-E70E-4537-953A-026442787CE0"
@@ -11116,11 +10531,6 @@
       "id": "138705",
       "name": "Rhinowalk",
       "url": "https://www.amazon.com/s?me=AE7G1ZBYCMJU6&marketplaceID=ATVPDKIKX0DER"
-    },
-    {
-      "id": "138706",
-      "name": "Jasonwell",
-      "url": "https://www.amazon.com/stores/Jasonwell/page/5A2F1C78-F657-4FC7-BBF8-E46CB1C95FC1"
     },
     {
       "id": "138707",
@@ -11148,11 +10558,6 @@
       "url": "https://www.amazon.com/stores/CHEERPALS/page/734728E8-A4AA-4330-BFB5-7FD337E4A7AE?lp_asin=B0F1XSBRBF&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
-      "id": "138715",
-      "name": "Aurzen DE",
-      "url": "https://www.amazon.de/stores/Aurzen/page/AB9DF0EE-8C4C-4421-AB79-0F3FC08C19BB"
-    },
-    {
       "id": "138716",
       "name": "AILEEKISS",
       "url": "https://www.amazon.com/stores/AILEEKISS/page/372D47BD-F277-48C0-A19E-373291B14D37?ingress=3"
@@ -11176,11 +10581,6 @@
       "id": "138721",
       "name": "Modatope",
       "url": "https://www.amazon.com/s?ie=UTF8&marketplaceID=ATVPDKIKX0DER&me=A2BJJDA4VZXXEW"
-    },
-    {
-      "id": "138725",
-      "name": "Lesure",
-      "url": "https://www.amazon.com/stores/Lesure/page/48ECFD13-56E7-4767-9F72-C8EF0B89020Alp_asin=B0CBP31WD8&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
       "id": "138727",
@@ -11413,11 +10813,6 @@
       "url": "https://www.amazon.com/stores/Taglory/page/4D0FB206-052F-4C6E-813A-D0CB83B641B7?lp_asin=B0FPK9LYMB&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
-      "id": "138812",
-      "name": "cuteice",
-      "url": "https://www.amazon.com/s?me=A8OKPP1M35CHB&marketplaceID=ATVPDKIKX0DER"
-    },
-    {
       "id": "138815",
       "name": "Xbeauty-MH",
       "url": "https://www.amazon.com/stores/Xbeauty/page/3238032D-7BD1-4543-BC50-CE12E8A71982?lp_asin=B0DSP4GT3J&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
@@ -11426,16 +10821,6 @@
       "id": "138817",
       "name": "RICHSTORY",
       "url": "https://www.amazon.com/stores/EffortlessChicRichinStory/page/31A8C5E5-AFD9-4FF6-90F7-79919C2C0210?lp_asin=B0FFGHZZ1S&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
-    },
-    {
-      "id": "138818",
-      "name": "SEMKAP",
-      "url": "https://www.amazon.com/stores/SEMKAP/page/F01F9A35-FDCE-4452-97D3-021E517041EB"
-    },
-    {
-      "id": "138820",
-      "name": "BANABIE",
-      "url": "https://www.amazon.com/stores/BANABIE/page/07969269-2A37-4C28-9300-0F9FABD0E787"
     },
     {
       "id": "138821",
@@ -11593,11 +10978,6 @@
       "url": "https://www.amazon.com/stores/Foliv/page/BB17021D-968A-4FB7-B9DB-4775FCABC1A2"
     },
     {
-      "id": "138884",
-      "name": "Bedsure",
-      "url": "https://www.amazon.com/stores/Lesure/page/48ECFD13-56E7-4767-9F72-C8EF0B89020A"
-    },
-    {
       "id": "138888",
       "name": "viaim",
       "url": "https://www.amazon.com/stores/viaim/page/7BEA2552-B2E5-468F-9BEC-BA49E7A42C5A"
@@ -11636,6 +11016,11 @@
       "id": "138897",
       "name": "Blessreach",
       "url": "https://www.amazon.com/stores/BlessReach/page/2248F293-AD84-4B3E-B603-D491E75A020D?lp_asin=B0F4N5GR5C&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "138899",
+      "name": "CAPERAVE",
+      "url": "https://www.amazon.com/stores/CAPERAVE/page/865FCB6F-D637-45EC-B262-7B6E69D50C77"
     },
     {
       "id": "138903",
@@ -12173,6 +11558,11 @@
       "url": "https://www.amazon.com/s?me=AXISI1U6PE8P4&marketplaceID=ATVPDKIKX0DER"
     },
     {
+      "id": "139108",
+      "name": "MAELREG-Amazon",
+      "url": "https://www.amazon.com/stores/maelreg/page/"
+    },
+    {
       "id": "139110",
       "name": "BODEGA",
       "url": "https://www.amazon.com/stores/BODEGA/page/5BA8CA27-5831-49C6-ABD6-7702F7662935"
@@ -12281,6 +11671,11 @@
       "id": "139168",
       "name": "TARANIS-AMZ",
       "url": "https://www.amazon.com/stores/TARANIS/page/08DFC999-F3DD-44E9-A41F-7E429743FC0E"
+    },
+    {
+      "id": "139172",
+      "name": "TCL",
+      "url": "https://www.amazon.com/stores/TCL/page/0BC8946D-897E-41F0-837E-F776CEDFD8B3"
     },
     {
       "id": "139173",
@@ -12608,6 +12003,11 @@
       "url": "https://www.amazon.com/sp?ie=UTF8&seller=A156IGYC07RRKI&asin=B0GXTSY6FK&ref_=dp_merchant_link&isAmazonFulfilled=1"
     },
     {
+      "id": "139295",
+      "name": "The Twiddlers US",
+      "url": "https://www.amazon.com/stores/TheTwiddlers/page/DF38F2DE-B41B-46B6-94B2-A4369BEEB3AE?lp_asin=B0D9WC3RVY&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
+    },
+    {
       "id": "139297",
       "name": "LAKE OF FIRE",
       "url": "https://www.amazon.com/stores/LAKEOFFIRE/page/81ED6535-4998-44F7-B0AB-FDABADE66880?lp_asin=B0FYNMZ6WM&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
@@ -12778,6 +12178,11 @@
       "url": "https://www.amazon.com/stores/Moreeffectivelycomfortablyandconveniently/page/7AF34665-73AF-4855-B470-62FF15F69787?lp_asin=B0GJ3CPT77&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
+      "id": "139373",
+      "name": "Arrtx US",
+      "url": "https://www.amazon.com/stores/Arrtx/page/D5E88364-158B-4E8D-B282-C701F04CE179?lp_asin=B0FMRJMF5G&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
       "id": "139374",
       "name": "RSH",
       "url": "https://www.amazon.com/stores/RSH/page/0026E187-96BE-4C09-8495-2234D26A7823"
@@ -12791,6 +12196,11 @@
       "id": "139379",
       "name": "LEVAO",
       "url": "https://www.amazon.com/stores/LEVAO/page/323C0005-173D-4921-A479-D65DA502DF35"
+    },
+    {
+      "id": "139382",
+      "name": "WYZE SCALE",
+      "url": "https://www.amazon.com/stores/WYZE/page/2E088799-B509-4053-A944-167ABF7A236E"
     },
     {
       "id": "139384",
@@ -12836,6 +12246,11 @@
       "id": "139404",
       "name": "WCQQ",
       "url": "https://www.amazon.com/stores/WCQQProfetionalSanitaryWare/page/1445400F-706B-449E-9423-BCBFCA68D314?lp_asin=B0DP34YWZZ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139406",
+      "name": "Jovikids UK",
+      "url": "https://www.amazon.co.uk/spie=UTF8&seller=A2QCJHTM7TQZOQ&asin=B0GMW3YNMH&ref_=dp_merchant_link"
     },
     {
       "id": "139407",
@@ -12913,9 +12328,129 @@
       "url": "https://www.amazon.com/stores/dreahoteztil/page/04B03930-E7CB-459D-8C94-9393001DA5D4?lp_asin=B0DMZM1HF2&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
     },
     {
+      "id": "139450",
+      "name": "KINGTOOL",
+      "url": "https://www.amazon.com/stores/KingTool/page/F7F58404-71C7-4491-964E-BA0279D3C5B2"
+    },
+    {
       "id": "139453",
       "name": "SANSI DE",
       "url": "https://www.amazon.de/-/en/stores/SANSI/page/A853EE4E-F8C5-4B0C-B1AB-F8252EF4C820"
+    },
+    {
+      "id": "139454",
+      "name": "Cozyla AMZ-CA",
+      "url": "https://www.amazon.ca/stores/Cozyla/page/6D2E4822-9CAF-45F1-811A-6831DAA5D391?lp_asin=B0F1F9FQCL&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139456",
+      "name": "wininmeta",
+      "url": "https://www.amazon.com/stores/wininmeta/page/76213DC3-F323-4D22-A059-D2B03080FE51?ingress=3"
+    },
+    {
+      "id": "139463",
+      "name": "Cotaros",
+      "url": "https://www.amazon.com/stores/cotaros/page/A5AA95AE-C442-4F75-B014-62477749B454?lp_asin=B0GC63N21P&ref_=ast_bln"
+    },
+    {
+      "id": "139465",
+      "name": "EUHOMY-AMZ",
+      "url": "https://www.amazon.com/stores/EUHOMY/page/FAC1CFE6-3191-40F3-9EFE-713664F3B89C"
+    },
+    {
+      "id": "139466",
+      "name": "WellMall",
+      "url": "https://www.amazon.com/stores/WellMall/page/565CD4D9-9413-4325-AFCD-E32715A9E1B2"
+    },
+    {
+      "id": "139467",
+      "name": "Redragon",
+      "url": "https://www.amazon.com/stores/REDRAGON/page/C9D23970-BAEE-41FD-9E1B-F6B3A3B895EDlp_asin=B0DJNMXZXF&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139469",
+      "name": "Synido",
+      "url": "https://www.amazon.com/stores/Synido/page/44D6D4B5-7C17-4269-9EED-BD5D4153310F"
+    },
+    {
+      "id": "139470",
+      "name": "Youdgee",
+      "url": "https://www.amazon.com/stores/Youdgee/page/E2750AC4-5D1B-42EF-A3FB-E1A4DB6DE90C?lp_asin=B0D7CVB4VZ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139477",
+      "name": "WARSUN",
+      "url": "https://www.amazon.com/sp?ie=UTF8&seller=A2FEB8QXSFNH0Y&asin=B0GR4WMKXF&ref_=dp_merchant_link&isAmazonFulfilled=1"
+    },
+    {
+      "id": "139478",
+      "name": "tribesigns DE",
+      "url": "https://www.amazon.de/stores/Tribesigns/page/8D5AD02A-1B91-47B6-845F-2D5FDBB4C255ref_=ast_bln"
+    },
+    {
+      "id": "139483",
+      "name": "YUNDOOG",
+      "url": "https://www.amazon.com/stores/YUNDOOG/page/"
+    },
+    {
+      "id": "139492",
+      "name": "Tracy's Dog",
+      "url": "https://www.amazon.com/stores/tracysdog/page/EB280DB6-3176-47F8-B590-CB151E9279F0"
+    },
+    {
+      "id": "139496",
+      "name": "CAPERAVE de",
+      "url": "https://www.amazon.de/stores/caperave/page/"
+    },
+    {
+      "id": "139498",
+      "name": "ELEGOO",
+      "url": "https://www.amazon.com/stores/ELEGOO/page/E0F05684-D7AD-47CF-B08C-4084EBEE5BD3?lp_asin=B07KPZ8RSZ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139502",
+      "name": "ELEHEAR",
+      "url": "https://www.amazon.com/stores/ELEHEAR/page/0FDE631D-0386-4111-802C-2311788DBE60lp_asin=B0DGXQWPC9&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139506",
+      "name": "RORRY DE",
+      "url": "https://www.amazon.de/stores/RORRYEULLC/page/E4212438-8D95-4711-AC0A-4A2DAD84BF8B?lp_asin=B0GN91VNLX&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139508",
+      "name": "MTDYHY",
+      "url": "https://www.amazon.com/ssrs=101482752011&rh=p_89%3AMTDYHY"
+    },
+    {
+      "id": "139511",
+      "name": "tribesigns UK",
+      "url": "https://www.amazon.co.uk/stores/Tribesigns/page/97092DD9-A6A8-4EC4-84C1-6DD47A6641D4?ref_=ast_bln"
+    },
+    {
+      "id": "139517",
+      "name": "HumsiENK",
+      "url": "https://www.amazon.com/stores/HumsiENK/page/B3D591F3-3229-44FF-B079-1F298A58A2AC"
+    },
+    {
+      "id": "139522",
+      "name": "RK Royal Kludge",
+      "url": "https://www.amazon.com/stores/RKROYALKLUDGE/page/A7614D79-928B-40A8-9DCC-26FF6744F971?lp_asin=B0CQ2MSP2B&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139525",
+      "name": "ICEVIVAL",
+      "url": "https://www.amazon.com/stores/ICEVIVAL/page/ED4D0D43-559F-4637-A63F-05860C8E2B25?lp_asin=B0F8NDYYSK&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139526",
+      "name": "Yamaziot",
+      "url": "https://www.amazon.com/stores/Yamaziot/page/69EDBF4D-6DC1-4C38-A49B-3CA732811C13?lp_asin=B0DQKZHRYV&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    {
+      "id": "139531",
+      "name": "RUIXINDA",
+      "url": "https://amzn1.pa.o.A3KK1VAH1C7JME"
     }
   ]
 }
