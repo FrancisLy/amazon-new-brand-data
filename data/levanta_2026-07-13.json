@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "timestamp": "2026-07-05T04:10:50.427Z",
+  "date": "2026-07-13",
+  "timestamp": "2026-07-13T03:41:59.863Z",
   "brands": [
     {
       "id": "0005bbb0-52a4-4d45-9e14-0d99c1fb75f6",
@@ -103,6 +103,11 @@
       "url": ""
     },
     {
+      "id": "0291814d-e750-4e30-a8a4-c013177c67d1",
+      "name": "ZQYMX-SHOP",
+      "url": ""
+    },
+    {
       "id": "029ced39-27d9-4b5e-ab41-337008436409",
       "name": "COSLUS YIINRG",
       "url": ""
@@ -145,6 +150,16 @@
     {
       "id": "0399bb5d-672c-47a0-9cfc-9ca3f1a27c7d",
       "name": "Lola Products",
+      "url": ""
+    },
+    {
+      "id": "03b4c139-5fcd-4ad1-9e1e-1a04de85ea10",
+      "name": "SterlingPro",
+      "url": ""
+    },
+    {
+      "id": "03cd06ee-456d-482f-86ec-c307438bde1d",
+      "name": "X-Mount",
       "url": ""
     },
     {
@@ -563,6 +578,11 @@
       "url": ""
     },
     {
+      "id": "0f9e98a6-45ca-47d1-891e-49486c0924fd",
+      "name": "Kkdi",
+      "url": ""
+    },
+    {
       "id": "0fa4cf6d-0815-4060-936e-d161141393f9",
       "name": "Supdurplus",
       "url": ""
@@ -640,6 +660,11 @@
     {
       "id": "11edf504-e240-4d7c-8159-227a218139ff",
       "name": "TTolbi",
+      "url": ""
+    },
+    {
+      "id": "11f7be58-e278-460e-beac-57cef2ec01e0",
+      "name": "Toddle Skincare",
       "url": ""
     },
     {
@@ -1013,6 +1038,11 @@
       "url": ""
     },
     {
+      "id": "1a247b65-a131-4da9-b48d-f422048495be",
+      "name": "Smiry",
+      "url": ""
+    },
+    {
       "id": "1a3aff9d-1097-4fb5-b0ba-d4672ae26fbd",
       "name": "Focus Camera",
       "url": ""
@@ -1133,6 +1163,11 @@
       "url": ""
     },
     {
+      "id": "1dc4e2a0-495c-4ed6-9e96-d93972d6e886",
+      "name": "ANLAN-Culture Direct",
+      "url": ""
+    },
+    {
       "id": "1dea2ffe-9e6e-4bd7-ba17-60d290a22cd4",
       "name": "Madison Park",
       "url": ""
@@ -1220,11 +1255,6 @@
     {
       "id": "1f83d755-70ba-4ff6-9f2e-c580b3c26c67",
       "name": "MyHalos",
-      "url": ""
-    },
-    {
-      "id": "1f97ddfe-6e59-4677-944a-5d74e70fced0",
-      "name": "Maiden Collections",
       "url": ""
     },
     {
@@ -1508,11 +1538,6 @@
       "url": ""
     },
     {
-      "id": "270943c7-fa54-4d13-8521-9a07285e6386",
-      "name": "L'eggs",
-      "url": ""
-    },
-    {
       "id": "27213e3d-2deb-422b-a0b2-ba817024e467",
       "name": "TONGYU CRAFTS",
       "url": ""
@@ -1595,6 +1620,11 @@
     {
       "id": "29793fe5-7736-4148-aece-8262ed651332",
       "name": "ltsh",
+      "url": ""
+    },
+    {
+      "id": "29867077-15fa-4a3c-9ac4-05c911ff0ee6",
+      "name": "ClimbHope",
       "url": ""
     },
     {
@@ -1923,11 +1953,6 @@
       "url": ""
     },
     {
-      "id": "32d4b707-884f-422e-bf05-322cd775d18d",
-      "name": "Lefant",
-      "url": ""
-    },
-    {
       "id": "32f5f0ab-fb3c-40f9-b9c2-eccabe6abd48",
       "name": "Lightning Delivery C",
       "url": ""
@@ -2068,13 +2093,13 @@
       "url": ""
     },
     {
-      "id": "361db4db-2aa0-40aa-a28f-ca63cc620736",
-      "name": "Spark Pod",
+      "id": "360ebec8-b725-48c2-a625-2e0ba18f3088",
+      "name": "Noah & Paw",
       "url": ""
     },
     {
-      "id": "363a9205-b951-4653-982d-3739709f7c2f",
-      "name": "GRAB THE GOLD, INC.",
+      "id": "361db4db-2aa0-40aa-a28f-ca63cc620736",
+      "name": "Spark Pod",
       "url": ""
     },
     {
@@ -2245,11 +2270,6 @@
     {
       "id": "39a5a780-6b3c-4a40-9348-caeea41f6f79",
       "name": "Seven Minerals",
-      "url": ""
-    },
-    {
-      "id": "39b75a8d-3761-421b-8811-8aadc479db29",
-      "name": "Level Home, Inc.",
       "url": ""
     },
     {
@@ -2853,11 +2873,6 @@
       "url": ""
     },
     {
-      "id": "4822df3a-b5dd-4188-98e1-860f155ac950",
-      "name": "W7 Cosmetics ",
-      "url": ""
-    },
-    {
       "id": "483a87e5-1ad5-4288-9c37-c8922bd147af",
       "name": "UDirect",
       "url": ""
@@ -3333,6 +3348,11 @@
       "url": ""
     },
     {
+      "id": "52b9bcc6-8597-4a27-9874-bf5761c679e2",
+      "name": "WANGWOZHI",
+      "url": ""
+    },
+    {
       "id": "532942e1-ccfc-41da-baea-5e2b9b871674",
       "name": "Allergy Asthma Clean",
       "url": ""
@@ -3623,11 +3643,6 @@
       "url": ""
     },
     {
-      "id": "59b0f103-4a73-4267-843f-91dfd870369d",
-      "name": "Magic Mesh Vendor",
-      "url": ""
-    },
-    {
       "id": "59c47f1c-f5e0-4e25-95ae-04b619bb6dcf",
       "name": "Steam & Go",
       "url": ""
@@ -3838,6 +3853,11 @@
       "url": ""
     },
     {
+      "id": "5eead4e0-4130-4ba2-b4ed-5b39d1a35b5c",
+      "name": "FullWell",
+      "url": ""
+    },
+    {
       "id": "5f017f08-ca6e-40e9-a463-b61f7b229a21",
       "name": "SPORTS ROYALS",
       "url": ""
@@ -3860,11 +3880,6 @@
     {
       "id": "5fa5e116-737b-4603-9d68-8127cbc55708",
       "name": "Sawyer",
-      "url": ""
-    },
-    {
-      "id": "5fc78d56-4489-4354-b0e4-e18951d82838",
-      "name": "Arcade Belts",
       "url": ""
     },
     {
@@ -3995,6 +4010,11 @@
     {
       "id": "630b4b38-64c9-49d5-bced-db30e7d99b09",
       "name": "Kiwibit",
+      "url": ""
+    },
+    {
+      "id": "632c1656-3f08-472f-bcc1-362d64f24d1e",
+      "name": "Paladin Equipment Official",
       "url": ""
     },
     {
@@ -4223,6 +4243,11 @@
       "url": ""
     },
     {
+      "id": "688139b9-b1c9-4243-8269-fa1cba3bf7c4",
+      "name": "YUANC",
+      "url": ""
+    },
+    {
       "id": "68a0681e-02cf-48eb-816f-be4dbe8e3cfc",
       "name": "Gryxpox",
       "url": ""
@@ -4231,6 +4256,11 @@
       "id": "68d8103d-16c7-4fb1-a3d6-ff41b1538ec9",
       "name": "Optimal Carnivore ",
       "url": "https://www.amazon.com/optimalcarnivore"
+    },
+    {
+      "id": "68f140f5-c574-441f-9a22-60fcb204e3f3",
+      "name": "GEECOOL INC",
+      "url": ""
     },
     {
       "id": "6906c607-36e1-4af4-ad18-7ce923269228",
@@ -4268,13 +4298,13 @@
       "url": ""
     },
     {
-      "id": "69afdf8d-07bb-4b4f-95d9-97da615302fe",
-      "name": "NUONU",
+      "id": "69c50d80-cf71-424f-a8da-99a82dcb814f",
+      "name": "TCL VERY LIGHTING",
       "url": ""
     },
     {
-      "id": "69c50d80-cf71-424f-a8da-99a82dcb814f",
-      "name": "TCL VERY LIGHTING",
+      "id": "69dfddd6-74de-4fd4-b237-68fdfaf15bc1",
+      "name": "VELVENTE",
       "url": ""
     },
     {
@@ -4295,6 +4325,11 @@
     {
       "id": "6a6fd815-f08b-41a2-ba42-4156984ce594",
       "name": "ROQ",
+      "url": ""
+    },
+    {
+      "id": "6a706bf5-6bad-4160-acd2-16614431c975",
+      "name": "DeftPet Official",
       "url": ""
     },
     {
@@ -4340,6 +4375,11 @@
     {
       "id": "6b661ffe-e9aa-4288-9e81-a854cd4d8985",
       "name": "Humann",
+      "url": ""
+    },
+    {
+      "id": "6b724f32-4e61-4336-a34b-7475eb60351b",
+      "name": "KIMUSE",
       "url": ""
     },
     {
@@ -4430,11 +4470,6 @@
     {
       "id": "6dd7daf4-f50c-4cfd-b66b-803e2bdb2892",
       "name": "Purity Products",
-      "url": ""
-    },
-    {
-      "id": "6e021798-e69f-4e29-b4c4-72781886eb50",
-      "name": "FabBrows USA",
       "url": ""
     },
     {
@@ -4610,6 +4645,11 @@
     {
       "id": "7387e74f-41c7-4b8e-a832-d4550fec5eef",
       "name": "SHINE-UP",
+      "url": ""
+    },
+    {
+      "id": "73de8145-ca82-4faf-8a94-a9eefa1e786a",
+      "name": "JAVRIV",
       "url": ""
     },
     {
@@ -4793,6 +4833,11 @@
       "url": ""
     },
     {
+      "id": "785977ca-8f3e-418a-bb8d-b11d7f27b7a5",
+      "name": "VEVOR Tools Store",
+      "url": ""
+    },
+    {
       "id": "7882b41d-d55e-4667-8972-dcf811f60ba0",
       "name": "SorelleShoppe",
       "url": ""
@@ -4800,6 +4845,11 @@
     {
       "id": "78a8ddd7-9b4e-4e77-b1c7-508c5c60b862",
       "name": "iDOO",
+      "url": ""
+    },
+    {
+      "id": "799299b5-954a-4d6d-a65b-220007ae6b30",
+      "name": "US-hangyu",
       "url": ""
     },
     {
@@ -4850,6 +4900,11 @@
     {
       "id": "7ac90db6-c199-4222-a623-9665b509e65f",
       "name": "GRACE KARIN",
+      "url": ""
+    },
+    {
+      "id": "7afd6b1d-1d39-47b2-81e7-7932a461653a",
+      "name": "Vacqueen",
       "url": ""
     },
     {
@@ -4905,6 +4960,11 @@
     {
       "id": "7d1489e1-524d-48d7-a032-9a30ad0dc75b",
       "name": "Everyday Medical",
+      "url": ""
+    },
+    {
+      "id": "7d35c6f0-3bad-4fff-b373-33a0122fbb51",
+      "name": "Pure Instinct",
       "url": ""
     },
     {
@@ -4983,6 +5043,11 @@
       "url": ""
     },
     {
+      "id": "7f161194-e98c-4b1f-8394-e6bf63bb6996",
+      "name": "Starbond",
+      "url": ""
+    },
+    {
       "id": "7f4173ef-9881-43ca-a3d1-4c5713064114",
       "name": "Aletha Health ",
       "url": ""
@@ -5053,13 +5118,13 @@
       "url": ""
     },
     {
-      "id": "813e81f0-c8e8-44a6-8720-c606d152ee93",
-      "name": "AYURA-US",
+      "id": "81317e3b-bd2b-443f-9db4-e08b3e40922b",
+      "name": "PolaStro",
       "url": ""
     },
     {
-      "id": "8155a286-da80-4b26-98e7-2e219f18b6ed",
-      "name": "Antarctic Star SC",
+      "id": "813e81f0-c8e8-44a6-8720-c606d152ee93",
+      "name": "AYURA-US",
       "url": ""
     },
     {
@@ -5103,6 +5168,11 @@
       "url": ""
     },
     {
+      "id": "82fdd2e9-fa3e-47a0-b8aa-d6557ad18c6d",
+      "name": "COOCHY SHAVE CREAM",
+      "url": ""
+    },
+    {
       "id": "831ff393-7889-47e8-a25b-be0a259386a7",
       "name": "SINOPHANT",
       "url": ""
@@ -5120,6 +5190,11 @@
     {
       "id": "834597dd-f8b3-4910-82ae-715f30d6af5c",
       "name": "The INKEY List",
+      "url": ""
+    },
+    {
+      "id": "83e37fdb-3393-49fc-b4eb-b4b128e24cab",
+      "name": "Just Ingredients Inc",
       "url": ""
     },
     {
@@ -5278,11 +5353,6 @@
       "url": ""
     },
     {
-      "id": "87e52dd4-15f2-4c4a-ad5f-4c1d625f352c",
-      "name": "BigRose",
-      "url": ""
-    },
-    {
       "id": "87e7e168-9734-4f66-82b9-085317f018f8",
       "name": "The Original LuLu",
       "url": ""
@@ -5303,6 +5373,11 @@
       "url": ""
     },
     {
+      "id": "881364b5-af9e-4356-b2ef-b2426ca05908",
+      "name": "Volta Store USA",
+      "url": ""
+    },
+    {
       "id": "88486da8-8d72-4ea1-940b-9a9ef60f5fb7",
       "name": "chuangyingyou",
       "url": ""
@@ -5315,6 +5390,11 @@
     {
       "id": "88955d62-3c6e-4056-a558-d47595435db1",
       "name": "Vitanica",
+      "url": ""
+    },
+    {
+      "id": "889f4040-315d-4769-83e4-4957e30ca8b5",
+      "name": "Mounting Dream",
       "url": ""
     },
     {
@@ -5373,6 +5453,11 @@
       "url": "https://www.amazon.com/stores/SousVideArt/page/A08B2BC6-D8FF-417E-82FA-B8D30C89DEFD"
     },
     {
+      "id": "8a928dd5-95ba-4d66-80f9-e33beba44fe3",
+      "name": "Agvee",
+      "url": ""
+    },
+    {
       "id": "8a962e86-a831-4c5c-9325-26dc1a9c401d",
       "name": "LazyOne",
       "url": ""
@@ -5410,6 +5495,11 @@
     {
       "id": "8bde1d89-15ae-42f2-a084-3e17436d9cfe",
       "name": "LISEN (NexaLevel)",
+      "url": ""
+    },
+    {
+      "id": "8c6484f4-b64f-42a7-8930-85803e8a2e0b",
+      "name": "Marycele",
       "url": ""
     },
     {
@@ -5455,6 +5545,11 @@
     {
       "id": "8d8007ed-1caa-4b35-b369-a8b7310983bc",
       "name": "Designer Wellness Seller",
+      "url": ""
+    },
+    {
+      "id": "8db68890-50ad-4bce-918e-8b95d83c7c1a",
+      "name": "BioOptimal",
       "url": ""
     },
     {
@@ -5583,6 +5678,11 @@
       "url": ""
     },
     {
+      "id": "904e9acd-80d0-48f5-bc4f-fa49be5cdc16",
+      "name": "Lollybanks",
+      "url": ""
+    },
+    {
       "id": "9080e508-a09d-4897-af52-dc1dc5ed11d2",
       "name": "KAOUDT",
       "url": ""
@@ -5675,11 +5775,6 @@
     {
       "id": "93352fe3-91b0-48d5-a464-cb6ce2caa799",
       "name": "The Ollie World",
-      "url": ""
-    },
-    {
-      "id": "93410f85-653c-4721-a217-95b7102eb25b",
-      "name": "Calming Comfort - Vendor",
       "url": ""
     },
     {
@@ -5803,13 +5898,13 @@
       "url": ""
     },
     {
-      "id": "95adf5c7-2105-4ce6-8ede-c7dcd6989ec6",
-      "name": "xingzhe",
+      "id": "95989fe0-82b9-47be-a199-735089954871",
+      "name": "Sunnecko US",
       "url": ""
     },
     {
-      "id": "95aed1b0-70e1-4fec-981d-15acb90777a2",
-      "name": "Ledger",
+      "id": "95adf5c7-2105-4ce6-8ede-c7dcd6989ec6",
+      "name": "xingzhe",
       "url": ""
     },
     {
@@ -5938,6 +6033,11 @@
       "url": ""
     },
     {
+      "id": "988dc789-a15d-45b2-bc5d-51b6e15f11d4",
+      "name": "Kidmi",
+      "url": ""
+    },
+    {
       "id": "989d2725-b2c3-4a25-8293-5b4aa92bd935",
       "name": "Uquora",
       "url": ""
@@ -5965,6 +6065,11 @@
     {
       "id": "99017e45-01f7-4f2d-9c59-43134c825ccc",
       "name": "Maximum Health Products",
+      "url": ""
+    },
+    {
+      "id": "993bf408-9394-4ce3-9d0f-eeda3bf44bbc",
+      "name": "YiXi Kitchen",
       "url": ""
     },
     {
@@ -6163,6 +6268,11 @@
       "url": "https://www.amazon.com/tcpglobal"
     },
     {
+      "id": "9e6b795b-8a59-4d88-8087-e2f4843c32fe",
+      "name": "Dnil",
+      "url": ""
+    },
+    {
       "id": "9e97ac87-14e1-42e9-9f96-273e2970ba63",
       "name": "Daytrip",
       "url": ""
@@ -6203,8 +6313,18 @@
       "url": ""
     },
     {
+      "id": "9f68b018-9ff7-4007-8005-5c68143e41fd",
+      "name": "Clip Strips Corp",
+      "url": ""
+    },
+    {
       "id": "9f7a350a-1841-4732-963f-ec4db68cb95e",
       "name": "Intsolution group",
+      "url": ""
+    },
+    {
+      "id": "9f8d4c95-70ec-465a-9411-42dfee8549fe",
+      "name": "YSYUSHUN",
       "url": ""
     },
     {
@@ -6235,16 +6355,6 @@
     {
       "id": "a0a9aad2-20e2-4d9d-8874-7d12c45f0723",
       "name": "YOSUDA",
-      "url": ""
-    },
-    {
-      "id": "a0ac32e0-2983-4180-acba-80c64a6c4610",
-      "name": "Sponsored ads - KDP",
-      "url": ""
-    },
-    {
-      "id": "a0b4dcf4-7502-487b-aa03-cc97e6603a30",
-      "name": "LOOV organic food",
       "url": ""
     },
     {
@@ -6588,11 +6698,6 @@
       "url": ""
     },
     {
-      "id": "a9bf8a57-f8d8-435d-9b6d-422fee397231",
-      "name": "ACBA0Q93ZWZ179",
-      "url": ""
-    },
-    {
       "id": "a9e2dfd3-b9ed-46f5-be79-ef4bac7be6e3",
       "name": "Roaring Spring Paper Products - VC",
       "url": ""
@@ -6605,11 +6710,6 @@
     {
       "id": "aa0d9480-5aca-436f-ba9c-d9823c579858",
       "name": "Opemiby",
-      "url": ""
-    },
-    {
-      "id": "aa0e18d2-2a20-4270-a9f2-106afc839090",
-      "name": "Baseboard Buddy",
       "url": ""
     },
     {
@@ -6640,6 +6740,11 @@
     {
       "id": "ab446289-b7dd-468f-adf7-3c19a2f394d8",
       "name": "FLIGE Wellness",
+      "url": ""
+    },
+    {
+      "id": "ab84beb4-4015-4c72-9fe5-50f91b6065f4",
+      "name": "Totally Bamboo",
       "url": ""
     },
     {
@@ -6808,6 +6913,11 @@
       "url": ""
     },
     {
+      "id": "aed3c661-12d4-4eed-94e0-c29077614b52",
+      "name": "Chronoline2077",
+      "url": ""
+    },
+    {
       "id": "aede172f-aeb2-45dd-8a33-bebde3c43033",
       "name": "Aldevi",
       "url": ""
@@ -6836,11 +6946,6 @@
       "id": "af461aed-181f-4c3e-ba83-20fc857fc94f",
       "name": "Quality of Life Supplements",
       "url": "https://www.amazon.com/quality_of_life"
-    },
-    {
-      "id": "af53cb9b-b4ca-40b5-ad37-b8cfcc081483",
-      "name": "Magic Mesh",
-      "url": ""
     },
     {
       "id": "af7e6dd8-72ce-4d21-9cc4-f44078c7210f",
@@ -6883,8 +6988,8 @@
       "url": ""
     },
     {
-      "id": "b095a22a-583e-4c33-b01e-ee7bd8c6a29b",
-      "name": "HensonShaving",
+      "id": "b0772e21-2bfc-4434-b689-3247952043bd",
+      "name": "Fab Glass and Mirror",
       "url": ""
     },
     {
@@ -6975,6 +7080,11 @@
     {
       "id": "b2f74397-25e2-47bf-8567-95ef35cc878e",
       "name": "Fun Times Soda Pop",
+      "url": ""
+    },
+    {
+      "id": "b31e57d2-a0d0-4253-8b76-581e41fc3b72",
+      "name": "Shop-Vac",
       "url": ""
     },
     {
@@ -7203,11 +7313,6 @@
       "url": ""
     },
     {
-      "id": "b8597038-ca08-4f1d-b43d-1b5d7def4455",
-      "name": "L'eggs Vendor",
-      "url": ""
-    },
-    {
       "id": "b8b39720-dc5b-4ca9-8cde-4a52a83f5aae",
       "name": "EOEBOT",
       "url": ""
@@ -7253,6 +7358,11 @@
       "url": ""
     },
     {
+      "id": "b9cf8126-4e10-4de4-afba-39533f46738d",
+      "name": "Enji Prime",
+      "url": ""
+    },
+    {
       "id": "b9d1c974-df92-4495-8f7b-7b8ad7805e9a",
       "name": "Le Parfait America",
       "url": ""
@@ -7265,6 +7375,11 @@
     {
       "id": "b9fa03ab-9909-4da6-9bc7-796f908b5be9",
       "name": "IUGA",
+      "url": ""
+    },
+    {
+      "id": "b9fa9e6b-4f65-444d-8573-e9ed2cbb2484",
+      "name": "Drink PRIME",
       "url": ""
     },
     {
@@ -7518,11 +7633,6 @@
       "url": ""
     },
     {
-      "id": "c07e46a7-0aa6-4fe9-b894-dd9d5401f883",
-      "name": "Super Facialist",
-      "url": ""
-    },
-    {
       "id": "c082ae41-ce08-4552-b41d-1f1d102980ba",
       "name": "wowatt-us",
       "url": ""
@@ -7665,6 +7775,11 @@
     {
       "id": "c4566137-869f-48e7-b768-e743dfe8cd25",
       "name": "Cobra Electronics ",
+      "url": ""
+    },
+    {
+      "id": "c45e899c-eb18-4d49-b91d-1a8eccba585d",
+      "name": "SAILUN",
       "url": ""
     },
     {
@@ -7999,12 +8114,7 @@
     },
     {
       "id": "cd31dac1-9fe2-4187-955c-91c4f0774ca9",
-      "name": "Winmore-US",
-      "url": ""
-    },
-    {
-      "id": "cd506e09-05b9-41c2-88c3-9d5987e1ad95",
-      "name": "Aromasong Salt Co. ",
+      "name": "CHICLEW-US",
       "url": ""
     },
     {
@@ -8030,6 +8140,11 @@
     {
       "id": "cda016d7-f315-48b2-9853-44b97a3d4d9b",
       "name": "FlavCity",
+      "url": ""
+    },
+    {
+      "id": "cdde60ea-3752-40dd-bfcd-df37a20e72ab",
+      "name": "Flipper Devices Store",
       "url": ""
     },
     {
@@ -8128,8 +8243,13 @@
       "url": ""
     },
     {
+      "id": "d0b72c5a-04d8-4d9f-a80f-8e56afc31a64",
+      "name": "AM-WC-US12",
+      "url": ""
+    },
+    {
       "id": "d0c1b2e1-5297-4ba8-ab16-356079e61fdd",
-      "name": "AlundeciTrading",
+      "name": "MM iMATCHME",
       "url": ""
     },
     {
@@ -8378,8 +8498,13 @@
       "url": ""
     },
     {
+      "id": "d7d71ab8-61eb-4b8b-8dbc-3e63b8e6c735",
+      "name": "Delighkidz",
+      "url": ""
+    },
+    {
       "id": "d7e5b56d-7f7c-48b4-9ab5-9191419c4ca9",
-      "name": "EAMTI Jewelry",
+      "name": "EAMTI",
       "url": ""
     },
     {
@@ -8804,7 +8929,7 @@
     },
     {
       "id": "e08d88a3-5139-4d45-a9a6-72abc62e1fbd",
-      "name": "Ora Organic",
+      "name": "Ora",
       "url": "https://www.amazon.com/stores/Ora/page/A6DEC39F-1722-49E7-96A8-99E56C262AA6?ref_=ast_bln"
     },
     {
@@ -9068,11 +9193,6 @@
       "url": ""
     },
     {
-      "id": "e68bba67-9afa-471d-90d8-9017602dc7fd",
-      "name": "Vetr Labs",
-      "url": ""
-    },
-    {
       "id": "e6c2305a-efb3-4cdb-9125-3185ced70e05",
       "name": "C4 Energy| XTEND| Cellucor",
       "url": ""
@@ -9168,11 +9288,6 @@
       "url": ""
     },
     {
-      "id": "e8f9a3c0-74b6-4ac5-b4e6-63e521b75bb3",
-      "name": "The Ridge Farm ™",
-      "url": ""
-    },
-    {
       "id": "e9263c8f-b917-41ef-af5e-482954b20f6e",
       "name": "Ueevii",
       "url": ""
@@ -9220,6 +9335,11 @@
     {
       "id": "eb62478d-377f-46c8-86d6-34cd55cc6ef2",
       "name": "ProSupps",
+      "url": ""
+    },
+    {
+      "id": "eb65e7ee-a125-4a3d-af64-9602266b27a7",
+      "name": "fatty15",
       "url": ""
     },
     {
@@ -9638,11 +9758,6 @@
       "url": ""
     },
     {
-      "id": "f8deb631-2104-463e-a73f-87633582ca69",
-      "name": "Clear Probiotics",
-      "url": ""
-    },
-    {
       "id": "f8ec84b6-2b7f-473f-89e2-8db57a840a00",
       "name": "ADAMOLIFE",
       "url": ""
@@ -9823,6 +9938,11 @@
       "url": ""
     },
     {
+      "id": "fcd839fe-3459-4d57-b3f8-aae281d8c74e",
+      "name": "GubVorn",
+      "url": ""
+    },
+    {
       "id": "fd37647b-d13c-41a1-8561-64e45930afde",
       "name": "NIIMBOT",
       "url": ""
@@ -9903,11 +10023,6 @@
       "url": ""
     },
     {
-      "id": "fec3b191-3c81-4183-a689-2277fdcb3baa",
-      "name": "Supreme Silent Sports",
-      "url": ""
-    },
-    {
       "id": "feeb51c4-2e7e-459b-a059-ebccf9568f62",
       "name": "PuroAir",
       "url": "https://www.amazon.com/stores/PuroAir/page/EB082AC5-708A-4E9D-8342-A968321A535A?ref_=ast_bln"
@@ -9950,11 +10065,6 @@
     {
       "id": "ffc0cade-9c1c-41c6-8e34-330a2006d1b3",
       "name": "Horsepower",
-      "url": ""
-    },
-    {
-      "id": "ffd33c73-7057-440f-8b2f-3df666b66141",
-      "name": "Juniper Clean",
       "url": ""
     },
     {
