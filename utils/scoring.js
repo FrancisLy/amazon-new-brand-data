@@ -130,12 +130,12 @@ const SEASONAL_MAP = {
 };
 
 /**
- * 计算品牌的推广时效性评分 (0-20)
+ * 计算品牌的推广时效性评分 (0-25)
  */
 function scoreSeasonality(brand, details) {
   const month = new Date().getMonth() + 1;
   const seasonal = SEASONAL_MAP[month];
-  if (!seasonal) return { score: 10, matchedKeywords: [], seasonLabel: '' };
+  if (!seasonal) return { score: 13, matchedKeywords: [], seasonLabel: '' };
 
   const texts = [];
   if (brand.name) texts.push(brand.name.toLowerCase());
@@ -158,10 +158,10 @@ function scoreSeasonality(brand, details) {
   }
 
   if (matchedKeywords.length === 0) {
-    return { score: 5, matchedKeywords: [], seasonLabel: seasonal.label };
+    return { score: 6, matchedKeywords: [], seasonLabel: seasonal.label };
   }
 
-  const score = Math.min(20, 5 + rawScore);
+  const score = Math.min(25, 6 + Math.round(rawScore * 1.27));
   return { score, matchedKeywords: matchedKeywords.slice(0, 5), seasonLabel: seasonal.label };
 }
 
@@ -231,16 +231,15 @@ async function fetchLevantaBrandDetails(apiKey, brandId) {
 }
 
 // 中性基础分：当 API 不提供某维度数据时使用，避免全部归零
-const NEUTRAL_SCORE = 10;
+const NEUTRAL_SCORE = 13;
 
 /**
- * 核心评分函数：5 维度各 20 分，总分 100
+ * 核心评分函数：4 维度各 25 分，总分 100
  *
- * 1. 品牌流量 (0-20)：产品数量 + 评价总数
- * 2. 佣金水平 (0-20)：佣金率（百分比）
- * 3. 产品销量 (0-20)：产品数 + 评分 + 价格
- * 4. 亚马逊权重 (0-20)：评分 + 店铺 URL 质量
- * 5. 推广时效 (0-20)：季节性 + 节假日匹配度
+ * 1. 品牌流量 (0-25)：产品数量 + 评价总数
+ * 2. 佣金水平 (0-25)：佣金率（百分比）
+ * 3. 产品销量 (0-25)：产品数 + 评分 + 价格
+ * 4. 推广时效 (0-25)：季节性 + 节假日匹配度
  *
  * 数据来源说明：
  * - Levanta: 有产品详情 API（fetchLevantaBrandDetails），可获取全部维度数据
@@ -250,12 +249,12 @@ const NEUTRAL_SCORE = 10;
  */
 function scoreBrand(brand, platform, details) {
   const d = details || {};
-  const scores = { traffic: 0, commission: 0, sales: 0, ranking: 0, seasonality: 0 };
+  const scores = { traffic: 0, commission: 0, sales: 0, seasonality: 0 };
   const sources = {};
   // 标记各维度是否有数据来源
   const hasData = { traffic: false, commission: false, sales: false };
 
-  // === 维度1: 品牌流量 (0-20) ===
+  // === 维度1: 品牌流量 (0-25) ===
   // 统一从各平台获取产品数
   const productCount = d.productCount
     ?? brand.activeProductCount
@@ -268,13 +267,13 @@ function scoreBrand(brand, platform, details) {
   if (productCount > 0 || totalRatings > 0) {
     hasData.traffic = true;
     // 产品数：至少1分起（避免小数产品数得0分）
-    const productScore = productCount > 0 ? Math.max(1, Math.min(12, Math.round(productCount / 17))) : 0;
-    const ratingScore = Math.min(8, Math.round(totalRatings / 125));
+    const productScore = productCount > 0 ? Math.max(1, Math.min(15, Math.round(productCount / 13))) : 0;
+    const ratingScore = Math.min(10, Math.round(totalRatings / 100));
     scores.traffic = productScore + ratingScore;
   }
   sources.totalRatings = totalRatings;
 
-  // === 维度2: 佣金水平 (0-20) ===
+  // === 维度2: 佣金水平 (0-25) ===
   let commissionRate = 0;
   if (d.avgCommission !== undefined && d.avgCommission > 0) {
     // Levanta details（已×100，是百分比）
@@ -300,50 +299,36 @@ function scoreBrand(brand, platform, details) {
       hasData.commission = true;
     }
   }
-  // 佣金率百分比直接映射（10% → 10分，20%+ → 20分）
-  scores.commission = Math.min(20, Math.round(commissionRate));
+  // 佣金率百分比映射（10% → 13分，20%+ → 25分）
+  scores.commission = Math.min(25, Math.round(commissionRate * 1.25));
   sources.commissionRate = commissionRate;
 
-  // === 维度3: 产品销量 (0-20) ===
+  // === 维度3: 产品销量 (0-25) ===
   const avgRating = d.avgRating ?? 0;
   const avgPrice = d.avgPrice ?? 0;
   if (productCount > 0 || avgRating > 0 || avgPrice > 0) {
     hasData.sales = true;
     // 产品数：至少1分起
-    const productScore = productCount > 0 ? Math.max(1, Math.min(8, Math.round(productCount / 13))) : 0;
-    const ratingScore = Math.min(6, Math.round(avgRating * 1.2));
-    const priceScore = Math.min(6, Math.round(avgPrice / 17));
+    const productScore = productCount > 0 ? Math.max(1, Math.min(10, Math.round(productCount / 10))) : 0;
+    const ratingScore = Math.min(8, Math.round(avgRating * 1.6));
+    const priceScore = Math.min(7, Math.round(avgPrice / 15));
     scores.sales = productScore + ratingScore + priceScore;
   }
   sources.avgRating = avgRating;
   sources.avgPrice = avgPrice;
 
-  // 对于无数据来源的维度，给中性分（NEUTRAL_SCORE=10），避免全部归零
+  // 对于无数据来源的维度，给中性分（NEUTRAL_SCORE=13），避免全部归零
   if (!hasData.traffic) scores.traffic = NEUTRAL_SCORE;
   if (!hasData.commission) scores.commission = NEUTRAL_SCORE;
   if (!hasData.sales) scores.sales = NEUTRAL_SCORE;
 
-  // === 维度4: 亚马逊排名/权重 (0-20) ===
-  const url = brand.url || '';
-  let urlScore = 4;
-  if (url.includes('/stores/') && url.includes('/page/')) urlScore = 14;
-  else if (url.includes('/stores/')) urlScore = 12;
-  else if (url.includes('/s?me=')) urlScore = 8;
-  else if (url.includes('amazon.com') || url.includes('amazon.co') || url.includes('amazon.de')) urlScore = 6;
-  if (!url) urlScore = 2;
-
-  const ratingBoost = Math.min(8, Math.round((avgRating || 0) * 1.6));
-  scores.ranking = Math.min(20, urlScore + ratingBoost);
-  sources.urlScore = urlScore;
-  sources.storefrontUrl = url ? '有' : '无';
-
-  // === 维度5: 推广时效性 (0-20) ===
+  // === 维度4: 推广时效性 (0-25) ===
   const seasonResult = scoreSeasonality(brand, d);
   scores.seasonality = seasonResult.score;
   sources.seasonLabel = seasonResult.seasonLabel;
   sources.matchedKeywords = seasonResult.matchedKeywords;
 
-  const total = scores.traffic + scores.commission + scores.sales + scores.ranking + scores.seasonality;
+  const total = scores.traffic + scores.commission + scores.sales + scores.seasonality;
 
   return {
     total,

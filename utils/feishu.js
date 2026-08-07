@@ -44,8 +44,8 @@ async function sendFeishuNotification(comparisonResults, config) {
           const emoji = gradeEmoji[s.grade] || '⚪';
           const dim = s.scores;
           const src = s.sources;
-          // 五维评分明细
-          let detail = `流量${dim.traffic} 佣金${dim.commission} 销量${dim.sales} 权重${dim.ranking} 时效${dim.seasonality}`;
+          // 四维评分明细
+          let detail = `流量${dim.traffic} 佣金${dim.commission} 销量${dim.sales} 时效${dim.seasonality}`;
           // 补充关键数据
           if (src.commissionRate > 0) detail += ` | 佣金${src.commissionRate.toFixed(1)}%`;
           if (src.productCount > 0) detail += ` | 产品${src.productCount}`;
