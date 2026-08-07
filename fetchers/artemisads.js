@@ -50,10 +50,14 @@ async function fetchArtemisAdsBrands(apiKey) {
       if (Array.isArray(data.brands) && data.brands.length > 0) {
         for (const b of data.brands) {
           brands.push({
-            // 跨 marketplace 合并时用 marketplace:brandId 保证唯一
             id: `${marketplace}:${b.brandId}`,
             name: `${b.brandName} [${marketplace}]`,
-            url: b.url || ''
+            url: b.url || '',
+            avgCommission: b.avgCommission || 0,
+            activeProductCount: b.activeProductCount || 0,
+            biography: b.biography || '',
+            brandOwnerName: b.brandOwnerName || '',
+            marketplace: marketplace
           });
         }
       }

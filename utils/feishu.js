@@ -47,10 +47,32 @@ async function sendFeishuNotification(comparisonResults, config) {
     let fields = [];
 
     if (result.new.length > 0) {
-      fields.push({
-        is_short: false,
-        text: `**今日新增 (${result.new.length}个)**\n${result.new.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.new.length > 20 ? '\n...' : ''}`
-      });
+      // 有评分数据时，按评分展示新增品牌
+      if (result.scoredNew && result.scoredNew.length > 0) {
+        const topScored = result.scoredNew.slice(0, 15);
+        const gradeEmoji = { A: '🟢', B: '🟡', C: '🟠', D: '🔴' };
+        const newLines = topScored.map(s => {
+          const emoji = gradeEmoji[s.grade] || '⚪';
+          const dim = s.scores;
+          const src = s.sources;
+          // 评分明细行
+          let detail = `流量${dim.traffic} 佣金${dim.commission} 销量${dim.sales} 权重${dim.ranking}`;
+          // 补充关键数据
+          if (src.commissionRate > 0) detail += ` | 佣金${src.commissionRate.toFixed(1)}%`;
+          if (src.productCount > 0) detail += ` | 产品${src.productCount}`;
+          if (src.avgRating > 0) detail += ` | 评分${src.avgRating.toFixed(1)}★`;
+          return `${emoji} [${s.total}分] ${s.brand.name}\n    ${detail}`;
+        }).join('\n');
+        fields.push({
+          is_short: false,
+          text: `**今日新增 (${result.new.length}个) - 按评分排序**\n${newLines}${result.new.length > 15 ? '\n...(仅展示前15个)' : ''}`
+        });
+      } else {
+        fields.push({
+          is_short: false,
+          text: `**今日新增 (${result.new.length}个)**\n${result.new.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.new.length > 20 ? '\n...' : ''}`
+        });
+      }
     }
 
     if (result.removed.length > 0) {

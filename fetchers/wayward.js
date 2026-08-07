@@ -49,7 +49,9 @@ async function fetchWaywardBrands(apiKey) {
       brands.push(...data.brands.map(b => ({
         id: b.id,
         name: b.name,
-        url: ''
+        url: b.url || b.storefront_url || '',
+        commission_rate: b.commission_rate || b.attribution_commission || '',
+        product_count: b.product_count || b.active_products || 0
       })));
 
       if (pageNumber >= totalPages) {

@@ -42,7 +42,9 @@ async function fetchLevantaBrands(apiKey) {
         brands.push(...data.brands.map(b => ({
           id: b.brandId,
           name: b.brandName,
-          url: b.url
+          url: b.url || '',
+          bio: b.bio || '',
+          image: b.image || ''
         })));
       }
 

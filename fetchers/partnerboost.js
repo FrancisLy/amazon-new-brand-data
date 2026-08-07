@@ -43,7 +43,10 @@ async function fetchPartnerBoostBrands(apiKey) {
       brands.push(...data.data.list.map(b => ({
         id: b.bid,
         name: b.brand_name,
-        url: b.amazon_store_url || ''
+        url: b.amazon_store_url || '',
+        category: b.category || '',
+        commission_rate: b.commission_rate || '',
+        product_count: b.product_count || 0
       })));
 
       if (!data.data.hasMore) {
