@@ -50,8 +50,9 @@ async function fetchWaywardBrands(apiKey) {
         id: b.id,
         name: b.name,
         url: b.url || b.storefront_url || '',
-        commission_rate: b.commission_rate || b.attribution_commission || '',
-        product_count: b.product_count || b.active_products || 0
+        avg_commission: b.avg_commission || 0,
+        active_products_count: b.active_products_count || 0,
+        description: b.description || ''
       })));
 
       if (pageNumber >= totalPages) {

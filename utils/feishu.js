@@ -39,9 +39,8 @@ async function sendFeishuNotification(comparisonResults, config) {
 
     if (result.new.length > 0) {
       if (result.scoredNew && result.scoredNew.length > 0) {
-        const topScored = result.scoredNew.slice(0, 15);
         const gradeEmoji = { A: '🟢', B: '🟡', C: '🟠', D: '🔴' };
-        const newLines = topScored.map(s => {
+        const newLines = result.scoredNew.map(s => {
           const emoji = gradeEmoji[s.grade] || '⚪';
           const dim = s.scores;
           const src = s.sources;
@@ -58,15 +57,15 @@ async function sendFeishuNotification(comparisonResults, config) {
           return `${emoji} [${s.total}分] ${s.brand.name}\n    ${detail}`;
         }).join('\n');
         // 顶部标注当前季节
-        const seasonNote = topScored[0]?.sources?.seasonLabel ? `（本期: ${topScored[0].sources.seasonLabel}）` : '';
+        const seasonNote = result.scoredNew[0]?.sources?.seasonLabel ? `（本期: ${result.scoredNew[0].sources.seasonLabel}）` : '';
         fields.push({
           is_short: false,
-          text: `**今日新增 (${result.new.length}个) - 按评分排序**${seasonNote}\n${newLines}${result.new.length > 15 ? '\n...(仅展示前15个)' : ''}`
+          text: `**今日新增 (${result.new.length}个) - 按评分排序**${seasonNote}\n${newLines}`
         });
       } else {
         fields.push({
           is_short: false,
-          text: `**今日新增 (${result.new.length}个)**\n${result.new.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.new.length > 20 ? '\n...' : ''}`
+          text: `**今日新增 (${result.new.length}个)**\n${result.new.map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}`
         });
       }
     }
@@ -74,7 +73,7 @@ async function sendFeishuNotification(comparisonResults, config) {
     if (result.removed.length > 0) {
       fields.push({
         is_short: false,
-        text: `**今日下架 (${result.removed.length}个)**\n${result.removed.slice(0, 20).map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}${result.removed.length > 20 ? '\n...' : ''}`
+        text: `**今日下架 (${result.removed.length}个)**\n${result.removed.map(b => `- ${b.name}（ID: ${b.id}）`).join('\n')}`
       });
     }
 

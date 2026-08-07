@@ -143,6 +143,7 @@ function scoreSeasonality(brand, details) {
   if (brand.biography) texts.push(brand.biography.toLowerCase());
   if (brand.category) texts.push(brand.category.toLowerCase());
   if (brand.brandOwnerName) texts.push(brand.brandOwnerName.toLowerCase());
+  if (brand.description) texts.push(brand.description.toLowerCase());
   if (details?.topCategory) texts.push(details.topCategory.toLowerCase());
   const combinedText = texts.join(' ');
 
@@ -166,6 +167,7 @@ function scoreSeasonality(brand, details) {
 
 /**
  * 调用 Levanta creator v2 products API 获取品牌详情
+ * 注意：Levanta 的佣金是小数格式（0.12 = 12%），需要 ×100
  */
 async function fetchLevantaBrandDetails(apiKey, brandId) {
   const url = new URL('https://app.levanta.io/api/creator/v2/products');
@@ -191,7 +193,8 @@ async function fetchLevantaBrandDetails(apiKey, brandId) {
     const categories = {};
 
     for (const p of products) {
-      const commission = parseFloat(p.commission?.totalCommission || '0');
+      // Levanta 佣金是小数格式：totalCommission: "0.120" = 12%
+      const commission = parseFloat(p.commission?.totalCommission || '0') * 100;
       totalCommission += commission;
 
       if (p.rating && parseFloat(p.rating) > 0) {
@@ -227,62 +230,109 @@ async function fetchLevantaBrandDetails(apiKey, brandId) {
   }
 }
 
+// 中性基础分：当 API 不提供某维度数据时使用，避免全部归零
+const NEUTRAL_SCORE = 10;
+
 /**
  * 核心评分函数：5 维度各 20 分，总分 100
  *
  * 1. 品牌流量 (0-20)：产品数量 + 评价总数
- * 2. 佣金水平 (0-20)：佣金率
+ * 2. 佣金水平 (0-20)：佣金率（百分比）
  * 3. 产品销量 (0-20)：产品数 + 评分 + 价格
  * 4. 亚马逊权重 (0-20)：评分 + 店铺 URL 质量
  * 5. 推广时效 (0-20)：季节性 + 节假日匹配度
+ *
+ * 数据来源说明：
+ * - Levanta: 有产品详情 API（fetchLevantaBrandDetails），可获取全部维度数据
+ * - ArtemisAds: 列表 API 自带 avgCommission + activeProductCount + biography
+ * - Wayward: 列表 API 自带 avg_commission + active_products_count
+ * - PartnerBoost: 列表 API 不提供佣金/产品数据，仅 id/name/url/country
  */
 function scoreBrand(brand, platform, details) {
   const d = details || {};
   const scores = { traffic: 0, commission: 0, sales: 0, ranking: 0, seasonality: 0 };
   const sources = {};
+  // 标记各维度是否有数据来源
+  const hasData = { traffic: false, commission: false, sales: false };
 
   // === 维度1: 品牌流量 (0-20) ===
-  const productCount = d.productCount ?? brand.activeProductCount ?? brand.product_count ?? 0;
+  // 统一从各平台获取产品数
+  const productCount = d.productCount
+    ?? brand.activeProductCount
+    ?? brand.active_products_count
+    ?? brand.product_count
+    ?? 0;
   const totalRatings = d.totalRatings ?? 0;
   sources.productCount = productCount;
-  scores.traffic = Math.min(12, Math.round(productCount / 17)) +
-                   Math.min(8, Math.round(totalRatings / 125));
+
+  if (productCount > 0 || totalRatings > 0) {
+    hasData.traffic = true;
+    // 产品数：至少1分起（避免小数产品数得0分）
+    const productScore = productCount > 0 ? Math.max(1, Math.min(12, Math.round(productCount / 17))) : 0;
+    const ratingScore = Math.min(8, Math.round(totalRatings / 125));
+    scores.traffic = productScore + ratingScore;
+  }
   sources.totalRatings = totalRatings;
 
   // === 维度2: 佣金水平 (0-20) ===
   let commissionRate = 0;
-  if (d.avgCommission !== undefined) {
+  if (d.avgCommission !== undefined && d.avgCommission > 0) {
+    // Levanta details（已×100，是百分比）
     commissionRate = d.avgCommission;
     sources.commissionSource = 'Levanta产品API';
-  } else if (brand.avgCommission) {
+    hasData.commission = true;
+  } else if (brand.avgCommission > 0) {
+    // ArtemisAds（百分比格式，如 10, 15, 24.3）
     commissionRate = brand.avgCommission;
     sources.commissionSource = 'ArtemisAds';
+    hasData.commission = true;
+  } else if (brand.avg_commission > 0) {
+    // Wayward（百分比格式）
+    commissionRate = brand.avg_commission;
+    sources.commissionSource = 'Wayward';
+    hasData.commission = true;
   } else if (brand.commission_rate) {
-    commissionRate = parseFloat(brand.commission_rate) || 0;
-    sources.commissionSource = '平台数据';
+    // PartnerBoost 或其他（可能带%号）
+    const parsed = parseFloat(brand.commission_rate);
+    if (parsed > 0) {
+      commissionRate = parsed;
+      sources.commissionSource = '平台数据';
+      hasData.commission = true;
+    }
   }
-  scores.commission = Math.min(20, Math.round(commissionRate * 1.0));
+  // 佣金率百分比直接映射（10% → 10分，20%+ → 20分）
+  scores.commission = Math.min(20, Math.round(commissionRate));
   sources.commissionRate = commissionRate;
 
   // === 维度3: 产品销量 (0-20) ===
   const avgRating = d.avgRating ?? 0;
   const avgPrice = d.avgPrice ?? 0;
-  scores.sales = Math.min(8, Math.round(productCount / 13)) +
-                 Math.min(6, Math.round(avgRating * 1.2)) +
-                 Math.min(6, Math.round(avgPrice / 17));
+  if (productCount > 0 || avgRating > 0 || avgPrice > 0) {
+    hasData.sales = true;
+    // 产品数：至少1分起
+    const productScore = productCount > 0 ? Math.max(1, Math.min(8, Math.round(productCount / 13))) : 0;
+    const ratingScore = Math.min(6, Math.round(avgRating * 1.2));
+    const priceScore = Math.min(6, Math.round(avgPrice / 17));
+    scores.sales = productScore + ratingScore + priceScore;
+  }
   sources.avgRating = avgRating;
   sources.avgPrice = avgPrice;
+
+  // 对于无数据来源的维度，给中性分（NEUTRAL_SCORE=10），避免全部归零
+  if (!hasData.traffic) scores.traffic = NEUTRAL_SCORE;
+  if (!hasData.commission) scores.commission = NEUTRAL_SCORE;
+  if (!hasData.sales) scores.sales = NEUTRAL_SCORE;
 
   // === 维度4: 亚马逊排名/权重 (0-20) ===
   const url = brand.url || '';
   let urlScore = 4;
-  if (url.includes('/stores/')) urlScore = 12;
-  else if (url.includes('/stores') && url.includes('page/')) urlScore = 14;
+  if (url.includes('/stores/') && url.includes('/page/')) urlScore = 14;
+  else if (url.includes('/stores/')) urlScore = 12;
   else if (url.includes('/s?me=')) urlScore = 8;
-  else if (url.includes('amazon.com') || url.includes('amazon.co')) urlScore = 6;
+  else if (url.includes('amazon.com') || url.includes('amazon.co') || url.includes('amazon.de')) urlScore = 6;
   if (!url) urlScore = 2;
 
-  const ratingBoost = Math.min(8, Math.round(avgRating * 1.6));
+  const ratingBoost = Math.min(8, Math.round((avgRating || 0) * 1.6));
   scores.ranking = Math.min(20, urlScore + ratingBoost);
   sources.urlScore = urlScore;
   sources.storefrontUrl = url ? '有' : '无';
