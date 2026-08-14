@@ -7,7 +7,6 @@ const { fetchWaywardBrands } = require('./fetchers/wayward');
 const { fetchArtemisAdsBrands } = require('./fetchers/artemisads');
 const { saveBrands, loadBrands, getYesterdayDate, compareBrands, cleanupOldHistory } = require('./utils/storage');
 const { sendFeishuNotification } = require('./utils/feishu');
-const { scoreNewBrands } = require('./utils/scoring');
 
 const LEVANTA_API_KEY = process.env.LEVANTA_API_KEY;
 const PARTNERBOOST_API_KEY = process.env.PARTNERBOOST_API_KEY;
@@ -46,22 +45,6 @@ async function runDailyTask() {
         const yesterdayBrands = await loadBrands(p.key, yesterdayDate);
         comparisonResults[p.key] = compareBrands(todayBrands, yesterdayBrands);
         await saveBrands(p.key, todayBrands);
-
-        // 对新增品牌评分
-        if (comparisonResults[p.key].new.length > 0) {
-          console.log(`\n${p.key}: 开始对 ${comparisonResults[p.key].new.length} 个新增品牌评分...`);
-          const platformApiKey = p.key === 'levanta' ? LEVANTA_API_KEY :
-                                  p.key === 'partnerboost' ? PARTNERBOOST_API_KEY :
-                                  p.key === 'wayward' ? WAYWARD_API_KEY :
-                                  p.key === 'artemisads' ? ARTEMISADS_API_KEY : null;
-          try {
-            const scored = await scoreNewBrands(comparisonResults[p.key].new, p.key, platformApiKey);
-            comparisonResults[p.key].scoredNew = scored;
-            console.log(`${p.key}: 评分完成，最高分 ${scored[0]?.total || 0}`);
-          } catch (e) {
-            console.error(`${p.key}: 评分失败 - ${e.message}`);
-          }
-        }
       } else {
         console.error(`${p.key} 获取失败，跳过: ${result.reason && result.reason.message}`);
         comparisonResults[p.key] = {
