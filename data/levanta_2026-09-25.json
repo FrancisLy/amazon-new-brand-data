@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-17",
-  "timestamp": "2026-09-17T04:38:33.596Z",
+  "date": "2026-09-25",
+  "timestamp": "2026-09-25T04:37:59.390Z",
   "brands": [
     {
       "id": "000ca4c9-f562-4b7d-9b0b-42d1b0b03d63",
@@ -13,7 +13,7 @@
       "id": "00703355-5fcd-4350-bc6d-8f3335605f07",
       "name": "Nuliie",
       "url": "",
-      "bio": "Earn 15% commission with Nuliie, a comfort-first mom-care brand trusted by 600,000+ moms worldwide and averaging 4.5 stars on Amazon. Our breastfeeding and postpartum essentials include wearable breast pumps, ultra-thin leakproof nursing pads, milk storage, and baby-care products designed for comfort, discretion, and everyday routines. We partner with creators sharing authentic pumping, feeding, postpartum, and family-life content.",
+      "bio": "Partner with Nuliie, a comfort-first mom-care brand trusted by 600,000+ moms worldwide with a 4.9-star Amazon store rating. We offer breastfeeding, postpartum, milk storage, and baby-care essentials designed for real mom routines. Commission rates vary by product, so please check each product listing for the current rate.",
       "image": "https://levanta-public.s3.amazonaws.com/QHwieWixEP3dnqALXf"
     },
     {
@@ -143,6 +143,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/5Ez7btI0fwTxHEwnD2"
     },
     {
+      "id": "02624a8c-1e93-46f2-bc09-0c326ca0b964",
+      "name": "STTG Design",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "0279a38b-feb1-416a-968b-1b6e7867712f",
       "name": "ETENWOLF",
       "url": "",
@@ -255,6 +262,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/sCgMNXQcqFZpAh23RZ"
     },
     {
+      "id": "039fe3d9-4804-4c3d-a182-f721221d5b1a",
+      "name": "ICESKY-US",
+      "url": "",
+      "bio": "ICESKY is a professional dash cam brand dedicated to providing drivers with high-quality, reliable, and innovative driving solutions. With a focus on clear imaging, smart technology, and user-friendly design, ICESKY creates dash cameras built to capture every important moment on the road. Our mission is to bring drivers around the world greater confidence, security, and peace of mind on every journey.",
+      "image": "https://levanta-public.s3.amazonaws.com/KwE6G208uI98kbn8uU"
+    },
+    {
       "id": "03b4c139-5fcd-4ad1-9e1e-1a04de85ea10",
       "name": "SterlingPro",
       "url": "",
@@ -365,6 +379,13 @@
       "url": "",
       "bio": "COSLUS is a leading Amazon personal care brand with best-selling products across Oral Care, Nail Care, and Skincare. With 10M+ units sold, hundreds of thousands of reviews, ADA Accepted water flossers, and multiple Amazon Best Sellers—including #1 in Power Dental Flossers—COSLUS offers creators and affiliates trusted, high-converting products with proven demand.",
       "image": "https://levanta-public.s3.amazonaws.com/FeEI9nwdhDNOBgbm3w"
+    },
+    {
+      "id": "0539187a-697b-4607-af0d-62d187ab6104",
+      "name": "AHJ-US",
+      "url": "",
+      "bio": "",
+      "image": ""
     },
     {
       "id": "053ba5c8-64a2-4975-a275-04a886dedcda",
@@ -559,8 +580,8 @@
       "id": "08329e02-1745-4820-90d1-914f65fdfb45",
       "name": "Wizard Wellness",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "Wizard Wellness created the nasal wellness category: drug-free, probiotic-powered care for the most ignored part of your body. Microbiome science came for the gut, then the skin, then the mouth, and skipped the nose entirely. We fixed that.",
+      "image": "https://levanta-public.s3.amazonaws.com/5ZlMI3IF6cdo36HDBO"
     },
     {
       "id": "08363fe3-34fd-4046-aad9-2e7bb4ab553e",
@@ -829,6 +850,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/iZ74exWEr6UCH9IN2i"
     },
     {
+      "id": "0c8d2979-8ca3-4bec-a779-bc8e68dfcfeb",
+      "name": "Jack & Pup",
+      "url": "",
+      "bio": "Jack & Pup: NJ-based, small-batch dog treats since 2000. Single-ingredient chews, no mystery fillers — just honest recipes tested by one very good dog. Playful, heartfelt, and built for real creator partnerships: a 25-year story, ingredients worth talking about, and hometown heart with national appeal.",
+      "image": ""
+    },
+    {
       "id": "0c936247-4567-4fef-829d-79c277862d4b",
       "name": "ATEPA",
       "url": "",
@@ -909,8 +937,8 @@
       "id": "0e3c2cf2-4ae0-4fd2-a1f0-a5ab39590e61",
       "name": "DeDyteYJ",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "DeDytecreates natural dietary supplements for U.S. health-focused women seeking wellness & inner skin nourishment. Our flagship Astaxanthin (Haematococcus pluvialis) supports antioxidant health & preserves skin radiance & elasticity. Amazon US: 4.7+ star reviews, proven traction. Facility: cGMP, NSF GMP certified & FDA registered. All batches have independent purity testing. We partner with wellness & anti-aging creators to drive conversions. Mission: safe, trustworthy natural supplements.",
+      "image": "https://levanta-public.s3.amazonaws.com/wD4U8A0QOBD2WcsZrF"
     },
     {
       "id": "0e4f192f-41cc-4855-9920-4bb254ceebe7",
@@ -1044,13 +1072,6 @@
       "url": "",
       "bio": "TATTMUSE provides portable thermal printers and tattoo stencil printers. Our tech makes printing simple, our portability makes printing easy, and our quality makes printing reliable.",
       "image": "https://levanta-public.s3.amazonaws.com/n2JC6eGj1Wn0mE156X"
-    },
-    {
-      "id": "11ab5cb5-05f4-4fc2-9d42-25f8b12a56de",
-      "name": "ICE DRAM",
-      "url": "",
-      "bio": "Kismile is a high-end brand dedicated to designing and manufacturing home appliances. Our company was founded in 2015 and is located in California. since its inception, the products of the Kismile brand have entered millions of households and brought convenience to their lives Combining safety, innovative technology and cost-effectiveness we provide consumers with pragmatic products to help you live a better life.",
-      "image": "https://levanta-public.s3.amazonaws.com/gssqSCPWheGXbCndKy"
     },
     {
       "id": "11bcdaa6-89d4-447d-af89-c879b8ed8a6e",
@@ -1424,13 +1445,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/dHD1nyuxCOp56bXykS"
     },
     {
-      "id": "16857093-b09b-4c39-b183-24dc65f5ca07",
-      "name": "YOUBEN",
-      "url": "",
-      "bio": "Soulbond is dedicated to nurturing the deep bond between humans and their beloved pets, focusing on high-quality, practical pet care products. Our core lines include cat litter boxes, pet cooling mats & blankets, and pet playpens—all designed for pet comfort and owner convenience.\nAt Soulbond, we craft pet products with quality and safety at heart, making pet care easier and strengthening the unbreakable bond between you and your furry family.",
-      "image": "https://levanta-public.s3.amazonaws.com/lGtXEX6ytFZQRryt4h"
-    },
-    {
       "id": "168ed340-7486-4b98-974c-7e683f41e71c",
       "name": "Hustle Butter Deluxe",
       "url": "",
@@ -1455,7 +1469,7 @@
       "id": "16b8586a-7c5e-488c-b7ae-4d33d0e18950",
       "name": "Oxyfresh",
       "url": "",
-      "bio": "A Better Kind of Fresh for cats, dogs, and the people who love them. Our Premium Pet Dental Water Additive fights bad breath and plaque in 5 seconds a day. Flavorless, odorless, no-brush. 39,000+ Amazon reviews. \n\nVet-recommended, made in the USA, powered by our proprietary Oxygene® ingredient. Beyond dental: ear care, grooming & home freshness. Join the Oxyfresh Tribe. A perfect fit for cat, dog, and family-lifestyle creators whose audiences treat pets like family.",
+      "bio": "A Better Kind of Fresh ... for cats, dogs, and the people who love them. \n\nOur Premium Pet Dental Water Additive fights bad breath and plaque in just 5 seconds a day. Flavorless, odorless, no brushing. 44,000+ Amazon reviews, vet-recommended, made in the USA, powered by our proprietary Oxygene® ingredient. We also offer ear care, grooming, and home freshness. Join the Oxyfresh Fam ... a perfect fit for cat, dog, and family-lifestyle creators.",
       "image": "https://levanta-public.s3.amazonaws.com/AniHYSAP0MoP7LnsKF"
     },
     {
@@ -1777,7 +1791,7 @@
       "id": "1c95a577-12b7-48c0-99d4-05d6654f68d1",
       "name": "AV Access",
       "url": "",
-      "bio": "About our brand: AV Access is the world’s professional manufacturer and innovator of advanced Pro AV products and smart home office devices.AV Access has its own factory responsible for the full production process, including SMT, PCBA and reliability tests. We have 18 years (since 2005) experience in the ProAV product manufacturing, serving over 30 notable brands in the industry. Our products are sold to over 100 countries.",
+      "bio": "About our brand: AV Access is the world’s professional manufacturer and innovator of advanced Pro AV products and smart home office devices.AV Access has its own factory responsible for the full production process, including SMT, PCBA and reliability tests. We have 21 years (since 2005) experience in the ProAV product manufacturing, serving over 30 notable brands in the industry. Our products are sold to over 100 countries.",
       "image": "https://levanta-public.s3.amazonaws.com/H3B2bGGhkrWF4ztHMg"
     },
     {
@@ -1792,7 +1806,7 @@
       "name": "HolyEye",
       "url": "",
       "bio": "HolyEye creates easy-to-use cameras for everyday creators, travelers, and families. We focus on simple shooting, flexible recording, and clear image quality, helping you capture life as it happens and share every moment with ease.",
-      "image": ""
+      "image": "https://levanta-public.s3.amazonaws.com/1cqAZv2ltMcsvjHIOF"
     },
     {
       "id": "1cd8a3ff-cd0a-4ac3-b6ec-e21c34a1be30",
@@ -2005,6 +2019,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/7Ak436xAeHlen2yCIb"
     },
     {
+      "id": "20193de8-0349-453e-b483-9e593fab64a7",
+      "name": "Yuhaild",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "201b6c09-b34b-455c-9271-d1ba1f3cea84",
       "name": "Durelife",
       "url": "",
@@ -2077,6 +2098,13 @@
     {
       "id": "2186f197-a157-4c31-a133-f0b951f6f221",
       "name": "BonJela-US",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
+      "id": "218710d1-1200-4da4-9cf4-7fe7862f2976",
+      "name": "LiberNovo",
       "url": "",
       "bio": "",
       "image": ""
@@ -2362,25 +2390,11 @@
       "image": "https://levanta-public.s3.amazonaws.com/wKysYs3LMBqBDVskfA"
     },
     {
-      "id": "2616da77-ec32-4412-b36b-e36096a23ff1",
-      "name": "Life  Sutra",
-      "url": "",
-      "bio": "We are on a mission to simplify the science of psychology and make it accessible to all through our innovative, thoughtful Card games, Board Games, and Journals.",
-      "image": "https://levanta-public.s3.amazonaws.com/lPGg6M49SPUkw2Jr5V"
-    },
-    {
       "id": "268015a1-f436-47e7-a892-5ccf3316669e",
       "name": "Chugwater Chili",
       "url": "",
       "bio": "Chugwater Chili Corporation proudly produces all-natural, gluten-free seasonings made without MSG or preservatives. Our signature chili seasoning is known for its exceptional flavor and family-friendly appeal—a delicious chili that even kids love. All of our seasonings are highly rated and have received numerous awards for their outstanding taste and quality. With a commitment to great flavor and quality ingredients, Chugwater Chili brings a little Wyoming flavor to kitchens across the country.",
       "image": "https://levanta-public.s3.amazonaws.com/nj80GevzeZDz4TmN2a"
-    },
-    {
-      "id": "2699cd14-3ac0-496f-bd5a-3b8f390b6db6",
-      "name": "Asterwood Beauty",
-      "url": "",
-      "bio": "Clean, active skincare for every stage of life. Asterwood is built on one belief: good skin shouldn't cost a fortune or require a chemistry degree to understand. Every formula starts with a Hyaluronic Acid base — because well-hydrated skin is the foundation everything else builds from. We use only clinically tested active ingredients, with no fillers, no fluff, and nothing to hide. Free of parabens, sulfates, and fragrances. Never tested on animals. Simple. Clean. Effective.",
-      "image": "https://levanta-public.s3.amazonaws.com/jPXjZEMexxWX8kMhG8"
     },
     {
       "id": "26ad3eb1-29f4-449e-a8b5-aa888c2cd831",
@@ -2456,7 +2470,7 @@
       "id": "27ec50b8-c687-4b2d-b97f-9b8cbd12a6ab",
       "name": "Nulaxy",
       "url": "",
-      "bio": "Partner with Nulaxy, a trusted workspace brand since 2015 with 10M+ users worldwide. Our laptop stands average 4.7★ across thousands of reviews, with an AOV around $30 and up to 20% commission. Explore our best sellers, seasonal deals and ready-to-use media assets. Contact us for product links, creative support or selected samples.",
+      "bio": "Partner with Nulaxy, a trusted workspace brand since 2015 with 10M+ users worldwide. Our products have ranked #1 Best Seller on Amazon across Laptop Stands, Cell Phone Stands and FM Transmitters. Best sellers include laptop stands rated 4.7★ with 16K+ reviews, phone stands at 4.7★ with 80K+ reviews, and FM transmitters at 4.4★ with 10K+ reviews. Earn up to 20% commission across our product lineup.",
       "image": "https://levanta-public.s3.amazonaws.com/Iza27NBwWgBQNcGouC"
     },
     {
@@ -2551,6 +2565,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/3pSQHeKIEfja8TsSxc"
     },
     {
+      "id": "29dcbcc2-f70c-47e9-ab0d-2890808ad61c",
+      "name": "DAMZ",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "2a15a01a-af73-4e4a-9430-c477bec66ae8",
       "name": "MIND BODHI",
       "url": "",
@@ -2566,16 +2587,16 @@
     },
     {
       "id": "2a4154e9-172c-4f2e-a1f8-9ad012ba23dc",
-      "name": "Ogee Organic Skincare",
+      "name": "Ogee",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "Ogee is committed to creating the highest quality collection of high-performance certified organic beauty. The stringent NSF Organic certification for all of our products covers every facet of product development, from the farm where the ingredients are grown, harvested, and processed, the lab in which they're batched and bottled, the sustainably sourced paperboard in which they're contained, until they end up on the vanity on which they're placed.",
+      "image": "https://levanta-public.s3.amazonaws.com/xRYJGgFpV2jz3zI9YK"
     },
     {
       "id": "2a5e69e5-8bbd-4c8b-b4e2-5fb3347c0286",
       "name": "FADFAY",
       "url": "",
-      "bio": "FADFAY creates colorful, expressive bedding for homes with personality. Inspired by florals, nature, cottage living, vintage patterns, and bohemian style, our collections combine distinctive designs with soft, comfortable fabrics made for everyday living. From romantic florals and botanical prints to patchwork and eclectic patterns, FADFAY makes it easy to bring more color, warmth, and character into the bedroom. ",
+      "bio": "🌟4.5★ on Amazon｜90,000+ Amazon Reviews\n🏆12+ Years on Amazon | Brand Registered\n💰20% Commission | Products up to $169\nFADFAY is known for vibrant colors, richly detailed patterns, and a wide range of distinctive bedding styles. From romantic florals and cottage-inspired designs to boho, vintage, and seasonal looks, the collection gives creators more visual variety and more ways to match different audiences and content themes.",
       "image": "https://levanta-public.s3.amazonaws.com/VFIiyYAmriUIdkxWPe"
     },
     {
@@ -2591,6 +2612,13 @@
       "url": "",
       "bio": "At The Jojoba Company, we believe your skin is smarter than you think, so we work with it, not against it. Powered with nature and backed by science, our jojoba-based skincare supports skin’s natural function for real, visible results. Made with natural ingredients, Australian owned and made, and proudly vegan and cruelty-free.  Check out our creator Hub to get started today! https://tinyurl.com/3z8rvzvr",
       "image": "https://levanta-public.s3.amazonaws.com/xGvFzlrz3il56K5OyK"
+    },
+    {
+      "id": "2ab6c42d-bc8f-4ffc-b75b-1ebb6c0be854",
+      "name": "Fineyorker",
+      "url": "",
+      "bio": "20% base commission, extra bonus commission for high-performing affiliates.\n#6 Top selling in kids' lunch boxes: Kids’ 4-Compartment Stainless Steel Bento Lunch Boxes with CPC certificate, 4.3 stars, 1100+ positive reviews\nPure Titanium Cutting Boards with EPA certificate\nPortable Ultrasonic Aligner/Retainer Cleaners with EPA, FCC & MSDS certificate",
+      "image": "https://levanta-public.s3.amazonaws.com/ncbE9jRGVVYZmFAzH5"
     },
     {
       "id": "2ad1cba4-f280-4653-b94f-10d628338f86",
@@ -2612,6 +2640,13 @@
       "url": "",
       "bio": "Bellcoco is a premier women’s knitwear brand dedicated to cozy, stylish, and year-round daily outfits. Our signature open-front cardigans and pullover sweaters are the top best sellers, boasting a steady 4.5-star rating and over 9,000 monthly sales. Crafted from premium, lightweight, and skin-friendly fabrics, our inclusive knitwear and soft tees offer a gentle touch and versatile fits for all body shapes, delivering effortless elegance for any occasion.",
       "image": "https://levanta-public.s3.amazonaws.com/plWxXiiXiTxcD3YSSj"
+    },
+    {
+      "id": "2b129f55-32ec-4af8-bbd2-cc04ce4fa7f1",
+      "name": "ZXXY",
+      "url": "",
+      "bio": "",
+      "image": ""
     },
     {
       "id": "2b29b753-26ae-4d0d-bf6d-6da73e4cb005",
@@ -2922,6 +2957,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/mdej2ZUPP8ReRXK0tn"
     },
     {
+      "id": "30135f42-8f14-462c-ac4b-8bf63797b31a",
+      "name": "URMYWO",
+      "url": "",
+      "bio": "URMYWO creates Montessori-inspired toys for babies, toddlers & young children, combining sensory play, early learning, and hands-on exploration. Our portfolio includes multiple Amazon Best Sellers and highly rated products trusted by thousands of families. We partner with creators, publishers, deal sites & affiliates, offering competitive commissions and promotional opportunities on our best-selling products and Amazon deals.\n\n✨ Amazon Best Sellers | ⭐ Customer-Loved | 🤝 Affiliate Partnerships\n",
+      "image": "https://levanta-public.s3.amazonaws.com/SAwre2jvkEb27c2j7n"
+    },
+    {
       "id": "301f9e33-3149-4eaa-99b7-22824ed637e9",
       "name": "Nerve Renew",
       "url": "",
@@ -3076,6 +3118,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/ogh27VdSDCZk926J9i"
     },
     {
+      "id": "32b5b213-ee0f-4801-9882-992befdae2b2",
+      "name": "Michelin Liner Official Store",
+      "url": "",
+      "bio": "We are TreadAuto, an official licensee for Michelin liners. We are excited to explore potential collaboration opportunities with you.\n",
+      "image": "https://levanta-public.s3.amazonaws.com/4CRNfOlZgA4Y2BUeZ5"
+    },
+    {
       "id": "32f5f0ab-fb3c-40f9-b9c2-eccabe6abd48",
       "name": "Lightning Delivery C",
       "url": "",
@@ -3102,6 +3151,13 @@
       "url": "",
       "bio": "Hourglass is a vegan and cruelty-free beauty brand redefining luxury cosmetics through innovative formulas, cutting-edge performance, and covetable packaging.",
       "image": "https://levanta-public.s3.amazonaws.com/Tcmomkmj3jfvIp1wvn"
+    },
+    {
+      "id": "33a9bef0-65cc-49e3-b531-a0d8e7b9b3d6",
+      "name": "zhaoqilv",
+      "url": "",
+      "bio": "",
+      "image": ""
     },
     {
       "id": "33d5b6f3-b7ae-44a3-808d-ec4c875e8109",
@@ -3132,6 +3188,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/teMENCGJg3zskewYL6"
     },
     {
+      "id": "341e1a57-d936-4eb7-959d-1fde6ee38aca",
+      "name": "Ecarke-US",
+      "url": "",
+      "bio": "Ecarke is a leading power tools brand on Amazon, with over 20,000 units sold monthly. We offer partners over 15% commission, along with frequent deals and exclusive discounts to help you convert. As a professional power tools brand, we create high-performance, durable, practical tools for tool enthusiasts, automotive mechanics, woodworkers, and DIY hobbyists. Partner with us to bring your audience reliable, high-quality power tools and enjoy great conversion potential.",
+      "image": ""
+    },
+    {
       "id": "3424fc94-dba0-499e-8c85-6848e3fcf591",
       "name": "ROVE",
       "url": "https://www.amazon.com/rove",
@@ -3151,6 +3214,13 @@
       "url": "",
       "bio": "JASGOOD is a leading women’s belt brand, with more than 3 million belts sold annually. We offer stylish, easy-to-wear belts designed for denim looks, workwear, dresses, casual outfits, and seasonal content.\n\nOur customer-loved styles are ideal for fashion creators, shopping publishers, deal sites, and affiliate partners. We offer commissions of up to 21%, regular seasonal promotions, featured product opportunities, and sample support for selected creators.",
       "image": "https://levanta-public.s3.amazonaws.com/u6RoW5iOFXIKMNRxND"
+    },
+    {
+      "id": "345fab41-d4f0-4c3c-ba7f-c9554e94dff5",
+      "name": "Newbealer",
+      "url": "",
+      "bio": "Newbealer is a global leader in high-quality steam systems, operating in over 30 countries. We transform innovative steam technology into practical household solutions. \n﻿ \nWith nearly 20 years of expertise, Newbealer excels in steam-based products. Our diverse range of garment steamers and irons ensures that ironing becomes a comfortable and efficient task, making your life easier wherever you are. ",
+      "image": "https://levanta-public.s3.amazonaws.com/herZ5PNu8GqthnjuPo"
     },
     {
       "id": "347aebf1-a123-4eec-aeb3-c02db1ab9c28",
@@ -3254,7 +3324,7 @@
       "id": "35bad1c2-f814-4de9-afc6-980626c6be7c",
       "name": "Tuanty",
       "url": "",
-      "bio": "Tuanty makes fresh pet feeding easier for dog and cat parents. Our Pet Fresh Food Maker combines steam cooking and blending in one countertop machine, helping pet parents prepare fresh, homemade-style meals with less prep and cleanup. We partner with pet creators who share authentic content about fresh feeding, pet care, recipes, product demos, and everyday life with dogs and cats.",
+      "bio": "Tuanty brings pet care and kitchen convenience together. Our Pet Food Maker combines steam cooking, three blending textures, and a 2L glass bowl to simplify homemade food preparation for dogs and cats. We welcome creators, publishers, and media partners in pet, home, and lifestyle, with product images, videos, and information available to support thoughtful reviews, useful recommendations, and authentic stories.\n",
       "image": "https://levanta-public.s3.amazonaws.com/OcALPy0TkQh0ROhENf"
     },
     {
@@ -3324,7 +3394,7 @@
       "id": "36dae6db-3d43-4ac4-8ed9-e3bbb90705d9",
       "name": "Jartoo",
       "url": "",
-      "bio": "Jartoo is a smart parenting technology brand, creating reliable baby care devices that help parents stay naturally connected, informed, and at ease.",
+      "bio": "JARTOO is a smart parenting technology brand creating reliable baby-care products for modern families. Our products have earned recognition from Forbes, including “Best High-Definition Non-Wi-Fi Baby Monitor,” while our Smart Baby Monitor reached #1 in Amazon’s New Release. Partner with us to promote products parents love.\n",
       "image": "https://levanta-public.s3.amazonaws.com/xlAiJn5DiKePfCBSjU"
     },
     {
@@ -3333,6 +3403,13 @@
       "url": "",
       "bio": "Dr. Noah is dedicated to providing kids with safer, healthier oral care. A dentist dad designed our products for his own children to use. We use rigorous, scientific testing to guarantee that our bamboo toothbrushes are non-toxic, microplastic-free, and safe from 656 harmful substances. \n\n\nIf you want a free 4-pack of our dentist-designed, safety-tested toothbrushes, click here: http://creators.drnoah.us/giftedbtb",
       "image": "https://levanta-public.s3.amazonaws.com/oqzcRKsPQD9LtEyMoY"
+    },
+    {
+      "id": "371916fb-483b-4f8d-91e4-9115894433a2",
+      "name": "VISION HOME",
+      "url": "",
+      "bio": "we are the top 10 brand for window curtains on amazon, focus on innovation, quality, design\nWe are leading the trend, many competitors copied our designs, we look forward to asthetic influencers!",
+      "image": ""
     },
     {
       "id": "372b817f-6fe4-42d5-aad5-c6397237af91",
@@ -3466,6 +3543,13 @@
       "url": "",
       "bio": "",
       "image": "https://levanta-public.s3.amazonaws.com/30mRXuMJBx6ebcZIyc"
+    },
+    {
+      "id": "38bf577f-e95c-408b-99e6-ca21ac6b577e",
+      "name": "Penetrex",
+      "url": "",
+      "bio": "Penetrex is a topical pain relief and muscle care brand trusted by 2 million people, offering targeted creams and gels for everyday aches, soreness, stiffness, and joint discomfort. Our products are designed for active lifestyles, featuring using natural ingredients like Arnica, Vitamine B6 and MSM. It's relief from muscle and joint discomfort that you can feel good about.",
+      "image": "https://levanta-public.s3.amazonaws.com/10dYpNIloNNNwe8ZGw"
     },
     {
       "id": "38cd6ead-c7e1-451a-9dad-22db3c4230c3",
@@ -3902,6 +3986,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/G4WN5fTrSDckyNqkk0"
     },
     {
+      "id": "409755c9-a49f-4e03-a55f-fb6449bc89c9",
+      "name": "UmAid Products",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "40cd8d7f-4f28-47c4-82b8-ddb489bc5975",
       "name": "JIMMYJANE",
       "url": "",
@@ -3924,10 +4015,10 @@
     },
     {
       "id": "41077274-2dcf-4636-94da-b4475e05cb23",
-      "name": "mijiajia",
+      "name": "FNTcase-mijiajia",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "FNTCASE is the #1 best-selling phone case seller on Amazon in North America 🇺🇸 ⭐ 4.9★ | 10K+ Reviews 💰 25% Public Commission | Up to 60% Private 🔥 iPhone 18: 50% Commission + Limited-Time Discounts 🏆 Multiple Amazon Best Sellers ready to promote 📦 Free Samples + Bonuses. Products for iPhone, Samsung, Google Pixel & Motorola.",
+      "image": "https://levanta-public.s3.amazonaws.com/CWb39OWWGHMtzVEO1Q"
     },
     {
       "id": "410913e8-41f4-4243-9093-3653e313572b",
@@ -3984,6 +4075,13 @@
       "url": "",
       "bio": "Korean skincare brand. Providing safe, effective skincare with innovative tech and natural ingredients.\n\n🏆 HA Serum Capsules — #1 in Amazon Single-Use HA Serum Category | 15M+ sold\n\n🏆 HA Serum Capsules — #1 in TikTok Skincare Category | 10M+ sold\n\n💰 $30M+ brand sales within 6 months of launch",
       "image": "https://levanta-public.s3.amazonaws.com/UsjCYj3QranHPQd95K"
+    },
+    {
+      "id": "41b7ff9f-1900-4dbf-962d-7c365eb689be",
+      "name": "Anyking-Screen",
+      "url": "",
+      "bio": "Anyking makes portable laptop screen extenders that turn one laptop into a dual- or triple-screen workstation 🖥️➡️🖥️🖥️🖥️ — for remote workers, traders, coders, gamers & digital nomads. We partner with tech / desk-setup / WFH creators and offer competitive commission, free review units, exclusive follower codes & ready-to-use assets. Let's help your audience get more done on a bigger screen.",
+      "image": "https://levanta-public.s3.amazonaws.com/Cb14WuubKPgJ9OICx2"
     },
     {
       "id": "41bcae55-467f-4506-bfa8-2d6dd0ab8d4a",
@@ -4045,7 +4143,7 @@
       "id": "42553c17-3d04-4a8f-b418-1088fac3056e",
       "name": "Magic Jimmy",
       "url": "",
-      "bio": "At Magic Jimmy, the child is the magician. Winner of the 2026 NAPPA Award and iF DESIGN AWARD 2025, and a Top 3 kids’ 3D printer on Amazon, we turn imagination into fun, easy-to-share creations—giving creators a standout product families love to watch, make, and share. ",
+      "bio": "Magic Jimmy makes award-winning 3D printers designed for kids and families. A Top 3 kids’ 3D printer brand on Amazon with a 4.6-star rating, Magic Jimmy is a 2026 NAPPA Award and iF DESIGN AWARD 2025 winner. Partners earn 20–30% commission across our product lineup—up to around $60 commission per 3D printer sold. Publishers, Media Buyers, Deal Sites, and performance partners welcome.",
       "image": "https://levanta-public.s3.amazonaws.com/sQOft7sDecIY27ISuc"
     },
     {
@@ -4592,7 +4690,7 @@
       "name": "HOMLYNS",
       "url": "",
       "bio": "About Homlyns--Every home has its own temperature.\nAt Homlyns, we want to bring that feeling into everyday living — the kind of comfort that makes you sigh in relief the moment you walk through the door.It began simply.\nWinters felt longer every year, and our parents often complained about the cold and tired muscles. We wanted them to feel relaxed on the couch, not curled up trying to stay warm.\n",
-      "image": "https://levanta-public.s3.amazonaws.com/c4gIvln8a2SpwOKGg1"
+      "image": "https://levanta-public.s3.amazonaws.com/lv3h2mHujQouKZwXmT"
     },
     {
       "id": "4b18c770-026c-4976-b6c3-2ec30f4d350c",
@@ -4724,7 +4822,7 @@
       "id": "4c708855-c01f-4bac-9b20-317902a8e1ad",
       "name": "NUTRIRISE",
       "url": "",
-      "bio": "Join a brand proven to win: 3M+ customers, 60K+ reviews, and 10+ years on Amazon. NutriRise blends science and nature into high-converting wellness best sellers—helping affiliates boost revenue with products customers love.",
+      "bio": "Born in 2015 from a personal health transformation, NutriRise creates science-backed wellness trusted by 3M+ customers, with 60K+ five-star reviews and a decade-plus Amazon bestseller track record. Our catalog spans supplements, pre-workout, beauty, and wellness across NutriRise, Goddess Code, and Warrior Code. Join us and earn up to 30% commission on every sale across Amazon and Shopify.\n",
       "image": "https://levanta-public.s3.amazonaws.com/XyqCrwEnp5ueEuknoY"
     },
     {
@@ -4866,13 +4964,6 @@
       "url": "",
       "bio": "",
       "image": "https://levanta-public.s3.amazonaws.com/LwtqwPUFZsVolz7seM"
-    },
-    {
-      "id": "4e4d99a2-604e-419f-83af-3a75e94cc927",
-      "name": "Cloudstyle",
-      "url": "",
-      "bio": "Cloudstyle is an online men's suit retailer. Our mission is to empower modern gentlemen with a diverse range of premium-quality suits that exude elegance, confidence, and impeccable craftsmanship.",
-      "image": "https://levanta-public.s3.amazonaws.com/qzAZIqMgiyS2qzpqy4"
     },
     {
       "id": "4e837cbb-6b47-46ba-975e-e5535373570a",
@@ -5106,6 +5197,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/iHSrnNUZy2MmqEMsPx"
     },
     {
+      "id": "528cb255-9af7-4368-b756-dec2eae61ed2",
+      "name": "Shao Xing Jun You Jia Fang You Xian Gong Si",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "52b5575b-58d5-4264-8703-f760dac2c2c2",
       "name": "YESWELDER",
       "url": "",
@@ -5132,6 +5230,13 @@
       "url": "",
       "bio": "TTLXBL is a dog wellness brand built on love, responsibility, and thoughtful daily care. We create nutritional supplements for everyday canine wellness, including multivitamins, salmon nutrition, probiotics, and urinary tract support. With a focus on quality ingredients and responsible manufacturing, we aim to help dogs stay active, healthy, and happy while supporting the special bond between dogs and their families.",
       "image": "https://levanta-public.s3.amazonaws.com/FW1clUtCfONlZuTqEQ"
+    },
+    {
+      "id": "5315c69b-c713-43ca-b514-2a293f663088",
+      "name": "AirChef",
+      "url": "",
+      "bio": "At AirChef, we believe great cooking isn't about complexity - it's about control.\n\nFrom the perfect sear to the final touch of seasoning, the difference between good and exceptional comes down to how you handle heat and flavor.",
+      "image": "https://levanta-public.s3.amazonaws.com/09VFOZaA3anf1IcfgB"
     },
     {
       "id": "53165acd-7ee1-4aed-b027-a280550459e8",
@@ -5216,13 +5321,6 @@
       "url": "",
       "bio": "",
       "image": "https://levanta-public.s3.amazonaws.com/HIn5CDP0iUdl4AoNvW"
-    },
-    {
-      "id": "53beebfc-a8e1-4b07-9230-1a90ea159eb6",
-      "name": "JIANGSU MEIDENI TEXTILE CO.,LTD",
-      "url": "",
-      "bio": "MILDLY is an original source manufacturer with over 30 years of experience in both production and design.\nOver the past 30 years, we have successfully helped millions of families find bedding they truly love.\nWe believe that everyone deserves a good sleep. That's why we pour decades of experience into every stitch, every fabric choice, and every design detail. When you buy from us, you're not just buying bedding — but the peace of mind that comes from a factory-direct brand with a proven legacy.",
-      "image": "https://levanta-public.s3.amazonaws.com/amb9pt4qzjbGvpmZ1X"
     },
     {
       "id": "53c35e93-c744-4be0-9f34-72583b0b78c2",
@@ -5739,8 +5837,8 @@
       "id": "5b9eb3bd-8a3a-4a2b-9427-7ceaf9b6fb90",
       "name": "Changbert",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "ChangBERT is a Top 3 induction cooktop brand in the U.S., with 20+ years of expertise, 50,000+ units sold annually, and 3,000+ customer reviews. Our mission is to bring true commercial-grade induction cooking into the home at a great value. Combining powerful, consistent heating with professional durability and everyday convenience, ChangBERT is trusted by home cooks and professionals alike.",
+      "image": "https://levanta-public.s3.amazonaws.com/rNTU0mSssksVYGuFHs"
     },
     {
       "id": "5bd4f58c-3595-4f8d-9359-2a7f155820ef",
@@ -5781,8 +5879,8 @@
       "id": "5c2e50c0-56e8-4ec8-a323-5d96cdc9f31e",
       "name": "CirclesHome",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "CirclesHome offers practical bedding essentials designed to add comfort and protection to the bedroom, including pillow protectors and plush mattress pads in breathable cotton and cotton-blend constructions.",
+      "image": "https://levanta-public.s3.amazonaws.com/xaGWleM6V9hShP3DU5"
     },
     {
       "id": "5c312db8-ba85-426b-a242-8d6f5933f4ba",
@@ -5974,13 +6072,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/HEJ5gdMaN13H1e0gZA"
     },
     {
-      "id": "5f89abee-9326-4c98-b886-9202c0097dba",
-      "name": "True Classic",
-      "url": "",
-      "bio": "At True Classic, we’re not just about basics—we’re about elevating your everyday style! Our collection features high-quality, comfortable t-shirts and activewear designed for a tailored fit that celebrates every body type. Join the True Classic community and discover why our fans can’t get enough. Interested in partnering with us? Reach out to hilary@ikondigitalmedia.com to learn more about our affiliate program.",
-      "image": "https://levanta-public.s3.amazonaws.com/QKKlYWaiHOmEp31g1j"
-    },
-    {
       "id": "5fa5e116-737b-4603-9d68-8127cbc55708",
       "name": "Sawyer",
       "url": "",
@@ -6038,10 +6129,10 @@
     },
     {
       "id": "60ee02de-7b42-421e-b36a-1cf6d547cfc5",
-      "name": "pinrui--",
+      "name": "FNTcase-pinrui",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "FNTCASE is the #1 best-selling phone case seller on Amazon in North America 🇺🇸 ⭐ 4.9★ | 10K+ Reviews 💰 25% Public Commission | Up to 60% Private 🔥 iPhone 18: 50% Commission + Limited-Time Discounts 🏆 Multiple Amazon Best Sellers ready to promote 📦 Free Samples + Bonuses. Products for iPhone, Samsung, Google Pixel & Motorola.",
+      "image": "https://levanta-public.s3.amazonaws.com/CWb39OWWGHMtzVEO1Q"
     },
     {
       "id": "6150cbc0-1f6b-4ef6-89b6-c1f1f181ad9d",
@@ -6049,6 +6140,13 @@
       "url": "",
       "bio": "We're Seed — a microbiome science company pioneering probiotics and living medicines for human and planetary health. With leading scientists and research partners worldwide, we develop clinically validated probiotics for whole-body health. \n\nNOTE: Advertising on Seed branded or product search terms is prohibited. Any affiliate doing so will be removed from our approved partner list.",
       "image": "https://levanta-public.s3.amazonaws.com/UxViNHD1y91Ne53EQw"
+    },
+    {
+      "id": "616c52a4-e006-467c-b457-89ceef9ced2f",
+      "name": "WHOOSH Inc",
+      "url": "",
+      "bio": "WHOOSH! is a screen cleaner brand trusted in major retail stores worldwide and backed by tens of thousands of 5-star Amazon reviews. Every follower owns a screen (phone, TV, laptop, etc.). No niche barrier means high conversion across multiple channels! Our kits deliver satisfying before/after transformations with versatile applications. We're made in Canada, non-toxic (no alcohol, fragrance, or PFAS), cruelty-free and made from recycled material.",
+      "image": "https://levanta-public.s3.amazonaws.com/H6jKNgX0dTAiNLL1qO"
     },
     {
       "id": "616ea517-f25c-4cef-ba32-efb28592e65b",
@@ -6091,6 +6189,13 @@
       "url": "",
       "bio": "Inpoipsor creates powerful, portable air dusters designed for everyday cleaning—from keyboards and electronics to cars, homes, and outdoor use. We’re excited to partner with creators and affiliates who love practical, high-converting products and engaging content. Let’s grow together!",
       "image": "https://levanta-public.s3.amazonaws.com/LAgsASxtv4W6AXKPaO"
+    },
+    {
+      "id": "620237ea-5b22-4e77-910d-8eeda07229c1",
+      "name": "PackNstore",
+      "url": "",
+      "bio": "PackNStore creates premium, practical storage and travel organization solutions designed to help people organize smarter, pack easier, and make the most of every space. From vacuum storage bags to travel compression solutions, our products help reduce clutter, maximize space, and protect your belongings at home and on the go. We’re building a community of creators who love smart organization, travel, home hacks, and products that make everyday life easier.",
+      "image": "https://levanta-public.s3.amazonaws.com/AlpcITx2crzoulDHD9"
     },
     {
       "id": "621797e7-c61c-414c-ad80-fb6825352f06",
@@ -6266,6 +6371,13 @@
       "url": "",
       "bio": "Say \"iDOO\" to life.\nWe're proud to introduce our Top 3 Amazon Best Seller Rank in air mattresses and more to explore with our hydroponic growth kits, heating pads, and cleaning products. Thank you in advance for bringing them to life with your effort.",
       "image": "https://levanta-public.s3.amazonaws.com/YOaEOlgO6tne7lESVT"
+    },
+    {
+      "id": "64ffc817-34bd-4229-8783-7195d670d026",
+      "name": "Cariloha",
+      "url": "",
+      "bio": "Cariloha is the leader in premium bamboo bedding and bath, with 13,000+ customer reviews averaging 4.4 stars and over 75% rated five stars. Our sustainably sourced bamboo sheets are prized for being softer than any alternative and noticeably cooler than cotton, and every order is backed by a 100-Night Risk-Free Trial. We partner with creators who want to bring resort-quality sleep to audiences that care about comfort and sustainable living.",
+      "image": ""
     },
     {
       "id": "6500e5ee-bfe4-42db-a8e3-3de4042f9133",
@@ -6628,8 +6740,8 @@
       "id": "6a1d10f1-a013-4e34-b2df-db26d388e47a",
       "name": "Right Choice Bedding",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "Right Choice Bedding offers a broad range of quality sleep essentials, including sheets, pillows, comforters, mattress pads, and protectors, with a focus on comfort, durability, and everyday value.",
+      "image": "https://levanta-public.s3.amazonaws.com/dXyRXMH4yzjeURlUXo"
     },
     {
       "id": "6a2e1c7b-8a58-4b61-acef-f14708555e37",
@@ -6898,13 +7010,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/jxs2Qeo5kEiqYedETd"
     },
     {
-      "id": "6ddfb92e-5183-4be3-8c24-b674477686e4",
-      "name": "Buzbug",
-      "url": "",
-      "bio": "Buzbug is a trusted pest control brand with highly rated bug zapper products used by 100,000+ customers. We create effective solutions for indoor and outdoor bug problems, helping families enjoy more comfortable spaces.",
-      "image": "https://levanta-public.s3.amazonaws.com/pS4qx6jmmriBHhzSxr"
-    },
-    {
       "id": "6df44ab5-cb78-4400-93f9-6bdef6457071",
       "name": "IUKSPORT",
       "url": "",
@@ -6982,11 +7087,25 @@
       "image": "https://levanta-public.s3.amazonaws.com/fcIFltNsCb9bIWnVhV"
     },
     {
+      "id": "6f4d7d95-7ad8-4a4c-b556-637bc621e0fc",
+      "name": "It's the Balm Diggity Natural Lip Balm",
+      "url": "",
+      "bio": "It's The Balm Diggity is the creation of 4th generation farmers from Illinois.  With only five 100% natural ingredients, It's the Balm Diggity is perfect for all skin types and ages.  Beeswax, Jojoba, Shea Butter and Coconut serve as the backbone of each product in our line delivering maximum protection and hydration for your lip. ",
+      "image": "https://levanta-public.s3.amazonaws.com/aHcpOVyI1T8K2ELaD5"
+    },
+    {
       "id": "6f5434b0-5d16-489e-ae4b-8677affe5f20",
       "name": "OmneDiem",
       "url": "",
       "bio": "An independent US-based supplement company sourcing the highest-quality, science-backed ingredients on the market. Specializing in DAO enzymes for Histamine Intolerance and offering Women's Health, Longevity and Sports Optimization products for a wide audience.\n\nLearn more at: https://omnediem.com/pages/omnediem-news-education-hub and https://www.instagram.com/omnediem/\n\n\n\n",
       "image": "https://levanta-public.s3.amazonaws.com/5CKUa78uGvPvB3TheC"
+    },
+    {
+      "id": "6f7cdedc-f576-4b5f-aebc-8bae2bc12e19",
+      "name": "Homture Direct",
+      "url": "",
+      "bio": "Homture is an AI-powered home brand that brings warmth to everyday moments.\nWe use intelligent technology to bring photos to life and make every memory feel more vivid and connected.\nSmiles brighten, pets play, and loved ones feel close again — all through simple, human-centered technology for your home.",
+      "image": ""
     },
     {
       "id": "6fe89e29-9407-4a15-a5c2-06d1293cbb01",
@@ -7326,7 +7445,7 @@
     },
     {
       "id": "752e963b-2be4-40dd-83d7-471c0b2610fb",
-      "name": "Peel Away Labs",
+      "name": "PeelAways",
       "url": "",
       "bio": "Soft, 100% waterproof, disposable fitted sheets with elastic fit. Peel off the top layer — a fresh sheet is already there. No laundry. As seen on Shark Tank.",
       "image": "https://levanta-public.s3.amazonaws.com/9fLSQnVDCzG2sQxauc"
@@ -7372,6 +7491,13 @@
       "url": "",
       "bio": "Phomemo, Fun Memo! Phomemo is a global leader in the thermal portable printing industry, with a wide range of printers including home label makers, business label makers, photo printers, sticker printers, shipping label printers, tattoo printers and more. With over 50 million users in 197 countries, Phomemo's mission is to pioneer portable printing so that everyone can print anything, anywhere, anytime.",
       "image": "https://levanta-public.s3.amazonaws.com/IkKSlBf6WaFrNNCM52"
+    },
+    {
+      "id": "763b7036-7398-415e-af3c-dc0137d88613",
+      "name": "Bare Intent",
+      "url": "",
+      "bio": "Born from Bare Intent\nWe launched Bare Intent with one clear purpose: to simplify effective skincare.\n\nAfter years of sorting through cluttered routines and underwhelming products, we created a line of targeted, high-performance solutions that strip away the fluff - and focus on what works.\n\nFewer steps. Smarter materials. Proven results.\n\nBare skin, intentional results.",
+      "image": "https://levanta-public.s3.amazonaws.com/JCxCC0tOCaSPRvGLqb"
     },
     {
       "id": "7643dccd-0d1c-4f18-9799-5830a9906495",
@@ -7640,6 +7766,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/gCkEKOy6eLxOZSWsp2"
     },
     {
+      "id": "7b17f6f0-1a52-4685-9bb5-398a57733a75",
+      "name": "Nexva",
+      "url": "",
+      "bio": "With over a decade of manufacturing expertise, Nexva is dedicated to helping customers create living spaces that are comfortable, convenient and healthy. Our mission is to deliver high-quality products that enhance everyday life and promote well-being.\n\nEvery item we offer comes with an 1-year after-sales service, if you have any questions or need help, we are here and we are always ready to assist. Your satisfaction is our greatest motivation.",
+      "image": "https://levanta-public.s3.amazonaws.com/FYpFGsFsPIGTzImkrU"
+    },
+    {
       "id": "7b25cca5-b88c-4a4d-870f-417853c79c35",
       "name": "Strongest Home",
       "url": "",
@@ -7731,13 +7864,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/8CdcmGkt4eETo4rscT"
     },
     {
-      "id": "7d4e2a26-af42-4199-9b55-07388c3a2411",
-      "name": "RORRY Store",
-      "url": "",
-      "bio": "",
-      "image": "https://levanta-public.s3.amazonaws.com/MT6LVwBKWkSDfCGghv"
-    },
-    {
       "id": "7d5775fd-0447-4cd8-859d-053f00934c2d",
       "name": "Tiesta Tea Company",
       "url": "",
@@ -7822,6 +7948,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/hINtSI7ZCf62yaLR0A"
     },
     {
+      "id": "7e93e66d-d29b-4733-8a37-deebb71817d0",
+      "name": "ZF-amStore",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "7ebbc3c5-36ed-4a4b-9eac-a29403d7244f",
       "name": "Cheerble",
       "url": "",
@@ -7834,6 +7967,13 @@
       "url": "",
       "bio": "SiroSage — your go-to for easy, ice-free slushies and frozen drinks at home.",
       "image": "https://levanta-public.s3.amazonaws.com/AxTahJMAxvEj6QfQ87"
+    },
+    {
+      "id": "7ef708c7-1c53-4add-bb97-2538d7084555",
+      "name": "slopehill-Muxuexue",
+      "url": "",
+      "bio": "Slopehill is a modern hair styling tools brand creating high-quality, versatile, and affordable tools that bring salon-inspired results to everyday life. With a strong Amazon presence, Slopehill has earned 4.5+ star ratings, thousands of customer reviews, and consistent growth across the US and European markets. We have also collaborated with leading media programs, including GMA and Tamron Hall, to expand brand awareness.",
+      "image": "https://levanta-public.s3.amazonaws.com/hIMmPwGtSyoopAyXF0"
     },
     {
       "id": "7f100db9-6ac1-41e1-a887-0182d9b74a34",
@@ -7855,6 +7995,13 @@
       "url": "",
       "bio": "Shop Starbond® CA glues for maximum performance and freshness. Made monthly for long shelf life, complete with extra tools and guides for your success. Perfect for professionals and hobbyists. Get cyanoacrylate glue, activators & more with free US & same-day shipping.",
       "image": "https://levanta-public.s3.amazonaws.com/LJMiRGA9HJCewq5eut"
+    },
+    {
+      "id": "7f1cba38-385d-4652-9000-5c7a8dc94241",
+      "name": "Comulytic Official",
+      "url": "",
+      "bio": "",
+      "image": ""
     },
     {
       "id": "7f4173ef-9881-43ca-a3d1-4c5713064114",
@@ -7953,6 +8100,13 @@
       "url": "",
       "bio": "ELEMIS is an iconic luxury skincare brand that blends the power of nature, science, and wellness to deliver transformative results. From their award-winning Pro-Collagen collection to their indulgent body care, ELEMIS prioritizes quality and efficacy, offering a holistic approach to beauty and self-care. \nELEMIS is a certified B Corp",
       "image": "https://levanta-public.s3.amazonaws.com/PAjSOhJbwZjlsOo3Kw"
+    },
+    {
+      "id": "8110c934-03a8-47ad-972a-62c93784593e",
+      "name": "Zeova",
+      "url": "",
+      "bio": "1. 4.3 Ratings | 2K+ Reviews\n2. Price Point $89+ | Commission 20%\n3. Brand: Zeova is focused on making humidification easier for larger living spaces. Our large-capacity humidifiers are designed with powerful mist output, long runtime, fewer refills, and practical everyday features to bring reliable comfort to large rooms and open-plan homes. With 10+ years of manufacturing experience, we combine dependable performance with thoughtful, easy-to-use design.",
+      "image": "https://levanta-public.s3.amazonaws.com/LE93TxE1cSRFPGEQgt"
     },
     {
       "id": "811da554-3400-4e03-9964-24cbf06ffa50",
@@ -8417,6 +8571,13 @@
       "image": ""
     },
     {
+      "id": "890f7da0-77cd-4bc3-b491-67d3e2147d1e",
+      "name": "LET'ME",
+      "url": "",
+      "bio": "LET'ME\n\nFeel Good. Live Easy.\n\nLET'ME is dedicated to making everyday air comfort simpler. From humidifiers that bring moisture back into dry spaces to bladeless fans that keep air flowing, we create practical solutions for a more comfortable home.\n\nDesigned for real life, built for everyday use, and made to keep comfort effortless.\n\nLET'ME — Comfort, Made Simple.",
+      "image": ""
+    },
+    {
       "id": "89550713-1b76-4e91-8308-79db68d0ee58",
       "name": "Eat Mezcla",
       "url": "",
@@ -8438,13 +8599,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/s9pEfNXzCMigNswCqB"
     },
     {
-      "id": "89c38b1d-17a2-4950-bc8a-e20660d709c3",
-      "name": "Prime Labs",
-      "url": "",
-      "bio": "Performance isn't optional. It's required. Most performance brands are built on hype. Prime Labs is built on results. Founded in 2018, we set out to eliminate the confusion and risk of the supplement aisle. We create safe, scientifically formulated products for men who refuse to settle for average. From testosterone boosters to high-output workout supplements, we've built a full arsenal engineered to optimize every facet of the male experience.",
-      "image": "https://levanta-public.s3.amazonaws.com/ZH6DBdBWh2PZk2imwL"
-    },
-    {
       "id": "89d48a13-5191-473e-b6c8-9d1a1d3b7b0d",
       "name": "Kos Naturals LLC",
       "url": "https://www.amazon.com/stores/KOS/page/541F951C-315E-4C85-97BC-BA56EA607197",
@@ -8464,6 +8618,13 @@
       "url": "",
       "bio": "Onlyfire is a brand with over 10 years of professional experience, specializing in the R&D and manufacturing of grill replacement parts, rotisserie kits, BBQ tools, and fire pit accessories. We continuously innovate to meet the evolving demands of the grill market, delivering high-quality products that have earned the affection and praise of countless consumers. We help outdoor enthusiasts create their ideal outdoor cooking spaces and enjoy warm, delicious moments of outdoor leisure.",
       "image": "https://levanta-public.s3.amazonaws.com/bdBNZOGCUej4lfYADq"
+    },
+    {
+      "id": "89ffceb8-e107-475d-99b1-42cd20c64472",
+      "name": "Yummy Tummies",
+      "url": "",
+      "bio": "30% commission (~$9 per sale) on a $30 AOV. 4.5★ on Amazon. 70% less sugar than leading fruit snacks with just 3g per pouch. No artificial colors, flavors or sweeteners. Parent-created & made in the USA. Built for lunchboxes, snack swaps & better-for-you content.",
+      "image": "https://levanta-public.s3.amazonaws.com/VLxRFOJSX1Qp4BPz3i"
     },
     {
       "id": "8a32a570-e2f8-4533-b0dd-0164303504b8",
@@ -8583,6 +8744,13 @@
       "url": "",
       "bio": "LISEN is a top-rated mobile accessory brand with 15+ years of innovation, known for quality gear at unbeatable prices. Best Seller: LISEN Retractable Car Charger—sells 50,000+ units monthly in the US, loved by everyone for its durability, fast charging, and sleek design. From car mounts to chargers, LISEN products win 30K+ 5⭐ reviews and keep fans coming back. Partner with us to share high-converting, audience-approved accessories. Learn more about us: https://linktr.ee/lisentech",
       "image": "https://levanta-public.s3.amazonaws.com/oaHphtp7hRZi1oBoa9"
+    },
+    {
+      "id": "8c496942-7e01-403a-a4f7-3e89775c2392",
+      "name": "Dreo",
+      "url": "",
+      "bio": "What's DREO in one sentence\n\nDREO is a pioneering home tech brand reshaping the way people connect with their living spaces, empowering them to live happier, healthier, and to celebrate life at its fullest. \n\nSlogan: Celebrate Life.\nMenifesto: We exist to celebrate life as it is. When comfort is taken care of, all that’s left—is to feel.",
+      "image": ""
     },
     {
       "id": "8c4d596f-6c7c-4ae7-a487-62ff2346bfc2",
@@ -8767,6 +8935,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/5OHPIujIiZcJLUMBUl"
     },
     {
+      "id": "8ea74a52-d48d-41c0-a0bf-7024a628f153",
+      "name": "TechPod",
+      "url": "",
+      "bio": "Techpod Brand Story\nIn the heart of the digital age, we’ve lost something essential. We live in a world of endless swipes, fractured attention, and the constant hum of notifications. Our technology was supposed to set us free, yet we find ourselves tethered to screens. At Techpod, we believe there is a more intentional way to coexist with our devices.",
+      "image": "https://levanta-public.s3.amazonaws.com/e6FSlqfv7UyURylWEh"
+    },
+    {
       "id": "8edaa8ad-d2df-4ee1-80f1-b2156f0c1066",
       "name": "G4Free  US",
       "url": "",
@@ -8868,7 +9043,7 @@
       "id": "904e9acd-80d0-48f5-bc4f-fa49be5cdc16",
       "name": "Lollybanks",
       "url": "",
-      "bio": "LollyBanks creates premium bamboo and cotton baby essentials that combine buttery-soft comfort with vibrant, exclusive prints. Our best-selling bamboo pajamas, sleep sacks, muslin swaddles, and quilts are loved by thousands of families and designed for everyday use. We offer competitive commissions, high-converting products, and a responsive team committed to helping our affiliates succeed.",
+      "bio": "LollyBanks is a mom-founded baby brand with 1,000+ 5-star customer reviews and a 5.0/5 brand rating across 445+ wholesale reviews on Faire. Our original designs and premium baby essentials have built a loyal customer base across Amazon, DTC, and wholesale. LollyBanks gives creators high-quality products their audience already loves. We offer competitive commissions, product samples, and responsive affiliate support.",
       "image": "https://levanta-public.s3.amazonaws.com/quXrxIqPlt9rNAVzn1"
     },
     {
@@ -8915,7 +9090,7 @@
     },
     {
       "id": "91427268-0cbe-4a7c-92ab-9b09b9b683e8",
-      "name": "Jinx ",
+      "name": "Jinx",
       "url": "",
       "bio": "Jinx is a premium dog food company committed to making better nutrition accessible to all dogs. We make real dog food to feed real life: with high quality proteins, powerful superfoods, and healthy probiotics at a price you can afford, we’re furthering our mission one bowl at a time to ensure that dogs everywhere are getting the support they need to live happier, healthier lives. ",
       "image": "https://levanta-public.s3.amazonaws.com/PiYqzfi9CSCVI3D6iK"
@@ -9019,6 +9194,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/kA0DQy4Y2DlvmdgJMQ"
     },
     {
+      "id": "93bc7e86-72e8-4078-97dd-7caf457d6eac",
+      "name": "Nuna",
+      "url": "",
+      "bio": "NUNA is a premium Korean-inspired skincare brand for elevated, results-driven everyday rituals. Our hero product, the NUNA Eyelash Peptide Serum, helps support the look of fuller, longer, healthier-looking lashes. We also offer glow-focused facial skincare, including serums, creams, and targeted treatments. We partner with creators who love premium beauty, authentic storytelling, and products their audience will want to try.",
+      "image": ""
+    },
+    {
       "id": "93c69122-8dc1-4b89-a390-5046e4650056",
       "name": "Zenwise",
       "url": "",
@@ -9043,8 +9225,15 @@
       "id": "93ff86c1-b8c4-4c9f-9a84-698c1f6cfb15",
       "name": "SKAURA",
       "url": "",
-      "bio": "",
+      "bio": "SKAURA™'s patented handle is engineered around proprioception for total control other razors can't match — delivering a closer shave with dramatically fewer nicks and irritation on sensitive skin.",
       "image": "https://levanta-public.s3.amazonaws.com/QxNyi9BECzzS6Rdfy3"
+    },
+    {
+      "id": "9411e815-7cd4-4de9-9439-ce7754a09afc",
+      "name": "ANTHBOT US M Series",
+      "url": "",
+      "bio": "ANTHBOT – a fast-growing brand of robotic lawn mowers, redefining smart lawn care with high-performance, automated solutions. Featured in top tech media: PCWelt, ComputerBild & Tom’s Guide.\n\nEarn up to 15% commission – up to $200 per sale on premium robotic mowers.\nQ2 is peak season – join now and start earning with a high-converting, high-ticket product!",
+      "image": "https://levanta-public.s3.amazonaws.com/BHUF5ldEX5ybFcAb5J"
     },
     {
       "id": "9419c6eb-884c-4d46-9642-bed1977540b4",
@@ -9075,6 +9264,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/5YqWPB3LQn6nhXVGHB"
     },
     {
+      "id": "94ade6f7-1708-4f04-aa84-a0899b9100e4",
+      "name": "Wildflower Cases",
+      "url": "",
+      "bio": "Wildflower Cases makes phone cases and accessories built for self-expression. It has built its reputation on limited-edition drops and collaborations with names like Frankies Bikinis, Ashley Williams, and Madhappy, keeping its catalog fresh and its audience engaged.\n\nFor creators, that means a constant stream of new, shareable products that fit naturally into fashion and lifestyle content. Join us today!",
+      "image": "https://levanta-public.s3.amazonaws.com/JqFnVPVMMG093FkdFd"
+    },
+    {
       "id": "94c3e7a5-3ba8-441d-bead-e2c4894832cf",
       "name": "B&Y Furniture",
       "url": "",
@@ -9096,6 +9292,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/bj8ETMSJ4AJhwco62G"
     },
     {
+      "id": "94f65098-8834-457d-9ae2-666cf3c064e9",
+      "name": "AMAWMW",
+      "url": "",
+      "bio": "High Quality. High Trust. High Conversion.\n\nAMAWMW is dedicated to delivering healthy, comfortable, and fashionable clothing for babies and teens, boasting a 4.6-star rating and over 15,000 monthly sales. Our essentials have earned 5,000+ verified parent reviews, proving our commitment to real quality.\n\nDesigned with real kids and real messes in mind, our premium apparel supports every adventure. Partner with us to share thoughtful, confidence-boosting styles backed by high family loyalty!",
+      "image": "https://levanta-public.s3.amazonaws.com/ZPgvOPerDUDsr7WSRr"
+    },
+    {
       "id": "94f90cf6-237c-471a-85ee-967b8a8eb44a",
       "name": "EagleStone",
       "url": "",
@@ -9103,18 +9306,18 @@
       "image": "https://levanta-public.s3.amazonaws.com/Tt6DbIzDRigMqDHdLj"
     },
     {
+      "id": "95032dd4-5a2c-47bf-9139-54cdbaf297c9",
+      "name": "Brightkins",
+      "url": "",
+      "bio": "",
+      "image": "https://levanta-public.s3.amazonaws.com/VDTrUOMmaVjPKwbd2E"
+    },
+    {
       "id": "9524d394-f526-4ec0-930c-12f989a32a53",
       "name": "Clubman",
       "url": "",
       "bio": "With over 200 years of grooming expertise, Clubman Pinaud has earned generations of trust with quality products that stand the test of time. Founded in 19th-century Paris, our legacy lives on through iconic aftershaves and modern beard essentials — all still found in barbershops and bathroom counters today, proving quality never goes out of style.",
       "image": "https://levanta-public.s3.amazonaws.com/sS6ly2lC5AJxi10zFV"
-    },
-    {
-      "id": "9530af6b-29ef-4ea1-8df1-6082af5cae44",
-      "name": "ANTHBOT US",
-      "url": "",
-      "bio": "ANTHBOT – a fast-growing brand of robotic lawn mowers, redefining smart lawn care with high-performance, automated solutions. Featured in top tech media: PCWelt, ComputerBild & Tom’s Guide. ",
-      "image": "https://levanta-public.s3.amazonaws.com/1C90S8zPSlFiK3SqGZ"
     },
     {
       "id": "954116e0-31d2-4267-ade5-0b9b5c750bc3",
@@ -9733,6 +9936,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/qV81Cdg99i7mVBtjKU"
     },
     {
+      "id": "9e549868-7ac4-4b83-98f8-5f628cf6d996",
+      "name": "1985 Games",
+      "url": "",
+      "bio": "1985 Games creates unique, high-quality accessories for Dungeons & Dragons and other tabletop RPGs — including sharp edge dice, immersive 2D terrain, maps, journals, acrylic minis, and more. \n\nWhether you're a seasoned DM or a new adventurer, we make it easier (and more fun) to bring your stories to life.",
+      "image": "https://levanta-public.s3.amazonaws.com/19icjqSUlPl4NHamFr"
+    },
+    {
       "id": "9e6b795b-8a59-4d88-8087-e2f4843c32fe",
       "name": "Dnil",
       "url": "",
@@ -9836,6 +10046,13 @@
       "url": "",
       "bio": "20%–30% commission | Amazon Hair Curling Wands Top 20 | 4.5★ with 1K+ reviews. TSUYAGLA creates premium, innovative styling tools trusted across the US—combining refined design, reliable performance, and exceptional service. Creators, let’s collaborate!",
       "image": "https://levanta-public.s3.amazonaws.com/0KIsiNdiVM0E9HFh9N"
+    },
+    {
+      "id": "a0202d02-f302-4713-a09b-f05bc5b272d1",
+      "name": "Ongo Energy",
+      "url": "",
+      "bio": "\"We live in the most over-caffeinated, yet still exhausted generation in human history.\"  We don’t have a caffeine problem. We have an energy-access problem.\n\nOnGo Energy Spray is a new way to energize: a pocket-sized oral spray with 15 servings per bottle, giving instant energy, anytime, anywhere. \n\nFounded by Hall of Fame athlete Ashu Jain, who spent 15 years in athlete leadership across the USOC and ITTF, including roles focused on protecting athletes’ rights and promoting clean competition.",
+      "image": "https://levanta-public.s3.amazonaws.com/fJzNXMpfrYizOeSv0l"
     },
     {
       "id": "a03768d7-09d0-47b6-931c-fe530bc5171b",
@@ -10035,10 +10252,10 @@
     },
     {
       "id": "a3d36848-0d3e-4857-8976-8b6c4bb0f50d",
-      "name": "feinuote",
+      "name": "FNTcase-feinuote",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "FNTCASE is the #1 best-selling phone case seller on Amazon in North America 🇺🇸 ⭐ 4.9★ | 10K+ Reviews 💰 25% Public Commission | Up to 60% Private 🔥 iPhone 18: 50% Commission + Limited-Time Discounts 🏆 Multiple Amazon Best Sellers ready to promote 📦 Free Samples + Bonuses. Products for iPhone, Samsung, Google Pixel & Motorola.",
+      "image": "https://levanta-public.s3.amazonaws.com/CWb39OWWGHMtzVEO1Q"
     },
     {
       "id": "a3dd77ca-83dc-4f0b-b1f8-ef5dc8b3089f",
@@ -10580,6 +10797,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/GPzc03U6rKI44nrMH6"
     },
     {
+      "id": "ac99a772-c349-4bad-848e-421a6d67eae6",
+      "name": "Netbors",
+      "url": "",
+      "bio": "",
+      "image": "https://levanta-public.s3.amazonaws.com/566ZOVnW2tzNJPMr5u"
+    },
+    {
       "id": "aca9ae67-b154-4eb8-b4dd-abb36a3b5845",
       "name": "IgnatGames",
       "url": "",
@@ -10692,18 +10916,18 @@
       "image": "https://levanta-public.s3.amazonaws.com/dfh2AAn54za0Zg3U2n"
     },
     {
+      "id": "aecfa33c-9bbd-4c5f-912a-556ebb2e346b",
+      "name": "slopehill-Stellartech",
+      "url": "",
+      "bio": "Slopehill is a modern hair styling tools brand creating high-quality, versatile, and affordable tools that bring salon-inspired results to everyday life. With a strong Amazon presence, Slopehill has earned 4.5+ star ratings, thousands of customer reviews, and consistent growth across the US and European markets. We have also collaborated with leading media programs, including GMA and Tamron Hall, to expand brand awareness.",
+      "image": "https://levanta-public.s3.amazonaws.com/Fqq94GISj4zRZcn0uV"
+    },
+    {
       "id": "aed3c661-12d4-4eed-94e0-c29077614b52",
       "name": "Chronoline2077",
       "url": "",
       "bio": "Chronoline stands with \"Real People.\" We design for action, not the runway. As a rising Amazon US menswear brand, we craft premium, rugged workwear. Dropping 20+ new styles per season, we maintain a stellar 4.6+ rating.\n\nGarments shouldn't be constraints. Using in-house designs and custom-developed fabrics, we blend a hardcore aesthetic with thoughtful details for everyday comfort. Chronoline is the most reliable piece of gear you own.",
       "image": "https://levanta-public.s3.amazonaws.com/Hrp2nyVeKkp9SYonru"
-    },
-    {
-      "id": "aede172f-aeb2-45dd-8a33-bebde3c43033",
-      "name": "Aldevi",
-      "url": "",
-      "bio": "Aldevi is a premium wellness brand offering high-quality, grass-fed Bovine Colostrum for gut and immune support. Sourced from pasture-raised cows, our gently freeze-dried, unflavored powder delivers high-IgG support and effortlessly mixes into morning coffee or smoothies. Clean label, zero binders, just everyday vitality. We’re looking for creators to join our affiliate campaign! ",
-      "image": "https://levanta-public.s3.amazonaws.com/KP66Xi7mBNsFtdKH7W"
     },
     {
       "id": "af193560-2863-483e-ad92-7374fc407977",
@@ -10776,6 +11000,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/p3poiYYnHTp6JQeZBY"
     },
     {
+      "id": "aff89293-e3b6-4e7d-aed5-edddba75baed",
+      "name": "Rowan",
+      "url": "",
+      "bio": "Rowan is a high-end home appliance brand dedicated to delivering refined, reliable, and intelligently designed products for quality-driven households. Guided by precision craftsmanship and industrial artistry, Rowan creates advanced, user-centered solutions across diverse categories. More than functionality, Rowan strives to be a trusted companion at home, making everyday life better, easier, and more enjoyable.",
+      "image": "https://levanta-public.s3.amazonaws.com/HxMxxARUEeVucdaJcA"
+    },
+    {
       "id": "b0014a46-f1c5-4e92-b1cb-6759ce04c00a",
       "name": "Mr. Pen",
       "url": "",
@@ -10795,13 +11026,6 @@
       "url": "",
       "bio": "At Sunluxy, we believe self-care is more than a moment of relaxation — it’s a commitment to long-term wellbeing.\n\nFounded by a team of wellness enthusiasts and product engineers, we create modern tools that help women — especially mothers — restore balance in body and mind through practical, effective care.\n\nSunluxy: Empowering women to care for themselves with confidence, every single day.",
       "image": "https://levanta-public.s3.amazonaws.com/MP65k2fHm5t4OSKqvA"
-    },
-    {
-      "id": "b04c3a60-8bbf-48ec-918b-a054f50f4416",
-      "name": "ava",
-      "url": "",
-      "bio": "Your Joy. Your Glow. Your Pleasure. We believe exploring self-pleasure is one of life’s most exciting journeys. ava products are designed to ignite a sense of play and curiosity so you can discover more about what makes you glow.",
-      "image": "https://levanta-public.s3.amazonaws.com/ZdRJccKzA9zv9uh1qX"
     },
     {
       "id": "b0772e21-2bfc-4434-b689-3247952043bd",
@@ -10844,6 +11068,13 @@
       "url": "",
       "bio": "",
       "image": ""
+    },
+    {
+      "id": "b1720ad6-943c-4663-ad13-ae502357a1ac",
+      "name": "Golspark",
+      "url": "",
+      "bio": "We believe the best ideas start with a little imagination and a lot of freedom. No rules. No perfect lines. Just bright colors, bold doodles, and endless possibilities. Every creation deserves to glow, be shared, and celebrated. As a leading BSR seller across multiple categories with 500K+ products sold monthly, we’re passionate about creating products that inspire, delight, and make great stories worth sharing.",
+      "image": "https://levanta-public.s3.amazonaws.com/oaTKPT6t3pDpO9s1rg"
     },
     {
       "id": "b1782901-fe94-4acf-84b2-c21c8b15ab6e",
@@ -10937,11 +11168,18 @@
       "image": "https://levanta-public.s3.amazonaws.com/2kAjBqrwb38fxTaMlI"
     },
     {
-      "id": "b2c8d7db-84c6-4d9f-ad6d-d4489c354ad1",
-      "name": "Nikoglly-Geyihome",
+      "id": "b2a23ddd-5f5f-4fb4-9c44-aac5e30ae845",
+      "name": "NAVEH PHARMA - USA",
       "url": "",
-      "bio": "Hi there!\nWe're Nikoglly, a fast‑growing security camera brand on Amazon. Our top‑selling wireless security cameras hold a solid 5⭐rating with over 400+ monthly sales.\n\nWe are offering 20% commission plus frequent promotional deals to boost your conversion. Our cameras fit perfectly with home security, smart home, family‑safety‑focused audiences.\n\nWould love to partner with you!",
-      "image": ""
+      "bio": "Founded in Israel in 1996, Naveh Pharma develops and manufactures pharmacy-grade health products trusted by leading pharmaceutical companies worldwide. Our US lineup includes NAVEH PHARMA ear care (CleanEars, DryEars, Otic Guard, Itchy Ears), MAGNOX magnesium from the Dead Sea, Saffrox saffron supplements, and Postbiotics. Common Problems, Smart Solutions: practical everyday health products your audience will use and reorder.",
+      "image": "https://levanta-public.s3.amazonaws.com/Q2A3hUCcesekuMb8rG"
+    },
+    {
+      "id": "b2c8d7db-84c6-4d9f-ad6d-d4489c354ad1",
+      "name": "Nikoglly-Febyhim",
+      "url": "",
+      "bio": "Hello!\n\nWe are Febyhim, a fast-growing toy brand on Amazon. Our transforming RC car sells over 500 units monthly with a solid track record of 5-star reviews.\n\nWe offer a 20% commission plus frequent promotional deals to help boost conversion rates. This transforming RC car is ideal for kids aged 3–12 and older who love RC vehicles, stunts and racing thrills. It is also a top pick for parents and relatives searching for great holiday gifts for children.\n\nWe look forward to partnering with you!",
+      "image": "https://levanta-public.s3.amazonaws.com/RvPoOkA4QWrnbQQWAd"
     },
     {
       "id": "b2f1f92a-14f1-459f-9437-5c81cf1e5838",
@@ -11098,6 +11336,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/iWBmElfZMBKASRPLDb"
     },
     {
+      "id": "b4b6ca7f-4a8d-4c32-9ad6-062f10a97acb",
+      "name": "Broodx",
+      "url": "",
+      "bio": "Broodx — Built Like a Car. Designed for Your Drive. \nEarn 20%+ commission promoting premium magnetic car phone mounts inspired by automotive engineering. \nBuilt for strong hold, stability, durability, and everyday driving, our featured mount is rated 4.7★ on Amazon. \nWith products from $15–$119, Broodx offers strong earning potential. \nWe welcome U.S. creators in automotive, tech, gadgets & lifestyle. \nApply to partner with Broodx!",
+      "image": "https://levanta-public.s3.amazonaws.com/zBX69FrZRU7JSFfW81"
+    },
+    {
       "id": "b4f6083a-260e-4e42-9648-feb3a05bcfc4",
       "name": "haruharu wonder",
       "url": "",
@@ -11148,9 +11393,9 @@
     },
     {
       "id": "b588eca5-5dfe-44e9-93d8-286da134145a",
-      "name": "Yeasound — HearAdvisor Expert Choice",
+      "name": "Yeasound Direct Store",
       "url": "",
-      "bio": "Consumer Reports Featured ✅ - HearAdvisor Expert Choice (A SoundGrade) ✅ - Top 5% of all OTC hearing aids tested ✅ - Best Value OTC (HearingTracker) ✅ - IPX8 waterproof ✅ - 92 Hours Long-Lasting ✅ - AI Powered Noise Reduction & Speech Enhancement ✅ - Bluetooth Calls & Music Enabled ✅ - Comfortable & Invisible ✅ - Yeasound is an audio technology company with over 20 years of experience",
+      "bio": "HearAdvisor Expert Choice (A SoundGrade) ✅ - Top 2% of all OTC hearing aids tested ✅ - Best Value OTC (HearingTracker) ✅ - 60dB Full-On Gain ✅ - Receiver-in-Canal (RIC) Design ✅ - IPX8 waterproof ✅ - Tinnitus Relief - 6 Built-In White Noise Options ✅ - 92 Hours Long-Lasting ✅ - AI Powered Noise Reduction & Speech Enhancement ✅ - Bluetooth Calls & Music Enabled ✅ - Comfortable & Invisible ✅ - Yeasound is an audio technology company with over 20 years of experience",
       "image": "https://levanta-public.s3.amazonaws.com/LqZgg2kIt5ci6l9RJj"
     },
     {
@@ -11161,11 +11406,25 @@
       "image": "https://levanta-public.s3.amazonaws.com/cVmJK2P3NZZuriPdRX"
     },
     {
+      "id": "b5c32415-f3d9-4a87-8cdc-ebf3477669ce",
+      "name": "Honovos",
+      "url": "",
+      "bio": "Honovos is dedicated to creating thoughtfully designed humidifiers for modern living. We combine practical functionality, intuitive features, and refined design to bring comfortable moisture and everyday convenience. From bedrooms and nurseries to living rooms and home offices, our humidifiers are designed to fit naturally into the spaces where people live, work, and rest.",
+      "image": "https://levanta-public.s3.amazonaws.com/6LP2kVAbIup4g8Q7uk"
+    },
+    {
       "id": "b5dedc69-385d-43f2-89d9-18a495e43132",
       "name": "Built",
       "url": "",
       "bio": "At BUILT, we make the best tasting, better-for-you snack bars. Our Puff bars are light and fluffy - with a marshmallowy texture, and our Sour Puff bars are fruity and tangy - with an airy, gummy texture.",
       "image": ""
+    },
+    {
+      "id": "b5df1f41-3f2c-42f5-b371-43d45c4d2ec4",
+      "name": "HUUCH",
+      "url": "",
+      "bio": "HUUCH is an AI startup on a mission to redefine family entertainment through full‑body, interactive play. The company believes that physical proximity is one of the most direct ways to build emotional connections. HUUCH creates technology that brings families together – not by adding another screen, but by encouraging movement, laughter, and shared moments.",
+      "image": "https://levanta-public.s3.amazonaws.com/HJMelP8icTI9K6Oa9W"
     },
     {
       "id": "b5f1e510-9332-4d19-8576-a44e2f1adbb0",
@@ -11371,13 +11630,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/TjD0XllXNWmhbhS9pb"
     },
     {
-      "id": "b7ea9834-c5ad-4db9-a703-535616ceaff0",
-      "name": "RORRY DIRECT",
-      "url": "",
-      "bio": "",
-      "image": ""
-    },
-    {
       "id": "b806338a-fc1b-4416-8652-331106f5366c",
       "name": "Gisou",
       "url": "",
@@ -11432,6 +11684,13 @@
       "url": "",
       "bio": "Woman-owned and family run since 1979, WishGarden Herbs’ mission is to bring herbalism back into the forefront of healthcare by making herbal remedies accessible to everyone. WishGarden herbal remedies can be found in over 2500 stores nationwide and online. We offer over 100 herbal products for the whole family, supporting common needs like immunity, sleep, stress, allergies, hormone health and more. We have multiple product lines: Adult, Kids, Women and Pregnancy/Postpartum/Lactation.",
       "image": "https://levanta-public.s3.amazonaws.com/TRYYpxiK57tYRpxdIp"
+    },
+    {
+      "id": "b8f10433-a851-44b1-8011-d45aa7e81d32",
+      "name": "LILILIFENGLY",
+      "url": "",
+      "bio": "Comzler is a  brand with over a decade of industry experience. Our new launches consistently achieve #1 category new release rankings, while multiple core products maintain steady monthly sales exceeding 1,000 units. Backed by rigorous quality standards and optimized user experience, our brand features high repurchase rates and stable customer loyalty through continuous product iteration and innovation.",
+      "image": "https://levanta-public.s3.amazonaws.com/nRiCWnZaIODNzy2LXz"
     },
     {
       "id": "b92404d4-5d85-4b64-b922-58239cd9ac61",
@@ -11535,7 +11794,7 @@
       "id": "babdd574-d822-4bc8-9bf8-0a44ec7f21e4",
       "name": "Brandream",
       "url": "",
-      "bio": "Brandream creates beautiful, comfortable bedding for homes with personality. Our collections combine natural cotton, thoughtful craftsmanship, and distinctive designs—from romantic florals and classic Toile de Jouy to cottage-inspired prints and elegant matelassé. We love working with creators who bring our bedding to life through their own authentic style.",
+      "bio": "🌟 4.6★ on Amazon | 13,000+ Amazon Reviews\n🏆 12+Years on Amazon｜Amazon Brand Registered\n💰 20% Commission | High-AOV Bedding｜$100–$150+ Average Order Value\nBrandream is an established Amazon bedding brand offering quilts, coverlets and cottage-inspired bedding made for highly visual home décor and lifestyle content.\nProven products, strong customer feedback and high order values give creators more earning potential with every sale.",
       "image": "https://levanta-public.s3.amazonaws.com/1tAHnaiGMAszZAzRNd"
     },
     {
@@ -11889,6 +12148,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/hoLk0zubHxuFrtS85C"
     },
     {
+      "id": "c0de0df9-0879-4907-afed-a84d377f16ef",
+      "name": "hiya health",
+      "url": "",
+      "bio": "",
+      "image": ""
+    },
+    {
       "id": "c0df018f-d824-48d2-bdca-7ab14f632b61",
       "name": "EZ Melts & Prominent Nutrition",
       "url": "",
@@ -12099,6 +12365,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/w40iugEAjirSG87grB"
     },
     {
+      "id": "c46f01dd-0194-4b5d-b143-98a2c60fa954",
+      "name": "Netbors Home",
+      "url": "",
+      "bio": "Netbors is a modern home goods brand creating thoughtfully designed pieces that make everyday spaces feel warmer, softer, and more inviting. We combine quality materials, timeless aesthetics, and functional details to elevate the way you live.",
+      "image": ""
+    },
+    {
       "id": "c473481f-ad11-4ccc-a76e-cfd4bbb81094",
       "name": "Cate & Chloe",
       "url": "",
@@ -12111,6 +12384,13 @@
       "url": "",
       "bio": "INFUN is a high-quality product design and manufacturing company committed to helping you work more efficiently, intelligently, and freely in offices, homes, or schools.\nWhether you are a business professional, entrepreneur, frequent traveler, student, or a busy homemaker, our products meet your diverse needs.\nMade with thickened materials for exceptional quality, our unique patented design ensures ultimate convenience.",
       "image": "https://levanta-public.s3.amazonaws.com/rZjh63CSO5gxVByJ6d"
+    },
+    {
+      "id": "c48bd50e-22ea-471d-a8fd-373a0298f980",
+      "name": "Bellcoco",
+      "url": "",
+      "bio": "Bellcoco is a premier women’s knitwear brand dedicated to cozy, stylish, and year-round daily outfits. Our signature open-front cardigans and pullover sweaters are the top best sellers, boasting a steady 4.5-star rating and over 9,000 monthly sales. Crafted from premium, lightweight, and skin-friendly fabrics, our inclusive knitwear and soft tees offer a gentle touch and versatile fits for all body shapes, delivering effortless elegance for any occasion.",
+      "image": "https://levanta-public.s3.amazonaws.com/bfLbdhGplNBzWnE0Bt"
     },
     {
       "id": "c498e72e-f918-4701-8b1f-a7af7a049efc",
@@ -12330,6 +12610,13 @@
       "image": ""
     },
     {
+      "id": "c7eae5fe-0a20-497d-9b9d-d70ec3b0357e",
+      "name": "Nulea",
+      "url": "",
+      "bio": "Ergonomic keyboards and mice trusted by users worldwide. Our lineup includes trackball mice, vertical mice, ergonomic keyboards, and more. M501 is a long-standing Amazon #1 Best Seller with 12.6K+ reviews and a 4.4-star rating. 1M+ products sold globally. Earn 15% commission across all products. Publishers, Media Buyers, Deal Sites, and performance partners welcome.",
+      "image": "https://levanta-public.s3.amazonaws.com/GqY8iOVEir1GY5JQZW"
+    },
+    {
       "id": "c8698ec3-5a41-463f-bf2b-477f8dac5c90",
       "name": "Faireach",
       "url": "",
@@ -12400,6 +12687,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/yRke7SQmFGJBdVPZjX"
     },
     {
+      "id": "c93b6092-9c84-4dc3-b068-f36cd55e466a",
+      "name": "Goli Nutrition Inc",
+      "url": "",
+      "bio": "",
+      "image": "https://levanta-public.s3.amazonaws.com/g93nCA0Z2ueKFf9TI8"
+    },
+    {
       "id": "c96685a8-c9b1-44f8-9c7a-608205f4aa05",
       "name": "FritzCo",
       "url": "",
@@ -12447,6 +12741,20 @@
       "url": "",
       "bio": "Üllo believes wine is best enjoyed the way the winemaker intended – free from the sulfite preservatives added during production and with lower histamines.\nÜllo has purified over 30 million glasses and is trusted by wine lovers who thought they’d never drink wine again—because of headaches, stuffy noses, flushed skin, or lingering bitterness. Now, they’re back to enjoying their favorite bottles, without the regret.",
       "image": "https://levanta-public.s3.amazonaws.com/MWdP55dwhJUKjPBZ8k"
+    },
+    {
+      "id": "ca131efd-8cc3-41c7-ab85-49b3afd6b5ce",
+      "name": "Cupsy Me LLC",
+      "url": "",
+      "bio": "The Anywhere Drink Organizer ✅ - From Couch to Car, Beach to Bedroom ✅ - Convenient & Sturdy ✅ - Securely Holds Drinks, Phones, Remotes, Wine Glasses, Any Cup Size ✅ - Repositionable Legs ✅ - No More Spills ✅ - It Floats! ✅ - Perfect for Everyone from Baby to Grandparents\n",
+      "image": "https://levanta-public.s3.amazonaws.com/0eKPwo6zbRs3TP2h5H"
+    },
+    {
+      "id": "ca1ec651-1b09-4798-a9d8-3226817c256f",
+      "name": "Hiswelle",
+      "url": "",
+      "bio": "HISWELLE\n\nFor years, HISWELLE has focused on one thing: large-capacity humidifiers built for real homes.\n\nWith 2.1+ gallon capacity, our humidifiers are designed to solve everyday challenges — fewer refills, longer runtime, consistent humidity, and effortless operation.\n\nWe listen to what people need, turn real problems into practical solutions, and keep improving what we know best.\n\nHISWELLE — We Know Humidification.",
+      "image": ""
     },
     {
       "id": "ca29351c-d220-4886-8b3b-9ef3adfc3f5c",
@@ -12538,13 +12846,6 @@
       "url": "https://www.amazon.com/s?i=merchant-items&me=AZAQVVBME8J2S&dc&marketplaceID=ATVPDKIKX0DER&qid=1688068991&ref=sr_ex_p_4_0&ds=v1%3A3SSW%2FLb3%2BZcRahdiuERJ04nbaYDySQEyO5FGS%2FETZw4",
       "bio": "We make self-care accessible to all.\n\nNo matter who you are. Where you live. Or what your budget is. Everyone should have the chance to unwind and get their “me time.”\n\nCombining the wholeness of nature with the passion of emerging apothecaries, we make your next moment of Zen both effortless and affordable.",
       "image": "https://levanta-public.s3.amazonaws.com/AKNWESVdoV93P0UAB5"
-    },
-    {
-      "id": "cbd445c3-7f0f-4b69-be80-147ac34639c3",
-      "name": "Happy Healthy Hippie Co",
-      "url": "",
-      "bio": "Wellness rooted in intention. Happy Healthy Hippie creates plant-based supplements for women who believe real balance starts from within. We blend ancient herbal wisdom with modern science to support mood, hormones, sleep, and energy — without the hype or hard sell. Every formula is crafted with transparency, backed by herbal science, and designed to meet you where you are. Because wellness isn't a destination. It's a daily practice worth showing up for.",
-      "image": "https://levanta-public.s3.amazonaws.com/ZloT2zsy5XXriDrcsa"
     },
     {
       "id": "cbe1d813-9c8d-4d4c-bd01-4c4d41181ef2",
@@ -12713,6 +13014,13 @@
       "url": "",
       "bio": "Co-founded by Sarah Cheung, SACHEU redefines ultra long-wear makeup powered by its patent-pending STAY-N technology. In 2023, we launched our Peel-Off Lip STAY-N which has since garnered 6B+ views and sold 15M+ units. ",
       "image": "https://levanta-public.s3.amazonaws.com/ORQL0M3MtrUjYg4vbu"
+    },
+    {
+      "id": "ce4b8165-37a3-4aa5-b3d7-dfe9cf596a8d",
+      "name": "Mineral Ice Extreme",
+      "url": "",
+      "bio": "For decades, Mineral Ice has been the trusted and time-proven pain fighter in gyms, training rooms, and medicine cabinets. The world is changing. You feel it, and we do too! The grind is faster, the goals are bigger, and the downtime is non-existent. Mineral Ice Extreme is built to help you keep up. Mineral Ice Extreme is for the doers, the creators, and the athletes who refuse to let a minor ache turn into a major setback. We don't just help relieve pain; we optimize recovery.",
+      "image": "https://levanta-public.s3.amazonaws.com/FkHZpuTZ0aQnC4zzZY"
     },
     {
       "id": "ce62ea56-648a-4d2a-b684-29dc8a535bc6",
@@ -13181,7 +13489,7 @@
       "name": "Hi-Lyte",
       "url": "",
       "bio": "Hi-Lyte makes hydration personal. With a range of electrolyte formulas and formats, you can choose what best fits your needs and routine, from everyday hydration to performance, recovery, fasting, keto, and low-sodium support. Choose from powders, Quick Sticks, capsules, and liquids, with flavored and unflavored options. Since 2016, we’ve focused on thoughtful formulas, zero sugar, Non-GMO ingredients, and naturally sourced minerals from Utah’s Great Salt Lake.",
-      "image": "https://levanta-public.s3.amazonaws.com/KkjOZ2ohlMBObpgM07"
+      "image": "https://levanta-public.s3.amazonaws.com/uZUCxxGzNqwQidSkrA"
     },
     {
       "id": "d6db1b20-e7b1-4303-93bc-0833ca6c814c",
@@ -13381,14 +13689,14 @@
     },
     {
       "id": "da391403-7c3d-43fb-be8a-1f45c8ea6f6e",
-      "name": "Klarus",
+      "name": "Klarus.us",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "KLARUS-The Inventor of Tactical Dual-switch Flashlights.\n\nFor 16 years, KLARUS has been trusted by military and police in 58 countries and sold in 100+ countries. We never stop improving the quality, reliability, and variety of our lighting gear—tactical and EDC flashlights, camping lights, headlamps, powerbank, and more. \n\nEarn 10-30% commission on every sale you drive. We value your creativity and voice. Let's work together! DM us.",
+      "image": "https://levanta-public.s3.amazonaws.com/Sb05QZF4OeZxE4QATu"
     },
     {
       "id": "da5865b8-13b3-4fe0-93e7-531f8c3a51a9",
-      "name": "AHJ US",
+      "name": "XSK-US",
       "url": "",
       "bio": "AHJ creates thoughtfully designed products for modern homes, families, and everyday living. From kitchen and cooking essentials to children’s educational talking flash cards, aquarium care, and new lifestyle launches, our products are made to be practical, useful, and naturally part of real home routines. We partner with creators in home, cooking, parenting, learning, lifestyle, and pet/aquarium content.",
       "image": "https://levanta-public.s3.amazonaws.com/7jYStbH7kTPNiDYNGJ"
@@ -13448,13 +13756,6 @@
       "url": "",
       "bio": "Betterbrand was founded by a pharmacist with a mission to make science-backed wellness accessible to everyone. Each formulation is rooted in clinical research and crafted to help you breathe easier, think clearer, and feel your best—every day. From lung support to daily vitality, Betterbrand brings pharmacy-grade quality to modern wellness.",
       "image": "https://levanta-public.s3.amazonaws.com/jJgjj0YhDuMhayhFLD"
-    },
-    {
-      "id": "db3ddf59-5a83-426b-ac7d-c00080b12c8d",
-      "name": "Vital Vitamins",
-      "url": "",
-      "bio": "Real formulas. Real results. Vital Vitamins creates whole-body supplements for everyday people who want to feel their best — without the gimmicks, confusion, or premium price tag. Every product is formulated with intention, backed by clinically tested ingredients, and third-party verified for quality you can trust. Whether you're supporting your gut, brain, skin, or joints, we've built a daily regimen that works as hard as you do. Live Long. Live Well.",
-      "image": "https://levanta-public.s3.amazonaws.com/oApr78HXFwbkJM8jBS"
     },
     {
       "id": "db6deacb-8514-4da6-922b-12316c898b4e",
@@ -13612,10 +13913,10 @@
     },
     {
       "id": "dd2be573-d779-44d5-afd6-e2a95b77a314",
-      "name": "binghexin",
+      "name": "FNTcase-binghexin",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "FNTCASE is the #1 best-selling phone case seller on Amazon in North America 🇺🇸 ⭐ 4.9★ | 10K+ Reviews 💰 25% Public Commission | Up to 60% Private 🔥 iPhone 18: 50% Commission + Limited-Time Discounts 🏆 Multiple Amazon Best Sellers ready to promote 📦 Free Samples + Bonuses. Products for iPhone, Samsung, Google Pixel & Motorola.",
+      "image": "https://levanta-public.s3.amazonaws.com/CWb39OWWGHMtzVEO1Q"
     },
     {
       "id": "dd3ae2a5-68d9-47ae-a5e8-7c01c67cb255",
@@ -13717,10 +14018,10 @@
     },
     {
       "id": "de557664-34a6-4115-b591-b63839cbe955",
-      "name": "heerman",
+      "name": "FNTcase-heerman",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "FNTCASE is the #1 best-selling phone case seller on Amazon in North America 🇺🇸 ⭐ 4.9★ | 10K+ Reviews 💰 25% Public Commission | Up to 60% Private 🔥 iPhone 18: 50% Commission + Limited-Time Discounts 🏆 Multiple Amazon Best Sellers ready to promote 📦 Free Samples + Bonuses. Products for iPhone, Samsung, Google Pixel & Motorola.",
+      "image": "https://levanta-public.s3.amazonaws.com/CWb39OWWGHMtzVEO1Q"
     },
     {
       "id": "de8eb32d-d458-40e9-9664-3105ed1805fc",
@@ -13738,10 +14039,10 @@
     },
     {
       "id": "de973ef0-9cbf-4e3a-83ff-958dd77d6ee9",
-      "name": "slopehill-flowersk.us-J",
+      "name": "slopehill-flowersk",
       "url": "",
       "bio": "Slopehill is a modern hair styling tools brand creating high-quality, versatile, and affordable tools that bring salon-inspired results to everyday life.\n\nWith a strong Amazon presence, Slopehill has earned 4.5+ star ratings, thousands of customer reviews, and consistent growth across the US and European markets. We have also collaborated with leading media programs, including GMA and Tamron Hall, to expand brand awareness.",
-      "image": "https://levanta-public.s3.amazonaws.com/gjeCuDF5IDMWbvUYBk"
+      "image": "https://levanta-public.s3.amazonaws.com/DNka0Qy3c5v2xZ480X"
     },
     {
       "id": "dea3c119-b1b0-4cf9-ad2b-d24358f455b5",
@@ -14003,6 +14304,13 @@
       "image": "https://levanta-public.s3.amazonaws.com/jumN5I0sMJRGmd6Qya"
     },
     {
+      "id": "e1c41cee-9ddd-4988-8e40-e2f55485b61d",
+      "name": "PUREBORNE",
+      "url": "",
+      "bio": "PUREBORNE is a home comfort brand focused on smart cooling and air purification solutions for modern living. As summer approaches, our main focus is on smart tower fans that combine powerful cooling, quiet operation, and convenient smart controls, making them ideal for bedrooms, living rooms, and home offices. We also offer air purifiers designed to help create a cleaner and healthier indoor environment. ",
+      "image": "https://levanta-public.s3.amazonaws.com/ignOIDZiAzNgwkiyaX"
+    },
+    {
       "id": "e1cdf24d-57c9-4076-a9a2-69c9b6a01091",
       "name": "Gourmia Seller Central",
       "url": "",
@@ -14029,6 +14337,13 @@
       "url": "",
       "bio": "At ELABEST OFFICE, we believe that a chair is more than just a place to sit—it is the foundation of your productivity and well-being. Specializing in high-performance ergonomic seating, we combine minimalist aesthetics with advanced structural engineering to support your body through every hour of the workday.",
       "image": "https://levanta-public.s3.amazonaws.com/hHyGJf0BMohrlakRTl"
+    },
+    {
+      "id": "e2161551-15db-4c62-958b-83dc64d10692",
+      "name": "Gloves+com",
+      "url": "",
+      "bio": "Gloves.com is your trusted source for quality disposable gloves, providing reliable hand protection for healthcare, food service, industrial, automotive, cleaning, and everyday needs.",
+      "image": "https://levanta-public.s3.amazonaws.com/aOHWbmu2FLt8AkP398"
     },
     {
       "id": "e2275983-d7d3-4538-8afd-5f09879e899e",
@@ -14144,7 +14459,7 @@
     },
     {
       "id": "e3b5075c-6509-4120-ada5-87f76121a4c1",
-      "name": "Heteng International",
+      "name": "MEEDEN US",
       "url": "",
       "bio": "20% commission. Best-Selling Amazon Brand: MEEDEN (Premium Art Supplies & Studio Essentials). 100,000+ verified customer reviews across 6,000+ products, top-rated by artists of every level\nJoin us for competitive commissions & mutual growth!\nmeedenart.com | IG: @meeden.art",
       "image": "https://levanta-public.s3.amazonaws.com/Yn8EdWp7OyQhSfDOvv"
@@ -14556,13 +14871,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/b8vQtqzUiKveNzZt14"
     },
     {
-      "id": "ea693ced-cb08-4992-a432-c472afb198e9",
-      "name": "Fannlike",
-      "url": "",
-      "bio": "Kismile is a high-end brand dedicated to designing and manufacturing home appliances. Our company was founded in 2015 and is located in California. since its inception, the products of the Kismile brand have entered millions of households and brought convenience to their lives Combining safety, innovative technology and cost-effectiveness we provide consumers with pragmatic products to help you live a better life.",
-      "image": "https://levanta-public.s3.amazonaws.com/ZAWQbg35mUwh7h5Br2"
-    },
-    {
       "id": "ea8c8146-7bcb-4072-a6e4-bbc1a66b5e9b",
       "name": "ROPET",
       "url": "",
@@ -14685,8 +14993,8 @@
       "id": "ed2835f4-731b-49fc-b481-06a19e61b260",
       "name": "LIFEWORTH",
       "url": "",
-      "bio": "",
-      "image": ""
+      "bio": "LIFEWORTH creates natural dietary supplements for U.S. health-focused women seeking wellness & inner skin nourishment. Our flagship Astaxanthin (Haematococcus pluvialis) supports antioxidant health & preserves skin radiance & elasticity. Amazon US: 4.7+ star reviews, proven traction. Facility: cGMP, NSF GMP certified & FDA registered. All batches have independent purity testing. We partner with wellness & anti-aging creators to drive conversions. Mission: safe, trustworthy natural supplements.",
+      "image": "https://levanta-public.s3.amazonaws.com/lxv08GnQL657ivikqH"
     },
     {
       "id": "ed3281eb-944e-4b20-bfd2-03085e8eb0c0",
@@ -14844,7 +15152,7 @@
     },
     {
       "id": "f03ee71d-2249-43f9-bc78-61953df82d01",
-      "name": "T Marie™",
+      "name": "T Marie®",
       "url": "",
       "bio": "T Marie is a stationery and gifting brand creating playful, heartfelt products designed to promote joy and human connection. From greeting cards with wholesome jokes and puns, to calendars with adorable animals and positive affirmations, our products feature human-made artwork that brings joy to kids and adults alike!\n",
       "image": "https://levanta-public.s3.amazonaws.com/qk5BnpiUGil8qDEzNE"
@@ -14900,7 +15208,7 @@
     },
     {
       "id": "f1016425-2f2e-4761-9753-62c1471c8034",
-      "name": "CALLISTA US",
+      "name": "MEEDEN US",
       "url": "",
       "bio": "20% commission. Best-Selling Amazon Brand: MEEDEN (Premium Art Supplies & Studio Essentials). 100,000+ verified customer reviews across 6,000+ products, top-rated by artists of every level\nJoin us for competitive commissions & mutual growth!\nmeedenart.com | IG: @meeden.art",
       "image": "https://levanta-public.s3.amazonaws.com/Yn8EdWp7OyQhSfDOvv"
@@ -15088,6 +15396,13 @@
       "image": ""
     },
     {
+      "id": "f54a0c74-a2bb-4298-863f-17a3e0fa15e0",
+      "name": "Haboke",
+      "url": "",
+      "bio": "Haboke is one of the leading sellers in the photography backdrop category. With decades of industry experience, we offer all-theme photography backdrops, including the Professional Photography Master series, backdrop stand kits, and seasonal/holiday themes such as Christmas, Winter, Autumn, Summer, and Spring. \n\nTrusted by a large fan community and rated 4.6 by customers. Through Levanta, we offer partners a minimum 15% commission. Promote a proven, high-demand backdrop brand with us.",
+      "image": "https://levanta-public.s3.amazonaws.com/nCUpONV9anvAh4iQF1"
+    },
+    {
       "id": "f54bb85f-ef77-4c72-a031-5c22c1a39386",
       "name": "Bloom",
       "url": "",
@@ -15200,13 +15515,6 @@
       "image": "https://levanta-public.s3.amazonaws.com/gRmxV6w3xqV27O4N5E"
     },
     {
-      "id": "f772b195-777a-4c39-ac79-afd4590fec37",
-      "name": "Milk_Shake",
-      "url": "",
-      "bio": "milk_shake® is a full-range, professional salon quality haircare brand.\n\nOur products are made for those who expect the best and want the most results from their haircare. We pack our ingredients at the highest levels of concentration to deliver maximum results. milk_shake® uses fast acting, nutrient rich formulas to transform your hair to its healthiest state.",
-      "image": "https://levanta-public.s3.amazonaws.com/0a165Xhkjk1oWlTN84"
-    },
-    {
       "id": "f773842d-83e1-4d85-9f0f-1b0595d11a3e",
       "name": "MBIGM",
       "url": "",
@@ -15224,7 +15532,7 @@
       "id": "f7a3771e-58ba-4773-b226-6e2b1329b0f2",
       "name": "QPAU",
       "url": "",
-      "bio": "Partner with QPAU and earn 15% commission by sharing inflatable products trusted by over 2 million families worldwide. From water fun to snow adventures and outdoor family play, QPAU brings joy to kids and families of all ages. With strong Amazon ratings and authentic reviews, our products are easy to recommend and built to inspire more laughter, connection, and love.",
+      "bio": "Partner with QPAU and earn 15% commission across a proven lineup of inflatable family products. Trusted by 2M+ families worldwide, QPAU features Amazon best sellers including a #1 punching bag with 4.4★/3.2K+ reviews and a popular Bouncy Hopper Toy with 4.3★/1.4K+ reviews. From kids’ travel beds and summer pools to floats and winter snow gear, QPAU offers strong year-round selling opportunities.",
       "image": "https://levanta-public.s3.amazonaws.com/HdgcKGJHefH2kjqWf1"
     },
     {
@@ -15243,7 +15551,7 @@
     },
     {
       "id": "f88bd84d-1a23-413a-9890-37436ab335d2",
-      "name": "slopehill-Powerise.us-J",
+      "name": "slopehill-Powerise",
       "url": "",
       "bio": "Slopehill is a modern hair styling tools brand creating high-quality, versatile, and affordable tools that bring salon-inspired results to everyday life. With a strong Amazon presence, Slopehill has earned 4.5+ star ratings, thousands of customer reviews, and consistent growth across the US and European markets. We have also collaborated with leading media programs, including GMA and Tamron Hall, to expand brand awareness.",
       "image": "https://levanta-public.s3.amazonaws.com/IHpqtENXI4UAkyLeUc"
@@ -15392,8 +15700,8 @@
       "id": "fa9282c3-8812-438b-bd49-1183735565b0",
       "name": "Neuliven Health, Inc.",
       "url": "",
-      "bio": "GLUCOCIL® - Premium Blood Sugar Support - 8,000+ Amazon Ratings - #1 at Walmart - #1 at CVS - Trusted Since 2008 - Over 2 Million Bottles Sold - Supported by National TV & Digital Advertising – 100K+ Facebook Fans - Only Glucocil Targets All 3 Essentials for Normal Blood Sugar - Reduce Sugar Absorption, Reduce Sugar Production, Increase Sugar Use for Energy - Available in Easy-to-Take Softgels or Capsules - Doctor-Formulated - Clinically Researched Ingredients - The Total Blood Sugar Optimizer®",
-      "image": "https://levanta-public.s3.amazonaws.com/WN1E74ufIHEmxBBFj1"
+      "bio": "SHARP BRAIN™ SOFT CHEWS—THE DELICIOUS ALTERNATIVE TO PILLS—supports memory, focus, mental energy, processing speed, and long term brain health, with Cognizin® citicoline, lion’s mane mushroom, and B vitamins.\n\nGLUCOCIL®—THE TOTAL BLOOD SUGAR OPTIMIZER—targets all 3 essentials for healthy blood sugar —sugar absorption, sugar production, and sugar usage—to support healthy blood sugar levels, weight management, sugar & carb absorption, heart, and energy. #1 at Walmart.",
+      "image": "https://levanta-public.s3.amazonaws.com/5hsdppGnIm4I5lIFdI"
     },
     {
       "id": "faa72f02-579b-4687-8389-9dcbcbdb48d8",
