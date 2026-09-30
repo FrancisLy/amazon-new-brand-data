@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22",
-  "timestamp": "2026-09-22T04:32:56.781Z",
+  "date": "2026-09-30",
+  "timestamp": "2026-09-30T05:16:16.074Z",
   "brands": [
     {
       "id": "88868",
@@ -118,14 +118,6 @@
       "id": "90885",
       "name": "UTK",
       "url": "https://www.amazon.com/stores/UTK/page/F3F585A6-C246-47BB-AC2F-1739406EF5AE",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "90912",
-      "name": "XIMAND",
-      "url": "https://www.amazon.com/stores/page/5A2A4733-108D-483A-A49A-2E68B1B46445",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -1411,6 +1403,14 @@
       "product_count": 0
     },
     {
+      "id": "97269",
+      "name": "Kingbuy",
+      "url": "https://www.amazon.com/stores/page/D033AFE0-3FA9-427A-B61F-2701813FBD41",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "97271",
       "name": "KUNWFNIX",
       "url": "https://www.amazon.com/stores/KUNWFNIX/page/7A7ED532-7FDE-46F1-85E8-3541D684CE11",
@@ -1438,6 +1438,30 @@
       "id": "98297",
       "name": "takuoo",
       "url": "https://www.amazon.com/stores/Takuoo/page/E8369A09-8170-4D0D-9EA7-1022D78706AA",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "98300",
+      "name": "PACDONA",
+      "url": "https://www.amazon.com/stores/PACDONA/page/1579F2D6-BFB5-484C-8444-4BC564B5D977",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "98301",
+      "name": "DOKIMIYA",
+      "url": "https://www.amazon.com/stores/page/E109BFD4-632F-4EED-BDF4-9CEA7C7946BD",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "98302",
+      "name": "VICHOCCA",
+      "url": "https://www.amazon.com/stores/page/B8A2AF66-397B-45D6-B246-BCD834E369B4",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -1878,6 +1902,14 @@
       "id": "100219",
       "name": "Sunshinejing",
       "url": "https://www.amazon.com/stores/Sunshinejing/page/73E64A78-6CA9-4025-BA20-070A9EC3827E",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "100222",
+      "name": "SheSole",
+      "url": "https://www.amazon.com/stores/SheSole/page/D0872D95-6046-4910-8CBD-65DD0EF5CA71",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -2342,6 +2374,14 @@
       "id": "102561",
       "name": "GeeJery",
       "url": "https://www.amazon.com/stores/GeeJery/page/D3882058-7EA1-4FD7-BF70-88E831A7B220",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "102563",
+      "name": "Hethstia",
+      "url": "https://www.amazon.com/stores/Hethstia/page/D6ACBA22-C15C-4C6B-AE7D-DEC1A545D272",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -3491,14 +3531,6 @@
       "product_count": 0
     },
     {
-      "id": "105463",
-      "name": "HYCHIKA",
-      "url": "https://www.amazon.com/stores/HYCHIKABetterToolsforBetterLife/page/AFAC9A8E-1133-4DEA-88F0-842CC4A17EBA",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
       "id": "105464",
       "name": "Huanggang",
       "url": "https://www.amazon.com/s",
@@ -3643,6 +3675,14 @@
       "product_count": 0
     },
     {
+      "id": "105540",
+      "name": "TAGRY",
+      "url": "https://www.amazon.com/stores/page/B804BE9C-9D7C-43A3-AA31-FD0EBCEF1BF4",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "105545",
       "name": "leonbinno",
       "url": "https://www.amazon.com/stores/leonbinno/page/DD29879B-3EDC-4B3A-9A29-0E3FAA71295B",
@@ -3683,14 +3723,6 @@
       "product_count": 0
     },
     {
-      "id": "105556",
-      "name": "Gekinye",
-      "url": "https://www.amazon.com/stores/GekinyeBeautySupply/page/2B410FD3-C3A6-40A5-AA88-9D11B100072F",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
       "id": "105700",
       "name": "Cuebar",
       "url": "https://www.amazon.com/stores/CUEBAR/page/F44CA6C9-17D3-44AB-9E2D-6F7A08D983CD",
@@ -3718,22 +3750,6 @@
       "id": "105719",
       "name": "Vefaii",
       "url": "https://www.amazon.com/stores/VefaiiProducts/page/105E8E05-95BB-416E-A24F-F9266C4689E7",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "105722",
-      "name": "BLACKZERO",
-      "url": "https://www.amazon.com/stores/BLACKZERO/page/6C754255-5F8E-4C30-84FB-3E7CD728AD45",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "105723",
-      "name": "SHINLEA",
-      "url": "https://www.amazon.com/stores/SHINLEA/page/95070132-E850-4055-9518-AA28433BB6A0",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -4395,14 +4411,6 @@
       "product_count": 0
     },
     {
-      "id": "107162",
-      "name": "Hychika.DE",
-      "url": "https://www.amazon.de/stores/HYCHIKABETTERTOOLSFORBETTELIFE/page/F1307FE2-0DA5-4204-A516-89FE94A275C3",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
       "id": "107163",
       "name": "FATICK",
       "url": "https://www.amazon.com/s",
@@ -4877,7 +4885,7 @@
     {
       "id": "117980",
       "name": "Casabrews",
-      "url": "https://www.amazon.com/stores/page/14F391A1-3BAC-4923-A9CF-C126B52803C3",
+      "url": "https://www.amazon.com/stores/page/14F391A1-3BAC-4923-A9CF-C126B52803C3,https://www.amazon.com/stores/CASABREWS/page/14F391A1-3BAC-4923-A9CF-C126B52803C3?lp_asin=B09X3WGJ3R&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -8179,6 +8187,14 @@
       "product_count": 0
     },
     {
+      "id": "136645",
+      "name": "Zshine",
+      "url": "https://www.amazon.com/stores/page/481F1FFD-FE10-413D-B820-E47C2F3C06D5",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "136647",
       "name": "laifen-IT",
       "url": "https://www.amazon.it/stores/page/6E391BBB-AA60-424C-949A-A7070EA31310",
@@ -8742,22 +8758,6 @@
       "id": "136808",
       "name": "OFHZ",
       "url": "https://www.amazon.com/s",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "136810",
-      "name": "LUNINO",
-      "url": "https://www.amazon.com/stores/page/417FF2C9-C01F-456F-9B90-CD6EED6F1073",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "136813",
-      "name": "Anykit",
-      "url": "https://www.amazon.com/stores/page/931602AA-1A4F-4045-86C8-69621B8392F7",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -9651,6 +9651,14 @@
       "product_count": 0
     },
     {
+      "id": "137058",
+      "name": "VOTREK",
+      "url": "https://www.amazon.com/stores/page/A46AEB80-0ECA-4CC9-8239-72EAD79C9871",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "137059",
       "name": "Merach UK",
       "url": "https://www.amazon.co.uk/stores/page/30B9CEC3-9BA3-497D-87A1-49BD1C702732",
@@ -9662,6 +9670,46 @@
       "id": "137061",
       "name": "SUNPOW",
       "url": "https://www.amazon.com/stores/page/C796E16C-F8E8-4ED8-908F-D06A4E801BB1",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137062",
+      "name": "Hamile",
+      "url": "https://www.amazon.com/stores/page/4F92E1D0-4DB4-4F45-A91A-B2716A6AFA74",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137063",
+      "name": "Akkerds",
+      "url": "https://www.amazon.com/stores/page/CE66C733-753A-48CB-8EBC-BAA458146175",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137064",
+      "name": "Vynix",
+      "url": "https://www.amazon.com/stores/page/6281145A-856D-42CF-886D-957AEC9255EC",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137065",
+      "name": "Lerobo",
+      "url": "https://www.amazon.com/stores/page/739BB8C2-D5B5-4D5C-AA61-EFAE5B0B4927",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137066",
+      "name": "SNBLK",
+      "url": "https://www.amazon.com/stores/page/2E7F2A75-0BEA-4AC2-844E-A3CE8AC85076",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -10483,6 +10531,14 @@
       "product_count": 0
     },
     {
+      "id": "137242",
+      "name": "Yocada",
+      "url": "https://www.amazon.com/stores/page/6EC42A8D-FB7C-4E6B-9246-46EB34CD44C8",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "137245",
       "name": "MOES_DE",
       "url": "https://www.amazon.de/stores/page/BB5F0C8D-1202-4E13-B675-361106EABA54",
@@ -10579,9 +10635,25 @@
       "product_count": 0
     },
     {
+      "id": "137272",
+      "name": "Eyliden",
+      "url": "https://www.amazon.com/stores/page/8554D7B9-613E-4209-9DAE-AF1BB03D3C8B",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "137273",
       "name": "cocomigo",
       "url": "https://www.amazon.com/stores/page/6CCE34AB-A203-439E-840B-94CC1EF50D28",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137274",
+      "name": "CLEANHOME",
+      "url": "https://www.amazon.com/stores/page/C7A2ECED-4AC0-4C9C-8956-EA44623BF532",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -11054,6 +11126,14 @@
       "id": "137359",
       "name": "Aphyni",
       "url": "https://www.amazon.com/stores/page/2970CA4E-9DE9-415F-9635-3F6353AF47B5",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137365",
+      "name": "DANFI AUDIO DF",
+      "url": "https://www.amazon.com/stores/page/6E1A38BF-C4BB-49C0-9042-771CB44B62B7",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -12011,6 +12091,14 @@
       "product_count": 0
     },
     {
+      "id": "137585",
+      "name": "Tilswall",
+      "url": "https://www.amazon.com/stores/Tilswall/page/76BF7FF1-4515-4784-8280-779BA6C00C3D",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "137586",
       "name": "JUCEO",
       "url": "https://www.amazon.com/stores/JUCEO/page/0356C851-FD34-44A5-AED9-45C1FC2E69A0",
@@ -12485,7 +12573,7 @@
     {
       "id": "137703",
       "name": "AFERIY US",
-      "url": "https://www.amazon.com/stores/AFERIY/page/295693FA-42D7-414E-B6CC-0C7F28B8E9E1",
+      "url": "https://www.amazon.com/stores/AFERIY/page/295693FA-42D7-414E-B6CC-0C7F28B8E9E1,https://www.amazon.com/stores/aferiy/page/295693FA-42D7-414E-B6CC-0C7F28B8E9E1?ingress=3",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -13259,6 +13347,14 @@
       "product_count": 0
     },
     {
+      "id": "137917",
+      "name": "OHO SUNSHINE US",
+      "url": "https://www.amazon.com/stores/OhOsunshine/page/E0A39791-8D87-4183-B1EE-48FB64891FB1",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "137919",
       "name": "Ohuhu",
       "url": "https://www.amazon.com/stores/Ohuhu/page/0A662CCD-F915-4183-844C-21A2712D5530",
@@ -13382,6 +13478,14 @@
       "id": "137938",
       "name": "Oli Anderson",
       "url": "https://www.amazon.com/s?me=AHNLPJ6UQ29J&marketplaceID=ATVPDKIKX0DER",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "137941",
+      "name": "OHO SUNSHINE UK",
+      "url": "https://www.amazon.co.uk/stores/OhOsunshine/page/A6B28C61-BEB7-4E32-A1D6-EDFA92CAB480",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -13691,14 +13795,6 @@
       "product_count": 0
     },
     {
-      "id": "138022",
-      "name": "YESWELDER",
-      "url": "https://www.amazon.com/yeswelder",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
       "id": "138023",
       "name": "Craftersmark",
       "url": "https://www.amazon.com/stores/Craftersmark/page/B7612082-3D23-47BE-AF87-0814192BFC87",
@@ -13763,6 +13859,14 @@
       "product_count": 0
     },
     {
+      "id": "138038",
+      "name": "TANLANIN",
+      "url": "https://www.amazon.com/stores/TANLANIN/page/35E4E6BD-2846-40E7-AD9A-4B6983C01454",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "138046",
       "name": "LoexAir CA",
       "url": "https://www.amazon.ca/stores/LoexAir/page/15FF09B0-A4D0-4940-9087-D18D3CADD1AA",
@@ -13806,14 +13910,6 @@
       "id": "138056",
       "name": "HOMLYNS",
       "url": "https://www.amazon.com/sp?ie=UTF8&seller=A3P54VKXFS737K&asin=B0D5B4GP7S&ref_=dp_merchant_link&isAmazonFulfilled=1",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "138057",
-      "name": "Tooliom",
-      "url": "https://www.amazon.com/sp?ie=UTF8&seller=A2ORQV48AMQFWX&asin=B0CP75HMPY&ref_=dp_merchant_link&isAmazonFulfilled=1",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -13926,14 +14022,6 @@
       "id": "138086",
       "name": "BlueSnail",
       "url": "https://www.amazon.com/stores/BlueSnail/page/E9407609-7DD5-404C-B893-41E5FB80DD7A?lp_asin=B07R5DX6RQ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "138087",
-      "name": "YADU",
-      "url": "https://www.amazon.com/stores/PureAirPureLiving/page/C59F8033-9418-4FF9-B122-A63A40B1EA7D?lp_asin=B0GL9KF2NV&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -14107,6 +14195,14 @@
       "product_count": 0
     },
     {
+      "id": "138138",
+      "name": "BuggyBands",
+      "url": "https://poolhour.com/",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "138140",
       "name": "Birdfy UK",
       "url": "https://www.amazon.co.uk/stores/netvue/page/ABFB16F5-2487-44DF-A2E0-B86C85F163E3",
@@ -14174,14 +14270,6 @@
       "id": "138149",
       "name": "CAVN",
       "url": "https://www.amazon.com/stores/CAVN/page/2C51F1FD-D3D6-4A5C-88C8-62904D76B6AE",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "138151",
-      "name": "Garvee",
-      "url": "https://www.amazon.com/stores/GARVEE/page/E28B1AAC-1328-4326-9E51-A1527F6F3A86",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -14470,6 +14558,14 @@
       "id": "138225",
       "name": "PETKIT-Germany",
       "url": "https://www.amazon.de/stores/PETKIT/page/F2120B4F-3024-4D7D-9B74-16389DEEEF80?lp_asin=B09SHH7TDS&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "138226",
+      "name": "COSFLY",
+      "url": "https://www.amazon.com/stores/COSFLYFurnitureSetCovers/page/FA5BD01E-DC52-4556-B062-81E14D63001F?lp_asin=B08TZD54ZH&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -14811,6 +14907,14 @@
       "product_count": 0
     },
     {
+      "id": "138291",
+      "name": "KylinLucky",
+      "url": "https://www.amazon.com/stores/KylinLuckyOutdoorFurnitureCovers/page/CB100753-F310-4A59-AC26-5421DF14AD5D?lp_asin=B08576J13F&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "138292",
       "name": "KDYMOD",
       "url": "https://www.amazon.com/stores/Netrum/page/0555604F-7989-4D31-AAC0-5FA8068BA737",
@@ -15123,14 +15227,6 @@
       "product_count": 0
     },
     {
-      "id": "138358",
-      "name": "COWSAR",
-      "url": "https://www.amazon.com/stores/COWSAR/page/37349990-92FD-4C8D-A469-497331E87148?lp_asin=B0F9P6WFJ1&ref_=cm_sw_r_ud_ast_store_AQG4XRGQARGNFQ8WRSC9&store_ref=bl_ast_dp_brandlogo_sto",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
       "id": "138360",
       "name": "Varpoolfaye",
       "url": "https://www.amazon.com/stores/Varpoolfaye/page/D66CC15B-2B35-479A-A953-AE27C181C49C?lp_asin=B0DZG544WH&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
@@ -15323,6 +15419,14 @@
       "product_count": 0
     },
     {
+      "id": "138418",
+      "name": "FORSPARK",
+      "url": "https://www.amazon.com/stores/forspark/page/C7FDBD82-E028-4BF6-B03C-0ACC07F3F3AB?lp_asin=B0GHMKQGYM&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "138419",
       "name": "WARMBLU",
       "url": "https://www.amazon.com/stores/WARMBLU/page/A6D85313-403B-4D04-A53E-429649E1C79A?lp_asin=B0G48LGBZM&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
@@ -15350,14 +15454,6 @@
       "id": "138426",
       "name": "LHRIVER-ID",
       "url": "https://www.amazon.com/stores/LHRIVER/page/89CE2662-FB15-484C-A3F7-9FE97E6F8A0D",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "138429",
-      "name": "Crzoe-JX",
-      "url": "https://www.amazon.com/stores/Crzoe/page/3763D8C6-57A3-4099-91FA-86F1B6A39F86",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -16443,9 +16539,25 @@
       "product_count": 0
     },
     {
+      "id": "138730",
+      "name": "Fokyfok",
+      "url": "https://www.amazon.com/stores/Fokyfok/page/F383F180-CF02-465B-9C35-747979A0E8D3?lp_asin=B0FPFW6KKN&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "138731",
       "name": "Dragon Fit",
       "url": "https://www.amazon.com/stores/DragonFit/page/3A5F9513-6863-454A-B1C0-5B6F596E2649?lp_asin=B087X2TD8F&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "138734",
+      "name": "Yanxifei",
+      "url": "https://www.amazon.com/s?me=A3EH41037DODCG&marketplaceID=ATVPDKIKX0DER",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -16566,14 +16678,6 @@
       "id": "138770",
       "name": "Bellsal",
       "url": "https://www.amazon.com/stores/Bellsal/page/9D1C5F38-1217-426F-9BF9-FDAF67FBFA54?",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
-      "id": "138771",
-      "name": "KNKA US",
-      "url": "https://www.amazon.com/stores/KNKA/page/DEEAB5A1-717E-4E77-97B4-3E9A172080A4",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -17211,6 +17315,14 @@
       "product_count": 0
     },
     {
+      "id": "138942",
+      "name": "BIRITALO",
+      "url": "https://www.amazon.com/stores/BIRITALO/page/AC6ED8B4-00E5-4C3F-B43D-871E1B0BCE1D",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "138949",
       "name": "KOOPOOL",
       "url": "https://www.amazon.com/stores/KOOPOOL/page/4BC37156-36F1-440E-A0D1-773583E2C5B2",
@@ -17358,6 +17470,22 @@
       "id": "138981",
       "name": "AWOL VISION UK",
       "url": "https://www.amazon.co.uk/stores/AWOLVISION/page/EF9DD37B-9BC0-4F78-8160-488DB54DA44A",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "138982",
+      "name": "LEDMO",
+      "url": "https://www.amazon.com/stores/LEDMO/page/80672A0A-282F-486B-AF5E-E3E995A9B595?lp_asin=B089Y6JG2S&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "138983",
+      "name": "Juyace",
+      "url": "https://www.amazon.com/stores/Juyace/page/447D7478-AED2-4EFC-B081-7C1690DA96A6?lp_asin=B0DK265ZFK&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -17643,6 +17771,14 @@
       "product_count": 0
     },
     {
+      "id": "139051",
+      "name": "Getorli US",
+      "url": "https://www.amazon.com/stores/MiniPC/page/F96994C0-B38D-42BF-909E-0795BB3AAB25?lp_asin=B0GSGB5V48&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "139052",
       "name": "EMIADY",
       "url": "https://www.amazon.com/stores/EMIADY/page/81CF7F92-A69A-4AFE-B0F9-6231F2068497",
@@ -17779,6 +17915,14 @@
       "product_count": 0
     },
     {
+      "id": "139082",
+      "name": "Unigretek US",
+      "url": "https://www.amazon.com/stores/getorli/page",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "139083",
       "name": "Hilldesign",
       "url": "https://www.amazon.com/stores/Hilldesign/page/99EEB66F-8E29-417A-8151-2857C79E12D1?lp_asin=B0G2Y5GFXW&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
@@ -17854,6 +17998,14 @@
       "id": "139097",
       "name": "Autrefoiself",
       "url": "https://www.amazon.com/sp?ie=UTF8&seller=A1JQ6UWK2PPV8Q&asin=B0GY9LM961&ref_=dp_merchant_link&isAmazonFulfilled=1",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "139099",
+      "name": "Glorlin US",
+      "url": "https://www.amazon.com/stores/GlorlinMiniPC/page/743DC730-9D48-4204-9C36-0DCBF86636BD",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -18307,6 +18459,14 @@
       "product_count": 0
     },
     {
+      "id": "139222",
+      "name": "Warmco US",
+      "url": "https://www.amazon.com/stores/Warmwinterscoolsummers/page/FF928EF3-6D04-4E71-8D5D-46FB56BF9208",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "139226",
       "name": "HOOBRO",
       "url": "https://www.amazon.com/stores/HOOBRO/page/C58C0E0B-611C-4965-A310-69FC12060376",
@@ -18414,6 +18574,22 @@
       "id": "139247",
       "name": "PULIOU",
       "url": "https://www.amazon.com/stores/PULIOU/page/FB27C39C-FF50-42F2-A7D6-722E8FDC89DE",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "139248",
+      "name": "Warmco UK",
+      "url": "https://www.amazon.co.uk/stores/warmco/page/",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "139249",
+      "name": "Warmco DE",
+      "url": "https://www.amazon.de/stores/warmco/page/",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -19379,14 +19555,6 @@
       "product_count": 0
     },
     {
-      "id": "139525",
-      "name": "ICEVIVAL",
-      "url": "https://www.amazon.com/stores/ICEVIVAL/page/ED4D0D43-559F-4637-A63F-05860C8E2B25?lp_asin=B0F8NDYYSK&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
-      "category": "",
-      "commission_rate": "",
-      "product_count": 0
-    },
-    {
       "id": "139526",
       "name": "Yamaziot",
       "url": "https://www.amazon.com/stores/Yamaziot/page/69EDBF4D-6DC1-4C38-A49B-3CA732811C13?lp_asin=B0DQKZHRYV&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
@@ -20299,6 +20467,14 @@
       "product_count": 0
     },
     {
+      "id": "139761",
+      "name": "HOMECOOKIN",
+      "url": "https://www.amazon.com/stores/Magnifique/page/6B256E0E-EC90-4F8D-81F6-966DACC1D830?lp_asin=B0DN65233V&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "139764",
       "name": "BLUETTI DE",
       "url": "https://www.amazon.de/stores/BLUETTI/page/E9B18A42-02E7-46B8-B0F3-B47B53185C83",
@@ -20539,6 +20715,14 @@
       "product_count": 0
     },
     {
+      "id": "139817",
+      "name": "Glorlin USST",
+      "url": "https://www.amazon.com/stores/GlorlinMiniPC/page/743DC730-9D48-4204-9C36-0DCBF86636BD?lp_asin=B0H11JMS42&ref_=ast_bln",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "139820",
       "name": "BLUETTI FR",
       "url": "https://www.amazon.fr/stores/BLUETTI/page/430AC945-A037-4221-989F-85AEA48EB8EB?lp_asin=B0FL7KYX16&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override",
@@ -20580,7 +20764,7 @@
     },
     {
       "id": "139831",
-      "name": "Ultrahuman",
+      "name": "Ultrahuman UK",
       "url": "https://www.amazon.co.uk/stores/ULTRAHUMAN/page/AD808A29-49E9-4C12-BD9E-C041636F502A",
       "category": "",
       "commission_rate": "",
@@ -20806,6 +20990,14 @@
       "id": "139876",
       "name": "Mbxcooter",
       "url": "https://www.amazon.com/stores/MakeLifeMobileAgain/page/678DB10D-6AA1-4855-97E4-DA0D47DD2ED5?lp_asin=B0GD16H7S4&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "139877",
+      "name": "Glorlin EU DE",
+      "url": "https://www.amazon.de/stores/GlorlinOfficial/page/06B79D92-374D-4DC5-B6A4-C5EDA738BB1F?lp_asin=B0HC6HMRCZ&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -23243,6 +23435,14 @@
       "product_count": 0
     },
     {
+      "id": "140457",
+      "name": "JELLYMONI",
+      "url": "https://www.amazon.com/stores/JELLYMONI/page/E54D04F1-4118-4AC9-98E7-840EC6276193",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "140458",
       "name": "Saiyin",
       "url": "https://www.amazon.com/stores/Sineaudio/page/E303D535-ACC7-463E-B35D-9247F6589994",
@@ -23835,6 +24035,14 @@
       "product_count": 0
     },
     {
+      "id": "140583",
+      "name": "Ultrahuman Canada",
+      "url": "https://www.amazon.ca/stores/ULTRAHUMAN/page/C313B7D8-6D4A-424E-80F7-F1B409537B86?lp_asin=B0H8YXZG4H&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "140585",
       "name": "Cawypety",
       "url": "https://www.amazon.com/stores/Cawypety/page/83689C52-A60E-4025-BBB2-198A4A939026",
@@ -23853,7 +24061,7 @@
     {
       "id": "140588",
       "name": "35°N MATCHA",
-      "url": "https://www.amazon.com/stores/MATCHA/page/F15D149D-F50B-4D96-AF5A-F300000000000000",
+      "url": "https://www.amazon.com/stores/35%C2%B0N%20MATCHA/page/E86AB8D6-73C2-4686-8B56-2ABD96DAB2CF",
       "category": "",
       "commission_rate": "",
       "product_count": 0
@@ -23939,9 +24147,345 @@
       "product_count": 0
     },
     {
+      "id": "140614",
+      "name": "Infisync",
+      "url": "https://www.amazon.com/stores/infisync/page/8E943EB3-8F1B-4307-ADA7-293ECE7BBD3E?",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140615",
+      "name": "Auryao",
+      "url": "https://auryao.net",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
       "id": "140616",
       "name": "HEYCHY De",
       "url": "https://www.amazon.de/stores/HEYCHY/page",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140617",
+      "name": "Hisense MX",
+      "url": "https://www.amazon.com.mx/stores/Hisense/page/2B0156E0-0170-4562-BC13-3C75363BF271?lp_asin=B0D1299KPN&ref_=ast_bln",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140618",
+      "name": "BOMATA",
+      "url": "https://www.amazon.com/stores/BOMATA/page/1BB73D31-54E8-436C-96E4-CE3AE1CB1DED",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140619",
+      "name": "Nolunt",
+      "url": "https://www.amazon.com/stores/Nolunt/page/AED91879-1DB6-46C8-AFD9-0BCE8D0AE692?lp_asin=B0DWZRGJXD&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140621",
+      "name": "DELUX",
+      "url": "https://www.amazon.com/stores/DELUX/page/DB913650-FFE8-47DB-8780-ED62B9659647?",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140624",
+      "name": "OutdoorMaster - Main",
+      "url": "https://www.amazon.com/stores/OutdoorMaster/page/5A144F2A-5070-46A0-A43B-2A3C05C3FE2D",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140626",
+      "name": "LiberNovo",
+      "url": "https://www.amazon.com/stores/LiberNovo/page/B6863D6D-1FE2-422A-ACDA-F2236886C61B",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140627",
+      "name": "Laifen-UK",
+      "url": "https://www.amazon.co.uk/stores/Laifen/page/68CBDC1E-638B-49B8-AA6F-64A971D6BC19",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140629",
+      "name": "Enventor US",
+      "url": "https://www.amazon.com/stores/EnventorToBeALifeInventor/page/4581C03A-5530-4219-9552-C841E8CF9761",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140634",
+      "name": "CDE",
+      "url": "https://www.amazon.com/cde",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140635",
+      "name": "TORRAS Direct",
+      "url": "https://www.amazon.de/stores/TORRAS/page/A69E0973-FCA8-4706-ADDE-A9089DB5825A?lp_asin=B0FG2FCBVB&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140636",
+      "name": "Enventor UK",
+      "url": "https://www.amazon.co.uk/stores/TobeaLifeInventor/page/C5A492F3-75C9-41BB-9025-B06E26AF6FC2",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140638",
+      "name": "VITARENEW",
+      "url": "https://www.amazon.com/stores/VITARENEW/page",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140639",
+      "name": "DNOUHN",
+      "url": "https://www.amazon.com/stores/DNOUHN/page",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140641",
+      "name": "FITWIND",
+      "url": "https://www.amazon.com/stores/HotAirStyler/page/0CD24964-8AEA-48FA-B308-98F776327F7E?lp_asin=B0H2VYG84L&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140642",
+      "name": "Medcursor",
+      "url": "https://www.amazon.com/stores/Medcursor/page/B18164C4-0CBD-4545-8FE7-2202D300095B",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140643",
+      "name": "Nekteck",
+      "url": "https://www.amazon.com/nekteck",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140645",
+      "name": "GALAX PRO",
+      "url": "https://www.amazon.com/stores/GALAXPRO/page/AAA1B9F4-C364-4E01-89BC-EE17C8FB50E2",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140646",
+      "name": "infisync-DE",
+      "url": "https://www.amazon.de/stores/InfiSync/page/DDB303FD-A440-4BEB-909D-281B45E71BB5?",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140647",
+      "name": "X'GLOW",
+      "url": "https://www.amazon.com/stores/XGlow/page/2C88F218-673F-4B1B-A4E8-680CDB9CBF21?lp_asin=B0H4RWSR6N&ref_=ast_bln",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140649",
+      "name": "OutdoorMaster-2ND",
+      "url": "https://www.amazon.com/stores/OutdoorMaster/page/5A144F2A-5070-46A0-A43B-2A3C05C3FE2D?lp_asin=B014XKTFI0&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140652",
+      "name": "DELUX CA",
+      "url": "https://www.amazon.ca/stores/DELUX/page/37EC4A22-E167-4299-B815-B7A6C56F25F6?",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140654",
+      "name": "DELUX MX",
+      "url": "https://www.amazon.com.mx/stores/DELUX/page/4D056873-E3B4-4954-8D94-D5EF621E1255?",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140655",
+      "name": "CDE_Jewelry",
+      "url": "https://www.amazon.com/stores/CDE/page/C96025FA-1AE3-47BA-9DB5-CA38DA840315?lp_asin=B07MPWDQ9J&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140657",
+      "name": "Candy丨Hoover丨Haier - IT",
+      "url": "https://www.amazon.it/stores/Hoover/page/DFAB0753-1A2E-482D-9F38-608C571B3053?lp_asin=B0D96C62JX&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140661",
+      "name": "Garvee",
+      "url": "https://www.amazon.com/stores/Garvee/page/E28B1AAC-1328-4326-9E51-A1527F6F3A86",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140662",
+      "name": "Woahee",
+      "url": "https://www.amazon.com/stores/Woahee/page/03E985A3-06BD-4E1A-84F4-183047E0AE44",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140663",
+      "name": "ELEHEAR-US- Beyond 2 Pro",
+      "url": "https://www.amazon.com/stores/ELEHEAR/page/0FDE631D-0386-4111-802C-2311788DBE60",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140670",
+      "name": "TORRAS UK Life",
+      "url": "https://www.amazon.co.uk/stores/TORRAS/page/EF4FDE64-79CB-436E-934C-E493C7133934?lp_asin=B0H5JH9XZH&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140671",
+      "name": "Yaber",
+      "url": "https://www.amazon.de/-/en/stores/YaberHome/page/9B7B3216-921B-4227-A5B7-680B1B983625",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140672",
+      "name": "BEYYON",
+      "url": "https://www.amazon.com/stores/BEYYON/page/F953208F-B941-4A58-BB4E-C9660CCE35CB",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140673",
+      "name": "KNKA-US",
+      "url": "https://www.amazon.com/stores/KNKA/page/DEEAB5A1-717E-4E77-97B4-3E9A172080A4lp_asin=B0DR7TZGV8&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140674",
+      "name": "ANTHBOT US",
+      "url": "https://www.amazon.com/stores/ANTHBOT/page/472E5ED3-681E-4AAB-94D3-CF66969EEFE5",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140676",
+      "name": "Redkiss",
+      "url": "https://www.amazon.com/stores/REDKISSOnline/page/3258CB67-14BF-4113-A557-6547834AB948",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140677",
+      "name": "HAPHID",
+      "url": "https://www.amazon.com/stores/HAPHID/page/48AA27A7-5688-46C7-A0DA-F02A50A618B0",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140681",
+      "name": "Leetaltree",
+      "url": "https://www.amazon.com/stores/Leetaltree-ArtatEveryTable/page/2F6A5A30-3EE5-4C07-8DD9-DD4E65ED903D",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140682",
+      "name": "R.W.FLAME",
+      "url": "https://www.amazon.com/stores/RWFLAME/page/24CC8136-BF94-4D78-9FEF-14009E0B405A",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140694",
+      "name": "TECHMI",
+      "url": "https://www.amazon.com/stores/Techmi/page/189BB5ED-9D16-4B75-9280-E42A0CEE26CA?lp_asin=B0GWQ6YML8&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140697",
+      "name": "BassBloom",
+      "url": "https://www.bassbloom.com/",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140702",
+      "name": "ROWAN",
+      "url": "https://www.amazon.com/stores/Rowan/page",
+      "category": "",
+      "commission_rate": "",
+      "product_count": 0
+    },
+    {
+      "id": "140703",
+      "name": "bmani",
+      "url": "https://www.amazon.com/s?me=A2LU9NYQ2FBQCN&marketplaceID=ATVPDKIKX0DER",
       "category": "",
       "commission_rate": "",
       "product_count": 0
