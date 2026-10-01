@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "timestamp": "2026-09-23T04:29:38.193Z",
+  "date": "2026-10-01",
+  "timestamp": "2026-10-01T05:31:16.175Z",
   "brands": [
     {
       "id": "9989",
@@ -55,7 +55,7 @@
       "name": "A Bar Above",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 248,
+      "active_products_count": 249,
       "description": ""
     },
     {
@@ -79,14 +79,6 @@
       "name": "ABUDICS",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 1,
-      "description": ""
-    },
-    {
-      "id": "14100",
-      "name": "Abuler",
-      "url": "",
-      "avg_commission": 30,
       "active_products_count": 1,
       "description": ""
     },
@@ -136,14 +128,6 @@
       "url": "",
       "avg_commission": 20,
       "active_products_count": 113,
-      "description": ""
-    },
-    {
-      "id": "36543",
-      "name": "Acezoe",
-      "url": "",
-      "avg_commission": 10,
-      "active_products_count": 1,
       "description": ""
     },
     {
@@ -283,14 +267,6 @@
       "description": ""
     },
     {
-      "id": "37390",
-      "name": "AEROLINNNPHAR",
-      "url": "",
-      "avg_commission": 10,
-      "active_products_count": 1,
-      "description": ""
-    },
-    {
       "id": "13530",
       "name": "AEROSQUAD",
       "url": "",
@@ -303,7 +279,7 @@
       "name": "Aerotrunk",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 36,
+      "active_products_count": 39,
       "description": ""
     },
     {
@@ -311,7 +287,7 @@
       "name": "Aesthetica",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 26,
+      "active_products_count": 25,
       "description": ""
     },
     {
@@ -342,8 +318,8 @@
       "id": "13345",
       "name": "AGLUCKY",
       "url": "",
-      "avg_commission": 6.98,
-      "active_products_count": 81,
+      "avg_commission": 6.95,
+      "active_products_count": 82,
       "description": ""
     },
     {
@@ -351,7 +327,7 @@
       "name": "AGVEE",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 1052,
+      "active_products_count": 1059,
       "description": ""
     },
     {
@@ -527,7 +503,7 @@
       "name": "Algerc",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 4,
+      "active_products_count": 6,
       "description": ""
     },
     {
@@ -591,7 +567,7 @@
       "name": "Alpcour",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 117,
+      "active_products_count": 126,
       "description": ""
     },
     {
@@ -623,7 +599,7 @@
       "name": "ALVIN",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 385,
+      "active_products_count": 386,
       "description": ""
     },
     {
@@ -655,7 +631,7 @@
       "name": "Amanda Creation",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 7130,
+      "active_products_count": 7132,
       "description": ""
     },
     {
@@ -718,8 +694,8 @@
       "id": "9855",
       "name": "AMZATYI",
       "url": "",
-      "avg_commission": 16.67,
-      "active_products_count": 3,
+      "avg_commission": 23.75,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -838,8 +814,8 @@
       "id": "13400",
       "name": "Antarctic Star",
       "url": "",
-      "avg_commission": 12.79,
-      "active_products_count": 604,
+      "avg_commission": 10.27,
+      "active_products_count": 603,
       "description": ""
     },
     {
@@ -1023,7 +999,7 @@
       "name": "ARCCAPTAIN",
       "url": "",
       "avg_commission": 16.61,
-      "active_products_count": 498,
+      "active_products_count": 500,
       "description": ""
     },
     {
@@ -1087,7 +1063,7 @@
       "name": "AROMA",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 14,
+      "active_products_count": 15,
       "description": ""
     },
     {
@@ -1151,7 +1127,7 @@
       "name": "Artizen",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 293,
+      "active_products_count": 294,
       "description": ""
     },
     {
@@ -1159,7 +1135,7 @@
       "name": "ART QIDOO",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 1,
+      "active_products_count": 2,
       "description": ""
     },
     {
@@ -1238,8 +1214,8 @@
       "id": "197",
       "name": "Aterian",
       "url": "",
-      "avg_commission": 14.29,
-      "active_products_count": 7,
+      "avg_commission": 13.75,
+      "active_products_count": 8,
       "description": ""
     },
     {
@@ -1479,7 +1455,7 @@
       "name": "AWOL VISION",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 21,
+      "active_products_count": 22,
       "description": ""
     },
     {
@@ -1614,8 +1590,8 @@
       "id": "23129",
       "name": "BAGAIL",
       "url": "",
-      "avg_commission": 9.99,
-      "active_products_count": 774,
+      "avg_commission": 10.03,
+      "active_products_count": 777,
       "description": ""
     },
     {
@@ -1648,14 +1624,6 @@
       "url": "",
       "avg_commission": 32,
       "active_products_count": 10,
-      "description": ""
-    },
-    {
-      "id": "8596",
-      "name": "Bamboobies",
-      "url": "",
-      "avg_commission": 25.04,
-      "active_products_count": 120,
       "description": ""
     },
     {
@@ -1735,15 +1703,15 @@
       "name": "BAWDY",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 9,
+      "active_products_count": 10,
       "description": ""
     },
     {
       "id": "12618",
       "name": "BB Company",
       "url": "",
-      "avg_commission": 33.85,
-      "active_products_count": 13,
+      "avg_commission": 33.57,
+      "active_products_count": 14,
       "description": ""
     },
     {
@@ -1766,7 +1734,7 @@
       "id": "37052",
       "name": "BEAKEY-F",
       "url": "",
-      "avg_commission": 32.22,
+      "avg_commission": 50,
       "active_products_count": 9,
       "description": ""
     },
@@ -1774,8 +1742,8 @@
       "id": "14689",
       "name": "Bear",
       "url": "",
-      "avg_commission": 16.67,
-      "active_products_count": 12,
+      "avg_commission": 16.92,
+      "active_products_count": 13,
       "description": ""
     },
     {
@@ -1951,7 +1919,7 @@
       "name": "Beetles Gel Polish",
       "url": "",
       "avg_commission": 11.11,
-      "active_products_count": 7700,
+      "active_products_count": 7702,
       "description": ""
     },
     {
@@ -1992,14 +1960,6 @@
       "url": "",
       "avg_commission": 10,
       "active_products_count": 4,
-      "description": ""
-    },
-    {
-      "id": "8600",
-      "name": "Below Zero",
-      "url": "",
-      "avg_commission": 25,
-      "active_products_count": 8,
       "description": ""
     },
     {
@@ -2123,11 +2083,19 @@
       "description": ""
     },
     {
+      "id": "37442",
+      "name": "Bestus",
+      "url": "",
+      "avg_commission": 10,
+      "active_products_count": 1,
+      "description": ""
+    },
+    {
       "id": "24615",
       "name": "Better Boat",
       "url": "",
-      "avg_commission": 20.36,
-      "active_products_count": 352,
+      "avg_commission": 20.35,
+      "active_products_count": 353,
       "description": ""
     },
     {
@@ -2430,8 +2398,8 @@
       "id": "26528",
       "name": "BOB AND BRAD",
       "url": "",
-      "avg_commission": 14.29,
-      "active_products_count": 77,
+      "avg_commission": 14.3,
+      "active_products_count": 78,
       "description": ""
     },
     {
@@ -2488,6 +2456,14 @@
       "url": "",
       "avg_commission": 11.74,
       "active_products_count": 23,
+      "description": ""
+    },
+    {
+      "id": "37441",
+      "name": "Bornealand",
+      "url": "",
+      "avg_commission": 10.57,
+      "active_products_count": 7,
       "description": ""
     },
     {
@@ -2550,8 +2526,8 @@
       "id": "12418",
       "name": "BOTSLAB",
       "url": "",
-      "avg_commission": 11.27,
-      "active_products_count": 157,
+      "avg_commission": 10.98,
+      "active_products_count": 158,
       "description": ""
     },
     {
@@ -2687,7 +2663,7 @@
       "name": "Broombi",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 9,
+      "active_products_count": 10,
       "description": ""
     },
     {
@@ -2831,7 +2807,7 @@
       "name": "BUZIO",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 655,
+      "active_products_count": 656,
       "description": ""
     },
     {
@@ -2911,7 +2887,7 @@
       "name": "California Design Den",
       "url": "",
       "avg_commission": 6,
-      "active_products_count": 1376,
+      "active_products_count": 1383,
       "description": ""
     },
     {
@@ -2934,8 +2910,8 @@
       "id": "23954",
       "name": "CAPRARO",
       "url": "",
-      "avg_commission": 12.13,
-      "active_products_count": 687,
+      "avg_commission": 12.12,
+      "active_products_count": 688,
       "description": ""
     },
     {
@@ -3143,7 +3119,7 @@
       "name": "Champion",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 248,
+      "active_products_count": 247,
       "description": ""
     },
     {
@@ -3206,8 +3182,8 @@
       "id": "11766",
       "name": "Chebio",
       "url": "",
-      "avg_commission": 13.57,
-      "active_products_count": 7,
+      "avg_commission": 15,
+      "active_products_count": 5,
       "description": ""
     },
     {
@@ -3270,8 +3246,8 @@
       "id": "10744",
       "name": "Choose Friendship",
       "url": "",
-      "avg_commission": 24.12,
-      "active_products_count": 17,
+      "avg_commission": 23.89,
+      "active_products_count": 18,
       "description": ""
     },
     {
@@ -3351,7 +3327,7 @@
       "name": "CJRB CUTLERY",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 200,
+      "active_products_count": 201,
       "description": ""
     },
     {
@@ -3407,7 +3383,7 @@
       "name": "CLEAR REAR",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 4,
+      "active_products_count": 5,
       "description": ""
     },
     {
@@ -3479,7 +3455,7 @@
       "name": "Cloudstyle",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 8913,
+      "active_products_count": 8876,
       "description": ""
     },
     {
@@ -3591,7 +3567,7 @@
       "name": "Collive",
       "url": "",
       "avg_commission": 12.05,
-      "active_products_count": 595,
+      "active_products_count": 659,
       "description": ""
     },
     {
@@ -3655,7 +3631,7 @@
       "name": "Comfify",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 225,
+      "active_products_count": 224,
       "description": ""
     },
     {
@@ -3664,14 +3640,6 @@
       "url": "",
       "avg_commission": 10,
       "active_products_count": 59,
-      "description": ""
-    },
-    {
-      "id": "14854",
-      "name": "CONFU",
-      "url": "",
-      "avg_commission": 30,
-      "active_products_count": 4,
       "description": ""
     },
     {
@@ -3695,7 +3663,7 @@
       "name": "Coochy",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 63,
+      "active_products_count": 64,
       "description": ""
     },
     {
@@ -3750,8 +3718,8 @@
       "id": "37240",
       "name": "COOLFLY",
       "url": "",
-      "avg_commission": 24,
-      "active_products_count": 2,
+      "avg_commission": 25.14,
+      "active_products_count": 7,
       "description": ""
     },
     {
@@ -3855,7 +3823,7 @@
       "name": "Coucur",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 77,
+      "active_products_count": 76,
       "description": ""
     },
     {
@@ -3878,7 +3846,7 @@
       "id": "13490",
       "name": "COWSAR",
       "url": "",
-      "avg_commission": 13.8,
+      "avg_commission": 10.82,
       "active_products_count": 391,
       "description": ""
     },
@@ -3886,7 +3854,7 @@
       "id": "36707",
       "name": "COYZU",
       "url": "",
-      "avg_commission": 18.89,
+      "avg_commission": 19.44,
       "active_products_count": 9,
       "description": ""
     },
@@ -4007,7 +3975,7 @@
       "name": "crmotu",
       "url": "",
       "avg_commission": 9.99,
-      "active_products_count": 423,
+      "active_products_count": 424,
       "description": ""
     },
     {
@@ -4087,7 +4055,7 @@
       "name": "Curvphilo",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 347,
+      "active_products_count": 349,
       "description": ""
     },
     {
@@ -4299,6 +4267,14 @@
       "description": ""
     },
     {
+      "id": "12315",
+      "name": "DAYMENLOVE",
+      "url": "",
+      "avg_commission": 30,
+      "active_products_count": 2,
+      "description": ""
+    },
+    {
       "id": "8757",
       "name": "DBC",
       "url": "",
@@ -4414,8 +4390,8 @@
       "id": "37413",
       "name": "DelArk",
       "url": "",
-      "avg_commission": 10,
-      "active_products_count": 3,
+      "avg_commission": 15,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -4550,8 +4526,8 @@
       "id": "11710",
       "name": "Dinkly Pickleball",
       "url": "",
-      "avg_commission": 16.46,
-      "active_products_count": 48,
+      "avg_commission": 16.33,
+      "active_products_count": 49,
       "description": ""
     },
     {
@@ -4623,7 +4599,7 @@
       "name": "DMoose",
       "url": "",
       "avg_commission": 20.8,
-      "active_products_count": 349,
+      "active_products_count": 350,
       "description": ""
     },
     {
@@ -4727,7 +4703,7 @@
       "name": "Doubc",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 30,
+      "active_products_count": 31,
       "description": ""
     },
     {
@@ -4903,7 +4879,7 @@
       "name": "Drsaec",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 281,
+      "active_products_count": 282,
       "description": ""
     },
     {
@@ -4935,7 +4911,7 @@
       "name": "Duckygoo",
       "url": "",
       "avg_commission": 20.35,
-      "active_products_count": 71,
+      "active_products_count": 72,
       "description": ""
     },
     {
@@ -5024,14 +5000,6 @@
       "url": "",
       "avg_commission": 20,
       "active_products_count": 3,
-      "description": ""
-    },
-    {
-      "id": "23451",
-      "name": "Dysania",
-      "url": "",
-      "avg_commission": 15,
-      "active_products_count": 4,
       "description": ""
     },
     {
@@ -5278,8 +5246,8 @@
       "id": "13542",
       "name": "Electactic",
       "url": "",
-      "avg_commission": 10.27,
-      "active_products_count": 337,
+      "avg_commission": 10.15,
+      "active_products_count": 340,
       "description": ""
     },
     {
@@ -5304,14 +5272,6 @@
       "url": "",
       "avg_commission": 10,
       "active_products_count": 6,
-      "description": ""
-    },
-    {
-      "id": "22941",
-      "name": "ELEMARA",
-      "url": "",
-      "avg_commission": 20.28,
-      "active_products_count": 93,
       "description": ""
     },
     {
@@ -5382,8 +5342,8 @@
       "id": "37414",
       "name": "EliteSet",
       "url": "",
-      "avg_commission": 10,
-      "active_products_count": 3,
+      "avg_commission": 15,
+      "active_products_count": 2,
       "description": ""
     },
     {
@@ -5430,8 +5390,8 @@
       "id": "15974",
       "name": "eMACROS",
       "url": "",
-      "avg_commission": 20.23,
-      "active_products_count": 44,
+      "avg_commission": 20.22,
+      "active_products_count": 46,
       "description": ""
     },
     {
@@ -5566,8 +5526,8 @@
       "id": "36671",
       "name": "ESKUTE",
       "url": "",
-      "avg_commission": 12.19,
-      "active_products_count": 16,
+      "avg_commission": 12.11,
+      "active_products_count": 63,
       "description": ""
     },
     {
@@ -5616,6 +5576,14 @@
       "url": "",
       "avg_commission": 30.69,
       "active_products_count": 29,
+      "description": ""
+    },
+    {
+      "id": "37472",
+      "name": "Eucos",
+      "url": "",
+      "avg_commission": 16.82,
+      "active_products_count": 11,
       "description": ""
     },
     {
@@ -5715,6 +5683,14 @@
       "description": ""
     },
     {
+      "id": "9181",
+      "name": "Evertrip",
+      "url": "",
+      "avg_commission": 10,
+      "active_products_count": 1,
+      "description": ""
+    },
+    {
       "id": "11854",
       "name": "Everydecor",
       "url": "",
@@ -5735,7 +5711,7 @@
       "name": "EVIEY",
       "url": "",
       "avg_commission": 12,
-      "active_products_count": 3,
+      "active_products_count": 6,
       "description": ""
     },
     {
@@ -5806,8 +5782,8 @@
       "id": "37379",
       "name": "EYERZ",
       "url": "",
-      "avg_commission": 20,
-      "active_products_count": 1,
+      "avg_commission": 17.5,
+      "active_products_count": 2,
       "description": ""
     },
     {
@@ -5848,14 +5824,6 @@
       "url": "",
       "avg_commission": 12.43,
       "active_products_count": 7,
-      "description": ""
-    },
-    {
-      "id": "22956",
-      "name": "Ezebaby",
-      "url": "",
-      "avg_commission": 19,
-      "active_products_count": 2,
       "description": ""
     },
     {
@@ -5935,7 +5903,7 @@
       "name": "Fanna",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 21,
+      "active_products_count": 24,
       "description": ""
     },
     {
@@ -6055,7 +6023,7 @@
       "name": "FEPPO",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 68,
+      "active_products_count": 69,
       "description": ""
     },
     {
@@ -6071,7 +6039,7 @@
       "name": "Finer Form",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 10,
+      "active_products_count": 11,
       "description": ""
     },
     {
@@ -6102,7 +6070,7 @@
       "id": "37397",
       "name": "Fitophoria",
       "url": "",
-      "avg_commission": 10,
+      "avg_commission": 20,
       "active_products_count": 1,
       "description": ""
     },
@@ -6206,8 +6174,8 @@
       "id": "14230",
       "name": "FL!PPER",
       "url": "",
-      "avg_commission": 15,
-      "active_products_count": 3,
+      "avg_commission": 17.5,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -6230,8 +6198,8 @@
       "id": "15353",
       "name": "FNTCASE",
       "url": "",
-      "avg_commission": 24,
-      "active_products_count": 1102,
+      "avg_commission": 23.85,
+      "active_products_count": 1097,
       "description": ""
     },
     {
@@ -6607,7 +6575,7 @@
       "name": "GAMENOTE",
       "url": "",
       "avg_commission": 17,
-      "active_products_count": 57,
+      "active_products_count": 58,
       "description": ""
     },
     {
@@ -6647,7 +6615,7 @@
       "name": "Garvee",
       "url": "",
       "avg_commission": 13.65,
-      "active_products_count": 10025,
+      "active_products_count": 10028,
       "description": ""
     },
     {
@@ -6655,7 +6623,7 @@
       "name": "Garveehome",
       "url": "",
       "avg_commission": 13.64,
-      "active_products_count": 12656,
+      "active_products_count": 12664,
       "description": ""
     },
     {
@@ -6663,7 +6631,7 @@
       "name": "GarveeLife",
       "url": "",
       "avg_commission": 13.71,
-      "active_products_count": 5180,
+      "active_products_count": 5179,
       "description": ""
     },
     {
@@ -6671,7 +6639,7 @@
       "name": "GarveeTech",
       "url": "",
       "avg_commission": 13.59,
-      "active_products_count": 7754,
+      "active_products_count": 7755,
       "description": ""
     },
     {
@@ -6718,8 +6686,8 @@
       "id": "10678",
       "name": "Gemonklee",
       "url": "",
-      "avg_commission": 25,
-      "active_products_count": 37,
+      "avg_commission": 25.49,
+      "active_products_count": 41,
       "description": ""
     },
     {
@@ -6863,7 +6831,7 @@
       "name": "Geras",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 1,
+      "active_products_count": 2,
       "description": ""
     },
     {
@@ -6918,8 +6886,8 @@
       "id": "22062",
       "name": "Giftgarden",
       "url": "",
-      "avg_commission": 10.9,
-      "active_products_count": 692,
+      "avg_commission": 10.89,
+      "active_products_count": 693,
       "description": ""
     },
     {
@@ -7014,8 +6982,8 @@
       "id": "14016",
       "name": "GKU Dash Cam",
       "url": "",
-      "avg_commission": 26.47,
-      "active_products_count": 88,
+      "avg_commission": 26.45,
+      "active_products_count": 89,
       "description": ""
     },
     {
@@ -7030,8 +6998,8 @@
       "id": "25276",
       "name": "GLACIER FRESH",
       "url": "",
-      "avg_commission": 19.91,
-      "active_products_count": 139,
+      "avg_commission": 19.95,
+      "active_products_count": 147,
       "description": ""
     },
     {
@@ -7039,7 +7007,7 @@
       "name": "Gleecosy",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 198,
+      "active_products_count": 199,
       "description": ""
     },
     {
@@ -7078,8 +7046,8 @@
       "id": "11688",
       "name": "Glow Recipe",
       "url": "",
-      "avg_commission": 10.7,
-      "active_products_count": 86,
+      "avg_commission": 10.69,
+      "active_products_count": 87,
       "description": ""
     },
     {
@@ -7095,7 +7063,7 @@
       "name": "Glyduny",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 5,
+      "active_products_count": 8,
       "description": ""
     },
     {
@@ -7127,7 +7095,7 @@
       "name": "Gogokids",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 1409,
+      "active_products_count": 1428,
       "description": ""
     },
     {
@@ -7246,8 +7214,8 @@
       "id": "14938",
       "name": "G-Promise",
       "url": "",
-      "avg_commission": 21.54,
-      "active_products_count": 271,
+      "avg_commission": 21.52,
+      "active_products_count": 280,
       "description": ""
     },
     {
@@ -7287,7 +7255,7 @@
       "name": "GRANNY SAYS",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 867,
+      "active_products_count": 874,
       "description": ""
     },
     {
@@ -7336,14 +7304,6 @@
       "url": "",
       "avg_commission": 23,
       "active_products_count": 130,
-      "description": ""
-    },
-    {
-      "id": "7615",
-      "name": "GroceryCentre",
-      "url": "",
-      "avg_commission": 10,
-      "active_products_count": 1,
       "description": ""
     },
     {
@@ -7422,8 +7382,8 @@
       "id": "36432",
       "name": "Gyreuni",
       "url": "",
-      "avg_commission": 12.92,
-      "active_products_count": 12,
+      "avg_commission": 12.86,
+      "active_products_count": 14,
       "description": ""
     },
     {
@@ -7478,8 +7438,8 @@
       "id": "11135",
       "name": "HALARON",
       "url": "",
-      "avg_commission": 12.5,
-      "active_products_count": 2,
+      "avg_commission": 15,
+      "active_products_count": 1,
       "description": ""
     },
     {
@@ -7559,7 +7519,7 @@
       "name": "HAPPI STUDIO",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 15,
+      "active_products_count": 16,
       "description": ""
     },
     {
@@ -7678,7 +7638,7 @@
       "id": "13663",
       "name": "Havato",
       "url": "",
-      "avg_commission": 15.77,
+      "avg_commission": 10.72,
       "active_products_count": 203,
       "description": ""
     },
@@ -7696,6 +7656,14 @@
       "url": "",
       "avg_commission": 10.32,
       "active_products_count": 63,
+      "description": ""
+    },
+    {
+      "id": "37424",
+      "name": "HBADA",
+      "url": "",
+      "avg_commission": 17.53,
+      "active_products_count": 17,
       "description": ""
     },
     {
@@ -7751,7 +7719,7 @@
       "name": "HEBE",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 1484,
+      "active_products_count": 1492,
       "description": ""
     },
     {
@@ -7767,7 +7735,7 @@
       "name": "HEBE RUGS",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 751,
+      "active_products_count": 756,
       "description": ""
     },
     {
@@ -7966,8 +7934,8 @@
       "id": "26347",
       "name": "HITTIONA",
       "url": "",
-      "avg_commission": 18.69,
-      "active_products_count": 61,
+      "avg_commission": 18.71,
+      "active_products_count": 62,
       "description": ""
     },
     {
@@ -8048,6 +8016,14 @@
       "url": "",
       "avg_commission": 18.8,
       "active_products_count": 5,
+      "description": ""
+    },
+    {
+      "id": "37471",
+      "name": "HOLDRUBY",
+      "url": "",
+      "avg_commission": 10,
+      "active_products_count": 8,
       "description": ""
     },
     {
@@ -8230,8 +8206,8 @@
       "id": "37225",
       "name": "HOZODESIGN",
       "url": "",
-      "avg_commission": 10.5,
-      "active_products_count": 34,
+      "avg_commission": 10.47,
+      "active_products_count": 36,
       "description": ""
     },
     {
@@ -8270,8 +8246,8 @@
       "id": "23462",
       "name": "HTVRONT",
       "url": "",
-      "avg_commission": 14.91,
-      "active_products_count": 437,
+      "avg_commission": 14.94,
+      "active_products_count": 450,
       "description": ""
     },
     {
@@ -8383,7 +8359,7 @@
       "name": "Hupoaf",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 1,
+      "active_products_count": 2,
       "description": ""
     },
     {
@@ -8431,7 +8407,7 @@
       "name": "Hyperice",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 24,
+      "active_products_count": 25,
       "description": ""
     },
     {
@@ -8471,7 +8447,7 @@
       "name": "iCasso",
       "url": "",
       "avg_commission": 11.99,
-      "active_products_count": 1796,
+      "active_products_count": 1826,
       "description": ""
     },
     {
@@ -8694,8 +8670,8 @@
       "id": "19398",
       "name": "infancie",
       "url": "",
-      "avg_commission": 19.06,
-      "active_products_count": 96,
+      "avg_commission": 19.81,
+      "active_products_count": 81,
       "description": ""
     },
     {
@@ -8742,8 +8718,8 @@
       "id": "36563",
       "name": "Innate Vitality",
       "url": "",
-      "avg_commission": 30.34,
-      "active_products_count": 29,
+      "avg_commission": 30.36,
+      "active_products_count": 28,
       "description": ""
     },
     {
@@ -8751,7 +8727,7 @@
       "name": "Inner Brightness",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 59,
+      "active_products_count": 60,
       "description": ""
     },
     {
@@ -8827,14 +8803,6 @@
       "description": ""
     },
     {
-      "id": "8697",
-      "name": "iPrimio",
-      "url": "",
-      "avg_commission": 24.15,
-      "active_products_count": 62,
-      "description": ""
-    },
-    {
       "id": "10034",
       "name": "iProvèn",
       "url": "",
@@ -8854,8 +8822,8 @@
       "id": "24204",
       "name": "iRESTORE",
       "url": "",
-      "avg_commission": 17.86,
-      "active_products_count": 21,
+      "avg_commission": 17.73,
+      "active_products_count": 22,
       "description": ""
     },
     {
@@ -8903,7 +8871,7 @@
       "name": "itnpbwus",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 123,
+      "active_products_count": 132,
       "description": ""
     },
     {
@@ -8955,14 +8923,6 @@
       "description": ""
     },
     {
-      "id": "23474",
-      "name": "JANDJPACKAGING",
-      "url": "",
-      "avg_commission": 15,
-      "active_products_count": 1,
-      "description": ""
-    },
-    {
       "id": "11131",
       "name": "Jarkyfine",
       "url": "",
@@ -8983,15 +8943,7 @@
       "name": "JASGOOD",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 8127,
-      "description": ""
-    },
-    {
-      "id": "37097",
-      "name": "JASGOOD.",
-      "url": "",
-      "avg_commission": 10,
-      "active_products_count": 1,
+      "active_products_count": 8126,
       "description": ""
     },
     {
@@ -9031,7 +8983,7 @@
       "name": "Jeff's Barbershop",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 4,
+      "active_products_count": 2,
       "description": ""
     },
     {
@@ -9095,7 +9047,7 @@
       "name": "JiAmy",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 3625,
+      "active_products_count": 3627,
       "description": ""
     },
     {
@@ -9142,8 +9094,8 @@
       "id": "16186",
       "name": "JINLICTE",
       "url": "",
-      "avg_commission": 13.11,
-      "active_products_count": 19,
+      "avg_commission": 13.1,
+      "active_products_count": 20,
       "description": ""
     },
     {
@@ -9151,7 +9103,7 @@
       "name": "Jinx",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 53,
+      "active_products_count": 55,
       "description": ""
     },
     {
@@ -9167,7 +9119,7 @@
       "name": "JISULIFE",
       "url": "",
       "avg_commission": 29.95,
-      "active_products_count": 21,
+      "active_products_count": 22,
       "description": ""
     },
     {
@@ -9239,7 +9191,7 @@
       "name": "JOEY'Z",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 271,
+      "active_products_count": 285,
       "description": ""
     },
     {
@@ -9327,7 +9279,7 @@
       "name": "JSAUX",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 950,
+      "active_products_count": 955,
       "description": ""
     },
     {
@@ -9439,15 +9391,15 @@
       "name": "Just Add Luv",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 2,
+      "active_products_count": 3,
       "description": ""
     },
     {
       "id": "19661",
       "name": "JustFoodForDogs",
       "url": "",
-      "avg_commission": 21.47,
-      "active_products_count": 85,
+      "avg_commission": 21.43,
+      "active_products_count": 84,
       "description": ""
     },
     {
@@ -9479,7 +9431,7 @@
       "name": "Jxrev",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 101,
+      "active_products_count": 126,
       "description": ""
     },
     {
@@ -9550,7 +9502,7 @@
       "id": "23276",
       "name": "Karite",
       "url": "",
-      "avg_commission": 16.5,
+      "avg_commission": 17.5,
       "active_products_count": 4,
       "description": ""
     },
@@ -9583,7 +9535,7 @@
       "name": "Kaulsoue-Light",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 12,
+      "active_products_count": 13,
       "description": ""
     },
     {
@@ -9614,8 +9566,8 @@
       "id": "37119",
       "name": "Keenstone Corporation",
       "url": "",
-      "avg_commission": 14.15,
-      "active_products_count": 59,
+      "avg_commission": 14.14,
+      "active_products_count": 58,
       "description": ""
     },
     {
@@ -9743,7 +9695,7 @@
       "name": "KIMODE",
       "url": "",
       "avg_commission": 12.33,
-      "active_products_count": 1450,
+      "active_products_count": 1464,
       "description": ""
     },
     {
@@ -9806,8 +9758,8 @@
       "id": "13778",
       "name": "Kismile",
       "url": "",
-      "avg_commission": 13.91,
-      "active_products_count": 461,
+      "avg_commission": 10.34,
+      "active_products_count": 460,
       "description": ""
     },
     {
@@ -9822,7 +9774,7 @@
       "id": "13794",
       "name": "KISSAIR",
       "url": "",
-      "avg_commission": 12.42,
+      "avg_commission": 11.17,
       "active_products_count": 24,
       "description": ""
     },
@@ -9963,14 +9915,6 @@
       "description": ""
     },
     {
-      "id": "8709",
-      "name": "KONG BEER BONG",
-      "url": "",
-      "avg_commission": 40,
-      "active_products_count": 22,
-      "description": ""
-    },
-    {
       "id": "13087",
       "name": "KORURACLUB",
       "url": "",
@@ -10006,8 +9950,8 @@
       "id": "9456",
       "name": "KPON",
       "url": "",
-      "avg_commission": 22,
-      "active_products_count": 9,
+      "avg_commission": 22.8,
+      "active_products_count": 10,
       "description": ""
     },
     {
@@ -10054,8 +9998,8 @@
       "id": "5566",
       "name": "KUYIGO",
       "url": "",
-      "avg_commission": 20.64,
-      "active_products_count": 4151,
+      "avg_commission": 20.65,
+      "active_products_count": 4152,
       "description": ""
     },
     {
@@ -10087,7 +10031,7 @@
       "name": "LAB BULKS ESSENTIAL OIL",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 28,
+      "active_products_count": 20,
       "description": ""
     },
     {
@@ -10119,7 +10063,7 @@
       "name": "Lahome",
       "url": "",
       "avg_commission": 12.16,
-      "active_products_count": 4949,
+      "active_products_count": 4960,
       "description": ""
     },
     {
@@ -10128,6 +10072,14 @@
       "url": "",
       "avg_commission": 15,
       "active_products_count": 39,
+      "description": ""
+    },
+    {
+      "id": "15632",
+      "name": "Lambow",
+      "url": "",
+      "avg_commission": 10,
+      "active_products_count": 1,
       "description": ""
     },
     {
@@ -10182,8 +10134,8 @@
       "id": "11629",
       "name": "LAUNCH",
       "url": "",
-      "avg_commission": 13.38,
-      "active_products_count": 58,
+      "avg_commission": 13.18,
+      "active_products_count": 57,
       "description": ""
     },
     {
@@ -10278,8 +10230,8 @@
       "id": "10674",
       "name": "Lehoba",
       "url": "",
-      "avg_commission": 13.87,
-      "active_products_count": 504,
+      "avg_commission": 13.28,
+      "active_products_count": 457,
       "description": ""
     },
     {
@@ -10382,7 +10334,7 @@
       "id": "13822",
       "name": "LHRIVER",
       "url": "",
-      "avg_commission": 11.64,
+      "avg_commission": 10,
       "active_products_count": 22,
       "description": ""
     },
@@ -10406,8 +10358,8 @@
       "id": "13956",
       "name": "Liene",
       "url": "",
-      "avg_commission": 12.73,
-      "active_products_count": 11,
+      "avg_commission": 12.31,
+      "active_products_count": 13,
       "description": ""
     },
     {
@@ -10422,7 +10374,7 @@
       "id": "13102",
       "name": "Lifepro",
       "url": "",
-      "avg_commission": 11.39,
+      "avg_commission": 11.42,
       "active_products_count": 190,
       "description": ""
     },
@@ -10518,8 +10470,8 @@
       "id": "23566",
       "name": "Linda's Essentials",
       "url": "",
-      "avg_commission": 15.88,
-      "active_products_count": 199,
+      "avg_commission": 15.9,
+      "active_products_count": 200,
       "description": ""
     },
     {
@@ -10527,7 +10479,7 @@
       "name": "Linen Market",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 86,
+      "active_products_count": 91,
       "description": ""
     },
     {
@@ -10607,7 +10559,7 @@
       "name": "LISEN",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 214,
+      "active_products_count": 217,
       "description": ""
     },
     {
@@ -10671,7 +10623,7 @@
       "name": "Living&Giving",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 448,
+      "active_products_count": 451,
       "description": ""
     },
     {
@@ -10759,7 +10711,7 @@
       "name": "LongBay",
       "url": "",
       "avg_commission": 10.05,
-      "active_products_count": 210,
+      "active_products_count": 234,
       "description": ""
     },
     {
@@ -10967,7 +10919,7 @@
       "name": "LuminAID",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 36,
+      "active_products_count": 34,
       "description": ""
     },
     {
@@ -10990,8 +10942,8 @@
       "id": "17549",
       "name": "Lunakai",
       "url": "",
-      "avg_commission": 21.21,
-      "active_products_count": 165,
+      "avg_commission": 27.45,
+      "active_products_count": 106,
       "description": ""
     },
     {
@@ -11119,7 +11071,7 @@
       "name": "MAGNAWARE",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 28,
+      "active_products_count": 29,
       "description": ""
     },
     {
@@ -11246,8 +11198,8 @@
       "id": "16800",
       "name": "MAREE",
       "url": "",
-      "avg_commission": 20.03,
-      "active_products_count": 172,
+      "avg_commission": 19.95,
+      "active_products_count": 210,
       "description": ""
     },
     {
@@ -11383,7 +11335,7 @@
       "name": "MAXGROOM",
       "url": "",
       "avg_commission": 18,
-      "active_products_count": 7,
+      "active_products_count": 8,
       "description": ""
     },
     {
@@ -11447,7 +11399,7 @@
       "name": "Mbzoey",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 2,
+      "active_products_count": 3,
       "description": ""
     },
     {
@@ -11503,7 +11455,7 @@
       "name": "MEDCHOICE",
       "url": "",
       "avg_commission": 30,
-      "active_products_count": 3,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -11528,6 +11480,14 @@
       "url": "",
       "avg_commission": 15,
       "active_products_count": 1,
+      "description": ""
+    },
+    {
+      "id": "37435",
+      "name": "MEGAYES",
+      "url": "",
+      "avg_commission": 10,
+      "active_products_count": 11,
       "description": ""
     },
     {
@@ -11711,7 +11671,7 @@
       "name": "Micro Ingredients",
       "url": "",
       "avg_commission": 18,
-      "active_products_count": 374,
+      "active_products_count": 375,
       "description": ""
     },
     {
@@ -11735,7 +11695,7 @@
       "name": "MIKO",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 7,
+      "active_products_count": 5,
       "description": ""
     },
     {
@@ -11783,7 +11743,7 @@
       "name": "Minthouz",
       "url": "",
       "avg_commission": 9.92,
-      "active_products_count": 62,
+      "active_products_count": 64,
       "description": ""
     },
     {
@@ -11935,7 +11895,7 @@
       "name": "mohomo",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 2,
+      "active_products_count": 1,
       "description": ""
     },
     {
@@ -11951,7 +11911,7 @@
       "name": "Momcozy",
       "url": "",
       "avg_commission": 12.16,
-      "active_products_count": 431,
+      "active_products_count": 432,
       "description": ""
     },
     {
@@ -11999,7 +11959,7 @@
       "name": "Moon Juice",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 49,
+      "active_products_count": 48,
       "description": ""
     },
     {
@@ -12070,16 +12030,16 @@
       "id": "21817",
       "name": "Motast",
       "url": "",
-      "avg_commission": 24.38,
-      "active_products_count": 152,
+      "avg_commission": 24.45,
+      "active_products_count": 199,
       "description": ""
     },
     {
       "id": "19402",
       "name": "Mother's Choice",
       "url": "",
-      "avg_commission": 21.06,
-      "active_products_count": 255,
+      "avg_commission": 21.34,
+      "active_products_count": 250,
       "description": ""
     },
     {
@@ -12135,7 +12095,7 @@
       "name": "Moynesa",
       "url": "",
       "avg_commission": 12.17,
-      "active_products_count": 462,
+      "active_products_count": 463,
       "description": ""
     },
     {
@@ -12230,8 +12190,8 @@
       "id": "19583",
       "name": "MULWARK",
       "url": "",
-      "avg_commission": 25.82,
-      "active_products_count": 141,
+      "avg_commission": 25.8,
+      "active_products_count": 143,
       "description": ""
     },
     {
@@ -12286,8 +12246,8 @@
       "id": "11787",
       "name": "NADALY",
       "url": "",
-      "avg_commission": 11.5,
-      "active_products_count": 10,
+      "avg_commission": 15,
+      "active_products_count": 3,
       "description": ""
     },
     {
@@ -12303,7 +12263,7 @@
       "name": "Naked Nutrition",
       "url": "",
       "avg_commission": 20.79,
-      "active_products_count": 183,
+      "active_products_count": 184,
       "description": ""
     },
     {
@@ -12431,7 +12391,7 @@
       "name": "NatureBell",
       "url": "",
       "avg_commission": 18,
-      "active_products_count": 179,
+      "active_products_count": 180,
       "description": ""
     },
     {
@@ -12439,7 +12399,7 @@
       "name": "NATUREFLOW",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 6,
+      "active_products_count": 11,
       "description": ""
     },
     {
@@ -12695,7 +12655,7 @@
       "name": "NEXTGRADE",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 14,
+      "active_products_count": 15,
       "description": ""
     },
     {
@@ -12712,6 +12672,14 @@
       "url": "",
       "avg_commission": 10,
       "active_products_count": 5,
+      "description": ""
+    },
+    {
+      "id": "9293",
+      "name": "NIASSO",
+      "url": "",
+      "avg_commission": 15,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -12839,15 +12807,15 @@
       "name": "NoCry",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 233,
+      "active_products_count": 274,
       "description": ""
     },
     {
       "id": "13721",
       "name": "Nodfens",
       "url": "",
-      "avg_commission": 18.18,
-      "active_products_count": 22,
+      "avg_commission": 18.45,
+      "active_products_count": 31,
       "description": ""
     },
     {
@@ -13126,8 +13094,8 @@
       "id": "10866",
       "name": "OBSBOT",
       "url": "",
-      "avg_commission": 9.73,
-      "active_products_count": 22,
+      "avg_commission": 9.65,
+      "active_products_count": 23,
       "description": ""
     },
     {
@@ -13166,8 +13134,8 @@
       "id": "17523",
       "name": "OGERY",
       "url": "",
-      "avg_commission": 18.79,
-      "active_products_count": 91,
+      "avg_commission": 18.8,
+      "active_products_count": 92,
       "description": ""
     },
     {
@@ -13200,6 +13168,14 @@
       "url": "",
       "avg_commission": 10,
       "active_products_count": 142,
+      "description": ""
+    },
+    {
+      "id": "37415",
+      "name": "Okay Run",
+      "url": "",
+      "avg_commission": 15,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -13295,7 +13271,7 @@
       "name": "ONFIKY",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 4,
+      "active_products_count": 6,
       "description": ""
     },
     {
@@ -13367,7 +13343,7 @@
       "name": "Organifi",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 23,
+      "active_products_count": 24,
       "description": ""
     },
     {
@@ -13455,7 +13431,7 @@
       "name": "OUFER",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 2920,
+      "active_products_count": 2964,
       "description": ""
     },
     {
@@ -13486,8 +13462,8 @@
       "id": "11493",
       "name": "OutIn",
       "url": "",
-      "avg_commission": 12.84,
-      "active_products_count": 32,
+      "avg_commission": 12.91,
+      "active_products_count": 33,
       "description": ""
     },
     {
@@ -13623,15 +13599,7 @@
       "name": "Panther Vision",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 127,
-      "description": ""
-    },
-    {
-      "id": "8752",
-      "name": "Pantrymade",
-      "url": "",
-      "avg_commission": 25,
-      "active_products_count": 3,
+      "active_products_count": 126,
       "description": ""
     },
     {
@@ -13670,8 +13638,8 @@
       "id": "21478",
       "name": "Parrot Uncle",
       "url": "",
-      "avg_commission": 15.49,
-      "active_products_count": 1172,
+      "avg_commission": 16.79,
+      "active_products_count": 1522,
       "description": ""
     },
     {
@@ -13734,8 +13702,8 @@
       "id": "6917",
       "name": "PAVOI",
       "url": "",
-      "avg_commission": 15.18,
-      "active_products_count": 185,
+      "avg_commission": 19.44,
+      "active_products_count": 393,
       "description": ""
     },
     {
@@ -13934,8 +13902,8 @@
       "id": "9783",
       "name": "PetCove",
       "url": "",
-      "avg_commission": 21.73,
-      "active_products_count": 15,
+      "avg_commission": 21.57,
+      "active_products_count": 14,
       "description": ""
     },
     {
@@ -14155,14 +14123,6 @@
       "description": ""
     },
     {
-      "id": "24174",
-      "name": "PLANTIFIQUE",
-      "url": "",
-      "avg_commission": 20.62,
-      "active_products_count": 73,
-      "description": ""
-    },
-    {
       "id": "36718",
       "name": "Plant People",
       "url": "",
@@ -14279,7 +14239,7 @@
       "name": "PMD Beauty",
       "url": "",
       "avg_commission": 10.12,
-      "active_products_count": 126,
+      "active_products_count": 127,
       "description": ""
     },
     {
@@ -14623,7 +14583,7 @@
       "name": "PUMIEY",
       "url": "",
       "avg_commission": 10.01,
-      "active_products_count": 3582,
+      "active_products_count": 3583,
       "description": ""
     },
     {
@@ -14711,7 +14671,7 @@
       "name": "PURE LIVING INTERIOR DESIGN",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 187,
+      "active_products_count": 291,
       "description": ""
     },
     {
@@ -14950,16 +14910,16 @@
       "id": "13493",
       "name": "Race&Herd",
       "url": "",
-      "avg_commission": 7.4,
-      "active_products_count": 48,
+      "avg_commission": 7.3,
+      "active_products_count": 50,
       "description": ""
     },
     {
       "id": "13733",
       "name": "Racgrul",
       "url": "",
-      "avg_commission": 16.11,
-      "active_products_count": 27,
+      "avg_commission": 16.87,
+      "active_products_count": 31,
       "description": ""
     },
     {
@@ -15031,7 +14991,7 @@
       "name": "Rasav",
       "url": "",
       "avg_commission": 30,
-      "active_products_count": 2,
+      "active_products_count": 1,
       "description": ""
     },
     {
@@ -15135,15 +15095,15 @@
       "name": "REIBII",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 342,
+      "active_products_count": 345,
       "description": ""
     },
     {
       "id": "12635",
       "name": "Rejuveen",
       "url": "",
-      "avg_commission": 32.86,
-      "active_products_count": 7,
+      "avg_commission": 36.15,
+      "active_products_count": 13,
       "description": ""
     },
     {
@@ -15239,7 +15199,7 @@
       "name": "Restorology",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 6,
+      "active_products_count": 5,
       "description": ""
     },
     {
@@ -15287,7 +15247,7 @@
       "name": "Ridhi Block Print",
       "url": "",
       "avg_commission": 24.77,
-      "active_products_count": 1911,
+      "active_products_count": 1917,
       "description": ""
     },
     {
@@ -15303,7 +15263,7 @@
       "name": "Rip Toned",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 208,
+      "active_products_count": 201,
       "description": ""
     },
     {
@@ -15311,7 +15271,7 @@
       "name": "Rip Van Wafels",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 15,
+      "active_products_count": 29,
       "description": ""
     },
     {
@@ -15358,8 +15318,8 @@
       "id": "26243",
       "name": "Roborock",
       "url": "",
-      "avg_commission": 14.1,
-      "active_products_count": 82,
+      "avg_commission": 14.08,
+      "active_products_count": 84,
       "description": ""
     },
     {
@@ -15414,8 +15374,8 @@
       "id": "12565",
       "name": "Rocollos",
       "url": "",
-      "avg_commission": 21.02,
-      "active_products_count": 64,
+      "avg_commission": 20.92,
+      "active_products_count": 65,
       "description": ""
     },
     {
@@ -15447,7 +15407,7 @@
       "name": "Rollerex",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 183,
+      "active_products_count": 187,
       "description": ""
     },
     {
@@ -15470,8 +15430,8 @@
       "id": "37169",
       "name": "Romeday",
       "url": "",
-      "avg_commission": 12.5,
-      "active_products_count": 4,
+      "avg_commission": 11.43,
+      "active_products_count": 7,
       "description": ""
     },
     {
@@ -15543,7 +15503,7 @@
       "name": "Royal Therapy",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 262,
+      "active_products_count": 261,
       "description": ""
     },
     {
@@ -15590,8 +15550,8 @@
       "id": "21269",
       "name": "ruijia (Yoofoss)",
       "url": "",
-      "avg_commission": 19.81,
-      "active_products_count": 1288,
+      "avg_commission": 19.7,
+      "active_products_count": 1350,
       "description": ""
     },
     {
@@ -15670,7 +15630,7 @@
       "id": "13867",
       "name": "R.W.FLAME",
       "url": "",
-      "avg_commission": 15.29,
+      "avg_commission": 11.08,
       "active_products_count": 178,
       "description": ""
     },
@@ -15835,14 +15795,6 @@
       "description": ""
     },
     {
-      "id": "8126",
-      "name": "Saker",
-      "url": "",
-      "avg_commission": 15.18,
-      "active_products_count": 57,
-      "description": ""
-    },
-    {
       "id": "12329",
       "name": "Salange",
       "url": "",
@@ -15878,8 +15830,8 @@
       "id": "10356",
       "name": "Sandhu's",
       "url": "",
-      "avg_commission": 22.05,
-      "active_products_count": 56,
+      "avg_commission": 22.02,
+      "active_products_count": 57,
       "description": ""
     },
     {
@@ -15887,7 +15839,7 @@
       "name": "San Diego Coffee",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 60,
+      "active_products_count": 65,
       "description": ""
     },
     {
@@ -15951,6 +15903,14 @@
       "name": "SAUBOTA",
       "url": "",
       "avg_commission": 10,
+      "active_products_count": 1,
+      "description": ""
+    },
+    {
+      "id": "37416",
+      "name": "SaveJoy",
+      "url": "",
+      "avg_commission": 15,
       "active_products_count": 1,
       "description": ""
     },
@@ -16078,8 +16038,8 @@
       "id": "8311",
       "name": "SEALIGHT",
       "url": "",
-      "avg_commission": 14.9,
-      "active_products_count": 272,
+      "avg_commission": 14.89,
+      "active_products_count": 273,
       "description": ""
     },
     {
@@ -16147,6 +16107,14 @@
       "description": ""
     },
     {
+      "id": "13745",
+      "name": "Seopri",
+      "url": "",
+      "avg_commission": 15,
+      "active_products_count": 2,
+      "description": ""
+    },
+    {
       "id": "11750",
       "name": "SEREI",
       "url": "",
@@ -16167,7 +16135,7 @@
       "name": "SERIMINO",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 363,
+      "active_products_count": 365,
       "description": ""
     },
     {
@@ -16343,7 +16311,7 @@
       "name": "Shinesty",
       "url": "",
       "avg_commission": 15.15,
-      "active_products_count": 774,
+      "active_products_count": 777,
       "description": ""
     },
     {
@@ -16382,8 +16350,8 @@
       "id": "36526",
       "name": "Shop-Vac",
       "url": "",
-      "avg_commission": 6.8,
-      "active_products_count": 197,
+      "avg_commission": 6.82,
+      "active_products_count": 198,
       "description": ""
     },
     {
@@ -16407,7 +16375,7 @@
       "name": "SHPAVVER",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 1,
+      "active_products_count": 3,
       "description": ""
     },
     {
@@ -16631,7 +16599,7 @@
       "name": "SKINTIFIC",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 229,
+      "active_products_count": 230,
       "description": ""
     },
     {
@@ -16654,7 +16622,7 @@
       "id": "101",
       "name": "SKSOYT",
       "url": "",
-      "avg_commission": 16.82,
+      "avg_commission": 17.08,
       "active_products_count": 38,
       "description": ""
     },
@@ -16726,8 +16694,8 @@
       "id": "24014",
       "name": "SMARTDEVIL",
       "url": "",
-      "avg_commission": 28.64,
-      "active_products_count": 250,
+      "avg_commission": 28.65,
+      "active_products_count": 251,
       "description": ""
     },
     {
@@ -16758,8 +16726,8 @@
       "id": "19567",
       "name": "SMIRLY",
       "url": "",
-      "avg_commission": 17.18,
-      "active_products_count": 73,
+      "avg_commission": 17.15,
+      "active_products_count": 74,
       "description": ""
     },
     {
@@ -16823,7 +16791,7 @@
       "name": "Snowdool",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 114,
+      "active_products_count": 116,
       "description": ""
     },
     {
@@ -16831,7 +16799,7 @@
       "name": "Soap & Glory",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 131,
+      "active_products_count": 132,
       "description": ""
     },
     {
@@ -16902,8 +16870,8 @@
       "id": "10488",
       "name": "Sondery",
       "url": "",
-      "avg_commission": 11.28,
-      "active_products_count": 43,
+      "avg_commission": 11.25,
+      "active_products_count": 44,
       "description": ""
     },
     {
@@ -16919,7 +16887,7 @@
       "name": "Soocas",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 37,
+      "active_products_count": 41,
       "description": ""
     },
     {
@@ -16958,8 +16926,8 @@
       "id": "15491",
       "name": "SOUNDPEATS",
       "url": "",
-      "avg_commission": 26.07,
-      "active_products_count": 28,
+      "avg_commission": 26.03,
+      "active_products_count": 29,
       "description": ""
     },
     {
@@ -17038,8 +17006,8 @@
       "id": "13603",
       "name": "Spmarkt",
       "url": "",
-      "avg_commission": 14.35,
-      "active_products_count": 55,
+      "avg_commission": 14.36,
+      "active_products_count": 56,
       "description": ""
     },
     {
@@ -17195,14 +17163,6 @@
       "description": ""
     },
     {
-      "id": "8821",
-      "name": "StepNGrip",
-      "url": "",
-      "avg_commission": 24,
-      "active_products_count": 1,
-      "description": ""
-    },
-    {
       "id": "13879",
       "name": "Steve Madden",
       "url": "",
@@ -17247,7 +17207,7 @@
       "name": "StorageWorks",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 550,
+      "active_products_count": 556,
       "description": ""
     },
     {
@@ -17543,7 +17503,7 @@
       "name": "SUNUV",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 65,
+      "active_products_count": 66,
       "description": ""
     },
     {
@@ -17623,7 +17583,7 @@
       "name": "SurviveX",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 19,
+      "active_products_count": 20,
       "description": ""
     },
     {
@@ -17867,6 +17827,14 @@
       "description": ""
     },
     {
+      "id": "37402",
+      "name": "Tank",
+      "url": "",
+      "avg_commission": 11.67,
+      "active_products_count": 6,
+      "description": ""
+    },
+    {
       "id": "24093",
       "name": "Tarbo",
       "url": "",
@@ -18015,7 +17983,7 @@
       "name": "Terez & Honor",
       "url": "",
       "avg_commission": 19.85,
-      "active_products_count": 65,
+      "active_products_count": 66,
       "description": ""
     },
     {
@@ -18086,8 +18054,8 @@
       "id": "26298",
       "name": "The Bean Coffee Company",
       "url": "",
-      "avg_commission": 10.1,
-      "active_products_count": 154,
+      "avg_commission": 10.09,
+      "active_products_count": 158,
       "description": ""
     },
     {
@@ -18246,8 +18214,8 @@
       "id": "23055",
       "name": "THERUN",
       "url": "",
-      "avg_commission": 21,
-      "active_products_count": 9,
+      "avg_commission": 18,
+      "active_products_count": 1,
       "description": ""
     },
     {
@@ -18295,7 +18263,7 @@
       "name": "TILSWALL",
       "url": "",
       "avg_commission": 13.78,
-      "active_products_count": 179,
+      "active_products_count": 180,
       "description": ""
     },
     {
@@ -18310,8 +18278,8 @@
       "id": "9158",
       "name": "Timekettle",
       "url": "",
-      "avg_commission": 12.13,
-      "active_products_count": 40,
+      "avg_commission": 12.14,
+      "active_products_count": 42,
       "description": ""
     },
     {
@@ -18631,7 +18599,7 @@
       "name": "Trtl Travel",
       "url": "",
       "avg_commission": 30,
-      "active_products_count": 11,
+      "active_products_count": 12,
       "description": ""
     },
     {
@@ -18670,8 +18638,8 @@
       "id": "16744",
       "name": "TrueSeaMoss",
       "url": "",
-      "avg_commission": 21.7,
-      "active_products_count": 122,
+      "avg_commission": 21.67,
+      "active_products_count": 121,
       "description": ""
     },
     {
@@ -18686,8 +18654,8 @@
       "id": "67",
       "name": "TruSkin",
       "url": "",
-      "avg_commission": 28.96,
-      "active_products_count": 48,
+      "avg_commission": 28.98,
+      "active_products_count": 49,
       "description": ""
     },
     {
@@ -18798,8 +18766,8 @@
       "id": "9452",
       "name": "Turelar",
       "url": "",
-      "avg_commission": 20.19,
-      "active_products_count": 16,
+      "avg_commission": 18.39,
+      "active_products_count": 23,
       "description": ""
     },
     {
@@ -18879,7 +18847,7 @@
       "name": "U'Artlines",
       "url": "",
       "avg_commission": 15.01,
-      "active_products_count": 493,
+      "active_products_count": 503,
       "description": ""
     },
     {
@@ -18991,7 +18959,7 @@
       "name": "Umami",
       "url": "",
       "avg_commission": 20.18,
-      "active_products_count": 109,
+      "active_products_count": 110,
       "description": ""
     },
     {
@@ -19022,8 +18990,8 @@
       "id": "37417",
       "name": "Uosogi",
       "url": "",
-      "avg_commission": 10,
-      "active_products_count": 2,
+      "avg_commission": 15,
+      "active_products_count": 1,
       "description": ""
     },
     {
@@ -19078,8 +19046,8 @@
       "id": "37077",
       "name": "Usmile",
       "url": "",
-      "avg_commission": 21.36,
-      "active_products_count": 11,
+      "avg_commission": 22.14,
+      "active_products_count": 14,
       "description": ""
     },
     {
@@ -19095,7 +19063,7 @@
       "name": "Uttermara",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 470,
+      "active_products_count": 495,
       "description": ""
     },
     {
@@ -19111,7 +19079,7 @@
       "name": "Valerion",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 49,
+      "active_products_count": 50,
       "description": ""
     },
     {
@@ -19327,7 +19295,7 @@
       "name": "Vergali",
       "url": "",
       "avg_commission": 25,
-      "active_products_count": 3,
+      "active_products_count": 4,
       "description": ""
     },
     {
@@ -19374,8 +19342,8 @@
       "id": "19335",
       "name": "VEWIOR",
       "url": "",
-      "avg_commission": 19.5,
-      "active_products_count": 4,
+      "avg_commission": 18.33,
+      "active_products_count": 3,
       "description": ""
     },
     {
@@ -19430,8 +19398,8 @@
       "id": "11549",
       "name": "VIEFIN",
       "url": "",
-      "avg_commission": 23.75,
-      "active_products_count": 8,
+      "avg_commission": 22.5,
+      "active_products_count": 12,
       "description": ""
     },
     {
@@ -19470,8 +19438,8 @@
       "id": "16087",
       "name": "VINSGUIR",
       "url": "",
-      "avg_commission": 15.2,
-      "active_products_count": 51,
+      "avg_commission": 15.19,
+      "active_products_count": 52,
       "description": ""
     },
     {
@@ -19591,7 +19559,7 @@
       "name": "Vofolen",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 1143,
+      "active_products_count": 1144,
       "description": ""
     },
     {
@@ -19750,8 +19718,8 @@
       "id": "13939",
       "name": "WAA",
       "url": "",
-      "avg_commission": 12.07,
-      "active_products_count": 29,
+      "avg_commission": 10,
+      "active_products_count": 30,
       "description": ""
     },
     {
@@ -19854,8 +19822,8 @@
       "id": "17053",
       "name": "Waterdrop",
       "url": "",
-      "avg_commission": 16.55,
-      "active_products_count": 228,
+      "avg_commission": 16.54,
+      "active_products_count": 230,
       "description": ""
     },
     {
@@ -19863,7 +19831,7 @@
       "name": "WATERFLY",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 91,
+      "active_products_count": 153,
       "description": ""
     },
     {
@@ -19871,7 +19839,7 @@
       "name": "WATERH",
       "url": "",
       "avg_commission": 12,
-      "active_products_count": 18,
+      "active_products_count": 21,
       "description": ""
     },
     {
@@ -19975,7 +19943,7 @@
       "name": "Wemore",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 313,
+      "active_products_count": 316,
       "description": ""
     },
     {
@@ -19983,7 +19951,7 @@
       "name": "WERFORU",
       "url": "",
       "avg_commission": 18,
-      "active_products_count": 5323,
+      "active_products_count": 4862,
       "description": ""
     },
     {
@@ -20087,7 +20055,7 @@
       "name": "WHOSE LAMP",
       "url": "",
       "avg_commission": 20,
-      "active_products_count": 63,
+      "active_products_count": 64,
       "description": ""
     },
     {
@@ -20211,11 +20179,19 @@
       "description": ""
     },
     {
+      "id": "12591",
+      "name": "Witty Crafty",
+      "url": "",
+      "avg_commission": 15,
+      "active_products_count": 2,
+      "description": ""
+    },
+    {
       "id": "23300",
       "name": "WLIVE",
       "url": "",
       "avg_commission": 7.01,
-      "active_products_count": 384,
+      "active_products_count": 389,
       "description": ""
     },
     {
@@ -20367,7 +20343,7 @@
       "name": "WYZE",
       "url": "",
       "avg_commission": 10,
-      "active_products_count": 51,
+      "active_products_count": 58,
       "description": ""
     },
     {
@@ -20430,8 +20406,8 @@
       "id": "14140",
       "name": "XTU Cam",
       "url": "",
-      "avg_commission": 20.12,
-      "active_products_count": 33,
+      "avg_commission": 20.06,
+      "active_products_count": 34,
       "description": ""
     },
     {
@@ -20478,7 +20454,7 @@
       "id": "37420",
       "name": "YABERCHA",
       "url": "",
-      "avg_commission": 10,
+      "avg_commission": 20,
       "active_products_count": 2,
       "description": ""
     },
@@ -20503,7 +20479,7 @@
       "name": "Yamaziot",
       "url": "",
       "avg_commission": 15,
-      "active_products_count": 512,
+      "active_products_count": 516,
       "description": ""
     },
     {
@@ -20555,6 +20531,14 @@
       "description": ""
     },
     {
+      "id": "37421",
+      "name": "Yerba No. 1",
+      "url": "",
+      "avg_commission": 10,
+      "active_products_count": 3,
+      "description": ""
+    },
+    {
       "id": "22722",
       "name": "YFFUSHI",
       "url": "",
@@ -20600,14 +20584,6 @@
       "url": "",
       "avg_commission": 10,
       "active_products_count": 10,
-      "description": ""
-    },
-    {
-      "id": "23132",
-      "name": "Yohood",
-      "url": "",
-      "avg_commission": 19,
-      "active_products_count": 4,
       "description": ""
     },
     {
@@ -20659,19 +20635,19 @@
       "description": ""
     },
     {
-      "id": "23496",
-      "name": "YRYM",
+      "id": "37434",
+      "name": "YPJKR",
       "url": "",
-      "avg_commission": 10,
-      "active_products_count": 1,
+      "avg_commission": 15,
+      "active_products_count": 2,
       "description": ""
     },
     {
       "id": "5668",
       "name": "YTD",
       "url": "",
-      "avg_commission": 19.25,
-      "active_products_count": 113,
+      "avg_commission": 19.35,
+      "active_products_count": 115,
       "description": ""
     },
     {
@@ -20750,7 +20726,7 @@
       "id": "13992",
       "name": "ZAFRO",
       "url": "",
-      "avg_commission": 13.2,
+      "avg_commission": 11.56,
       "active_products_count": 135,
       "description": ""
     },
@@ -20926,8 +20902,8 @@
       "id": "36770",
       "name": "Ziluce",
       "url": "",
-      "avg_commission": 20.18,
-      "active_products_count": 28,
+      "avg_commission": 20.17,
+      "active_products_count": 29,
       "description": ""
     },
     {
